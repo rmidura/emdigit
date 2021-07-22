@@ -1,0 +1,1587 @@
+Location_ID	Location_Name_Standardized	Location_Name	Geoname_ID	adminName1	Location_Lat	Location_Lng	Location_Latlng	country_code	country_name
+1	A Coruña	coruna;corunna;a coruña;corvigna;corugna	3119841	Galicia	43.37135	-8.396	43.37135,-8.396	ES	Spain
+2	Aalst	aelst;aelft;aalst	2803449	Flanders	50.78195	5.20915	50.78195,5.20915	BE	Belgium
+3	Abbeville	abbeville	3038789	Hauts-de-France	50.1	1.83333	50.1,1.83333	FR	France
+4	Abensberg	abensberg;abensperg	2959842	Bavaria	48.81684	11.8498	48.81684,11.8498	DE	Germany
+5	Abruzzo	abbruzzo;l abbruzzo;abruzzo;l'abbruzzo;abbruzo	3167220	Abruzzo	42.23304	13.98561	42.23304,13.98561	IT	Italy
+6	Achen	achen;aach;ach;aech	3038717	Grand Est	49.04529	7.18211	49.04529,7.18211	FR	France
+7	Acquapendente	acquapendente	3183516	Latium	42.74259	11.86827	42.74259,11.86827	IT	Italy
+8	Acqui Terme	acqui terme;acqui;acqua	3183490	Piedmont	44.67552	8.46934	44.67552,8.46934	IT	Italy
+9	Adenau	adenau;adenaw	2959489	Rheinland-Pfalz	50.38238	6.93291	50.38238,6.93291	DE	Germany
+10	Affenberg	affenberg;aftenberg	11696290	Upper Austria	48.4522	14.3608	48.4522,14.3608	AT	Austria
+11	Agen	agen	3038634	Nouvelle-Aquitaine	44.19991	0.62664	44.19991,0.62664	FR	France
+12	Aichstrut	aichstat;aichstrut	2958915	Baden-Württemberg	48.89951	9.64944	48.89951,9.64944	DE	Germany
+13	Aigle	aigle	2661834	Vaud	46.3181	6.96457	46.3181,6.96457	CH	Switzerland
+14	Aiguebelle	aiguebelle	3038507	Auvergne-Rhône-Alpes	45.54393	6.30381	45.54393,6.30381	FR	France
+15	Aigueperse	aigueperse	3038498	Auvergne-Rhône-Alpes	46.02255	3.20228	46.02255,3.20228	FR	France
+16	Ainay-le-Château	ainay-le-château;ainay le chasteau	3038419	Auvergne-Rhône-Alpes	46.71125	2.69238	46.71125,2.69238	FR	France
+17	Aire	aire	3038393	Hauts-de-France	50.63871	2.39876	50.63871,2.39876	FR	France
+18	Aix-en-Provence	aix en provence;aquapendente;aix	3038354	Provence-Alpes-Côte d'Azur	43.5283	5.44973	43.5283,5.44973	FR	France
+19	Alba	alba	3183364	Piedmont	44.6999	8.0347	44.6999,8.0347	IT	Italy
+20	Albania	albania	783754		41	20	41,20	AL	Albania
+21	Albarracín	barrasin;albarracin	3130679	Aragon	40.40818	-1.44375	40.40818,-1.44375	ES	Spain
+22	albecth	albecth							
+23	Albenga	arbenge;albenga	3183343	Liguria	44.04997	8.21829	44.04997,8.21829	IT	Italy
+24	Alburquerque	alboquerque;alburquerque;burquech;alburquerque castello	2522183	Extremadura	39.22076	-7.00234	39.22076,-7.00234	ES	Spain
+25	Alcalá Henares	alcala henares;alcalá henares;halcala de hennares;alcala;alcala de henares	3130616	Madrid	40.48205	-3.35996	40.48205,-3.35996	ES	Spain
+26	Alcalá la Real	alcala real;alcalá la real	2522160	Andalusia	37.4614	-3.92301	37.4614,-3.92301	ES	Spain
+27	Alcázar de San Juan	alcázar de san juan;alcacar consuegra	2522131	Castille-La Mancha	39.39011	-3.20827	39.39011,-3.20827	ES	Spain
+28	Aldea	aldea	2522073	Extremadura	39.28874	-6.31806	39.28874,-6.31806	ES	Spain
+29	Alençon	alençon;alencon;alanzon	3038230	Normandy	48.43476	0.09311	48.43476,0.09311	FR	France
+30	Alessandria	alexandria;alessandria	3183299	Piedmont	44.90924	8.61007	44.90924,8.61007	IT	Italy
+31	Alicante	alicante;alicantes	2521978	Valencia	38.34517	-0.48149	38.34517,-0.48149	ES	Spain
+32	Almagro	almagro	2521928	Castille-La Mancha	38.88941	-3.71131	38.88941,-3.71131	ES	Spain
+33	Almansa	almansa	2521923	Castille-La Mancha	38.86917	-1.09713	38.86917,-1.09713	ES	Spain
+34	Almería	almería;almeria	2521886	Andalusia	36.83814	-2.45974	36.83814,-2.45974	ES	Spain
+35	Alt-Kölln	colln an der spree;alt-kölln	7576815	Berlin	52.51486	13.40285	52.51486,13.40285	DE	Germany
+36	altdorf	altorf;altdorf;altord	2661780	Uri	46.88042	8.64441	46.88042,8.64441	CH	Switzerland
+37	Altena	altena	2957886	North Rhine-Westphalia	51.29472	7.67337	51.29472,7.67337	DE	Germany
+38	Altenahr	alden aer;altenahr	2957883	Rheinland-Pfalz	50.51694	6.99206	50.51694,6.99206	DE	Germany
+39	Altenburg	altemburg;altenburg	2957773	Thuringia	50.98763	12.43684	50.98763,12.43684	DE	Germany
+40	alva	alva							
+41	amberg	amberg	2956656	Bavaria	49.44287	11.86267	49.44287,11.86267	DE	Germany
+42	Ambert	embect;ambert	3037937	Auvergne-Rhône-Alpes	45.54944	3.74164	45.54944,3.74164	FR	France
+43	Amboise	amboise	3037902	Centre-Val de Loire	47.41249	0.98266	47.41249,0.98266	FR	France
+44	Amiens	amiens;amins;amyens	3037854	Hauts-de-France	49.9	2.3	49.9,2.3	FR	France
+45	Amsterdam	amsterdam;amstelredam	2759794	North Holland	52.37403	4.88969	52.37403,4.88969	NL	Netherlands
+46	Ancona	anchona;ancona;ancone	3183089	The Marches	43.5942	13.50337	43.5942,13.50337	IT	Italy
+47	Andernach	andernach	2956206	Rheinland-Pfalz	50.43109	7.40425	50.43109,7.40425	DE	Germany
+48	andria	andria	3183072	Apulia	41.23117	16.29797	41.23117,16.29797	IT	Italy
+49	Angers	angers;angiers	3037656	Pays de la Loire	47.47381	-0.54774	47.47381,-0.54774	FR	France
+50	Angerville	angerville	3037654	Île-de-France	48.31354	1.99935	48.31354,1.99935	FR	France
+51	Angoulême	angulesme;angoulesme;angolesme;angoulême	3037598	Nouvelle-Aquitaine	45.65	0.15	45.65,0.15	FR	France
+52	Anspach	anspach;onolsbach;onoltzbach;ansbach	2866280	Hesse	50.31667	8.5	50.31667,8.5	DE	Germany
+53	Antakya	antiochia;antakya	323779	Hatay	36.20655	36.15722	36.20655,36.15722	TR	Turkey
+54	Antibes	antibes;antibo;antis;antibe	3037456	Provence-Alpes-Côte d'Azur	43.56241	7.12777	43.56241,7.12777	FR	France
+55	Antwerp	antwarp;antorff;antwerp in brabant;anttorff;anversa en brabant;niderlandt;antwerpen;anthorff;fiandra;antdorff;antwerp in flanders;antvverpen;andtorff;antvverp;antwerp;anvers;anversa;anvers en brabant;antorff in brabant	2803138	Flanders	51.22047	4.40026	51.22047,4.40026	NL	Netherlands
+56	Aosta	osta;ostia;aosta;avosta	3182997	Aosta Valley	45.73764	7.31722	45.73764,7.31722	IT	Italy
+57	Aquileia	aquilea;aquileja;aquileia;adler	3182944	Tuscany	43.91838	10.51458	43.91838,10.51458	IT	Italy
+58	Aranda Duero	arana da veduero;aranda duero;aranda overo;aranda di duero	3129877	Castille and León	41.67041	-3.6892	41.67041,-3.6892	ES	Spain
+59	Arc-en-Barrois	arq en barrois;arc-en-barrois	3037229	Grand Est	47.94766	5.00807	47.94766,5.00807	FR	France
+60	Arce	arcq;arce	3182921	Latium	41.57787	13.58571	41.57787,13.58571	IT	Italy
+61	ardone	ardone							
+62	Argenton-sur-Creuse	argenton;argenton-sur-creuse	3037018	Centre-Val de Loire	46.58997	1.51981	46.58997,1.51981	FR	France
+63	Ariano	ariano	3182852	Veneto	44.94604	12.12448	44.94604,12.12448	IT	Italy
+64	Ariza	nariza;ariza;noriza;narizza;harizza;hariza	3123199	Aragon	41.3783	-1.97373	41.3783,-1.97373	ES	Spain
+65	Arles	arles	3036938	Provence-Alpes-Côte d'Azur	43.67681	4.63031	43.67681,4.63031	FR	France
+66	Arlon	arlon;arlun	2803073	Wallonia	49.68333	5.81667	49.68333,5.81667	BE	Belgium
+67	Arnheim	arnheim;arnhem	2759661	Gelderland	51.98	5.91111	51.98,5.91111	NL	Netherlands
+68	Arnsberg	arnsberg;arensperg;arnsperg	2955471	North Rhine-Westphalia	51.38333	8.08333	51.38333,8.08333	DE	Germany
+69	Arnstadt	arnstadt;arnstat	2955439	Thuringia	50.84048	10.95198	50.84048,10.95198	DE	Germany
+70	Arras	arras	3036784	Hauts-de-France	50.29301	2.78186	50.29301,2.78186	FR	France
+71	Ascheberg	ascheburg;aschenburg;aschenburgt;ascheberg	2955224	North Rhine-Westphalia	51.78333	7.61667	51.78333,7.61667	DE	Germany
+72	Aschersleben	aschersleben	2955168	Saxony-Anhalt	51.75742	11.46084	51.75742,11.46084	DE	Germany
+73	Assisi	assisi;san francesco d assisi;san francesco d'assisi;seez	3182722	Umbria	43.06671	12.62109	43.06671,12.62109	IT	Italy
+74	Asti	aste;asti	3182462	Piedmont	44.90595	8.09163	44.90595,8.09163	IT	Italy
+75	Astorga	campo a astorga;storga;storgo;astorga	3129231	Castille and León	42.45879	-6.05601	42.45879,-6.05601	ES	Spain
+76	Attendorn	attendorn;attendar	2954932	North Rhine-Westphalia	51.12645	7.90333	51.12645,7.90333	DE	Germany
+77	Augsburg	augsburg;auspurg;auspurgt;augspurgt;auxpurg;augspurge;auspurge;augspurg;augusta;augsburge	2954172	Bavaria	48.37154	10.89851	48.37154,10.89851	DE	Germany
+78	Aurice	aurick;aurice	3036021	Nouvelle-Aquitaine	43.81441	-0.6044	43.81441,-0.6044	FR	France
+79	aurillac	aurillac	3036016	Auvergne-Rhône-Alpes	44.9214	2.43732	44.9214,2.43732	FR	France
+80	aurone	aurone							
+81	Austria	oesterreich;austria	2782113		47.33333	13.33333	47.33333,13.33333	AT	Austria
+82	Autun	autun	3035882	Bourgogne-Franche-Comté	46.95104	4.29869	46.95104,4.29869	FR	France
+83	Aux-Aussat	aux-aussat;aux	3035847	Occitanie	43.43892	0.26335	43.43892,0.26335	FR	France
+84	Auxerre	auxerre;aurerre	2987876	Bourgogne-Franche-Comté	47.82092	3.53663	47.82092,3.53663	FR	France
+85	Auxonne	auxone;ausone;forest d auxonne;auxonne;forest d'auxonne	3035828	Bourgogne-Franche-Comté	47.19255	5.38726	47.19255,5.38726	FR	France
+86	Avignon	avegnone;avignon;avegnon;avignone	3035681	Provence-Alpes-Côte d'Azur	43.94834	4.80892	43.94834,4.80892	FR	France
+87	Ávila	alvila;ávila;avila	3129136	Castille and León	40.65724	-4.69951	40.65724,-4.69951	ES	Spain
+88	Aye	aye	2802842	Wallonia	50.22471	5.30064	50.22471,5.30064	BE	Belgium
+89	Bacharach	bacharach;bachgraacht	2953702	Rheinland-Pfalz	50.05725	7.76948	50.05725,7.76948	DE	Germany
+90	Bad Cannstatt	canstatt;cantstatt;bad cannstatt;canstat;cantstat	2953533	Baden-Württemberg	48.8048	9.2145	48.8048,9.2145	DE	Germany
+91	Bad Düben	bad düben;diiben	2953524	Saxony	51.59174	12.58492	51.59174,12.58492	DE	Germany
+92	Bad Gandersheim	gandescem;bad gandersheim	2953456	Lower Saxony	51.87167	10.02537	51.87167,10.02537	DE	Germany
+93	Bad Kreuznach	creuznach un franckental;creuznach;bad kreuznach;creuzenach	2953416	Rheinland-Pfalz	49.8414	7.86713	49.8414,7.86713	DE	Germany
+94	Bad Langensalza	bad langensalza;langenfalke;langensalke	2953413	Thuringia	51.10771	10.646	51.10771,10.646	DE	Germany
+95	Bad Ragaz	bad ragaz;bada	2661644	Saint Gallen	47.00601	9.50266	47.00601,9.50266	CH	Switzerland
+96	Bad Reichenhall	bad reichenhall;reichen halll;reichenhall	2953371	Bavaria	47.72947	12.87819	47.72947,12.87819	DE	Germany
+97	Bad Zurzach	bad zurzach;zurzach	2657891	Aargau	47.58764	8.29365	47.58764,8.29365	CH	Switzerland
+98	badajoz	badajoz	2521420	Extremadura	38.87789	-6.97061	38.87789,-6.97061	ES	Spain
+99	Baden	baden	2661646	Aargau	47.47333	8.30592	47.47333,8.30592	CH	Switzerland
+100	Baghdad	babilona;babilonia;baghdad	98182	Baghdad	33.34058	44.40088	33.34058,44.40088	IQ	Iraq
+101	Bagnoli	bagnoli	3182512	Campania	40.83103	15.07173	40.83103,15.07173	IT	Italy
+102	Baierbrunn	baylbrunn;baierbrunn	2953213	Bavaria	48.0203	11.48689	48.0203,11.48689	DE	Germany
+103	Bailleul	bailleul;baiereur	3035359	Hauts-de-France	50.73592	2.73594	50.73592,2.73594	FR	France
+104	Baiona	baiona in france;bajonne;baiana;baonne;baiona	3128462	Galicia	42.11667	-8.85	42.11667,-8.85	ES	Spain
+105	Balve	balve	2953003	North Rhine-Westphalia	51.3315	7.86424	51.3315,7.86424	DE	Germany
+106	Bamberg	bamberg;bambergt;banberga;bamberga	2952984	Bavaria	49.89873	10.90067	49.89873,10.90067	DE	Germany
+107	Bar-le-Duc	barleduc;bar le duc;bar-le-duc	3034911	Grand Est	48.77275	5.16108	48.77275,5.16108	FR	France
+108	Bar-sur-Aube	bar sur aulbe;bar sur aube;bar-sur-aube;bar an der aube	3034802	Grand Est	48.23315	4.7064	48.23315,4.7064	FR	France
+109	Bar-sur-Seine	bar-sur-seine;bar sur seine;bar sur seyne	3034800	Grand Est	48.11295	4.37656	48.11295,4.37656	FR	France
+110	barbarisa	barbariso;barbarisa							
+111	Barcelona	barcelonne;barzellona;barcellona;barcalona;barcelon;barzelona;barcelona;barselona	3128760	Catalonia	41.38879	2.15899	41.38879,2.15899	ES	Spain
+112	Bărcut	barrut;bărcut	685341	Braşov	45.99813	24.92103	45.99813,24.92103	RO	Romania
+113	Bari	bari;puglia	3182351	Apulia	41.12066	16.86982	41.12066,16.86982	IT	Italy
+114	barlaimont	barlaimont							
+115	Barletta	barletta	3182340	Apulia	41.31429	16.28165	41.31429,16.28165	IT	Italy
+116	barrauchen	barassin;barrauchen							
+117	Bart	bart	3034798	Bourgogne-Franche-Comté	47.48861	6.7709	47.48861,6.7709	FR	France
+118	Barth	barth	2952372	Mecklenburg-Vorpommern	54.36346	12.72491	54.36346,12.72491	DE	Germany
+119	Barwick	barwick	11593091	England	50.92268	-2.62517	50.92268,-2.62517	GB	United Kingdom
+120	Basel	basel;basle;basilea;basell;basel in schweitz	2661604	Basel-City	47.55839	7.57327	47.55839,7.57327	CH	Switzerland
+121	Basilicata	la basilicata;basilicata	3182306	Basilicate	40.5041	16.11396	40.5041,16.11396	IT	Italy
+122	Basilique Notre-Dame de Cléry-Saint-André	sainct cler;nostre dame clery;basilique notre-dame de cléry-saint-andré	6449189	Centre-Val de Loire	47.82111	1.75667	47.82111,1.75667	FR	France
+123	Basilique Saint-Mathurin	basilique saint mathurin;sainct mathurin	2978197	Pays de la Loire	47.41667	-0.31667	47.41667,-0.31667	FR	France
+124	Basra	balsare;basra	99532	Basra	30.50852	47.7804	30.50852,47.7804	IQ	Iraq
+125	Bassano del Grappa	basano;bassano del grappa	3182297	Veneto	45.76656	11.72739	45.76656,11.72739	IT	Italy
+126	Bassu	bassu	3034653	Grand Est	48.83175	4.69376	48.83175,4.69376	FR	France
+127	Basto (Santa Tecla)	tecla;basto (santa tecla)	8011118	Braga	41.38569	-8.04674	41.38569,-8.04674	PT	Portugal
+128	Bastogne	bastoigne;bastogne	2802583	Wallonia	50.00347	5.71844	50.00347,5.71844	BE	Belgium
+129	Batama	bapama;batama	2027038	Irkutsk Oblast	53.8724	101.6234	53.8724,101.6234	RU	Russia
+130	Batzen	batzen;bantzen	2952197	Bavaria	47.77164	10.26593	47.77164,10.26593	DE	Germany
+131	Baustert	beysser;beissern;baustert	2951887	Rheinland-Pfalz	49.978	6.38984	49.978,6.38984	DE	Germany
+132	Bautzen	bauzen;bautzen	2951881	Saxony	51.18035	14.43494	51.18035,14.43494	DE	Germany
+133	Bayeux	bayeulx;bayeux	3034483	Normandy	49.27732	-0.7039	49.27732,-0.7039	FR	France
+134	Bayonne	baione;bayonne;baionne	3034475	Nouvelle-Aquitaine	43.49257	-1.47624	43.49257,-1.47624	FR	France
+135	Bayreuth	bayreuth;bayreut;bareuth;bareyth	2951825	Bavaria	49.94782	11.57893	49.94782,11.57893	DE	Germany
+136	Beaufort	beffort;befort;beaufort	2960809	Echternach	49.83583	6.29167	49.83583,6.29167	LU	Luxembourg
+137	Beaumont	beaumont	3013525	Hauts-de-France	50.41359	2.96485	50.41359,2.96485	FR	France
+138	Beaune	beaune;beaulne	3034126	Bourgogne-Franche-Comté	47.02413	4.83887	47.02413,4.83887	FR	France
+139	Beauvais	beauvois;beauvais;beuvois	3034006	Hauts-de-France	49.43333	2.08333	49.43333,2.08333	FR	France
+140	Beauvoir-sur-Mer	beauvoir sur mer;beauvoir-sur-mer;beauvoir;beauvoix sur mer	3033968	Pays de la Loire	46.91274	-2.04156	46.91274,-2.04156	FR	France
+141	Bedburn	bedbur;bedburn	2656050	England	54.67929	-1.84508	54.67929,-1.84508	GB	United Kingdom
+142	Beelitz	beelitz;beliz	2951595	Brandenburg	52.23812	12.9714	52.23812,12.9714	DE	Germany
+143	Beeskow	beseckou;beeskow	2951528	Brandenburg	52.17291	14.24597	52.17291,14.24597	DE	Germany
+144	Beinheim	beiheim;beinheim	3033846	Grand Est	48.86255	8.08478	48.86255,8.08478	FR	France
+145	Belentsi	belletri;belentsi	733353	Lovech	43.11667	24.06667	43.11667,24.06667	BG	Bulgaria
+146	Belgrade	belgrad;belgrade;weisenburgt;belgrado	792680	Central Serbia	44.80401	20.46513	44.80401,20.46513	RS	Serbia
+147	Belitsk	belitsk;bellick	630295	Homyel’ Voblasc’	52.9395	30.4122	52.9395,30.4122	BY	Belarus
+148	Bellême	belesme;bellême	3033679	Normandy	48.37329	0.57005	48.37329,0.57005	FR	France
+149	Bellinzona	belinzona;belizan;bellinzona	2661567	Ticino	46.19278	9.01703	46.19278,9.01703	CH	Switzerland
+150	Bellpuig	belpuzi;belpuchi;belpucci;belpuci;bellpuig	3128336	Catalonia	41.62595	1.01144	41.62595,1.01144	ES	Spain
+151	Benthen	benthein;benthen	2950956	Mecklenburg-Vorpommern	53.51653	12.00909	53.51653,12.00909	DE	Germany
+152	Berck	berck	3033415	Hauts-de-France	50.4	1.6	50.4,1.6	FR	France
+153	Bergamo	bergamo;bergomo	3182164	Lombardy	45.69601	9.66721	45.69601,9.66721	IT	Italy
+154	Bergeler	bergeler;bergelen	2950646	North Rhine-Westphalia	51.82321	8.16878	51.82321,8.16878	DE	Germany
+155	Bergen	bergen in norw;bergen in hennegaw;bergen in nortwegen;bergen	3161732	Hordaland	60.39299	5.32415	60.39299,5.32415	NO	Norway
+156	Bergstedt	bergstedt;berga;bercstett;ergstett;bergstet;bergstett	2950265	Hamburg	53.67111	10.12694	53.67111,10.12694	DE	Germany
+157	Berlin	berlin;perlin;berling	2950159	Berlin	52.52437	13.41053	52.52437,13.41053	DE	Germany
+158	Bern	berne;berna;bern;bern in schweitz;bern in der schwaiz	2661552	Bern	46.94809	7.44744	46.94809,7.44744	CH	Switzerland
+159	Berwick-upon-Tweed	berwick;berwicke;berwick-upon-tweed	2655819	England	55.76536	-2.01186	55.76536,-2.01186	GB	United Kingdom
+160	Besançon	bezancon;bisanzone;besançon;besancon;besanzon;besanson;bisanz in burgund	3033123	Bourgogne-Franche-Comté	47.24878	6.01815	47.24878,6.01815	FR	France
+161	Bésignan	bésignan;besignano	3033118	Auvergne-Rhône-Alpes	44.31963	5.3263	44.31963,5.3263	FR	France
+162	Béthune	bethune;béthune;betune;bettunnes	3033002	Hauts-de-France	50.53333	2.63333	50.53333,2.63333	FR	France
+163	Béziers	besiers;béziers	3032833	Occitanie	43.34122	3.21402	43.34122,3.21402	FR	France
+164	Biarritz	biarritz;cabreton;cabretone	3032797	Nouvelle-Aquitaine	43.48012	-1.55558	43.48012,-1.55558	FR	France
+165	Biberach	biberarch;biberach	2949426	Baden-Württemberg	48.61008	8.27704	48.61008,8.27704	DE	Germany
+166	Bielefeld	bielefeld;bileuelt;bilevelt	2949186	North Rhine-Westphalia	52.03333	8.53333	52.03333,8.53333	DE	Germany
+167	Bilbao	la biscaya;die biscaye;bilbao	3128026	Basque Country	43.26271	-2.92528	43.26271,-2.92528	ES	Spain
+168	bing	bing							
+169	Biron	biron	3032562	Nouvelle-Aquitaine	44.63052	0.87157	44.63052,0.87157	FR	France
+170	Bistriţa	bistriţa;bistritz;bistriz	684657	Bistriţa-Năsăud	47.13316	24.50011	47.13316,24.50011	RO	Romania
+171	Bitburg	bihenburg;bitburg	2948184	Rheinland-Pfalz	49.96794	6.52734	49.96794,6.52734	DE	Germany
+172	Bitonto	bitonto	3181995	Apulia	41.11006	16.69086	41.11006,16.69086	IT	Italy
+173	Blankenburg	blanckenburg;blankenburg	2948071	Saxony-Anhalt	51.79025	10.95509	51.79025,10.95509	DE	Germany
+174	blawen	blawen							
+175	Blaye	bloya;blaye	2967108	Nouvelle-Aquitaine	45.13333	-0.66667	45.13333,-0.66667	FR	France
+176	Bléneau	bléneau;blesneau	3032278	Bourgogne-Franche-Comté	47.7	2.95	47.7,2.95	FR	France
+177	Blis-et-Born	blois clery;blis-et-born	3032220	Nouvelle-Aquitaine	45.18133	0.90636	45.18133,0.90636	FR	France
+178	Blois	blois;bles;bloys	3032213	Centre-Val de Loire	47.59432	1.32912	47.59432,1.32912	FR	France
+179	Böckelheim	boctelheim;böckelheim	11778178	Rheinland-Pfalz	49.80891	7.74425	49.80891,7.74425	DE	Germany
+180	Bogense	bogense;bodense	2623857	South Denmark	55.56691	10.08863	55.56691,10.08863	DK	Denmark
+181	Bohemia	bohemia;boehmen;boemia;boehem	3077916	Jihočeský	48.97447	14.47434	48.97447,14.47434	CZ	Czechia
+182	boladinct	boladinct;bolandinct							
+183	Bologna	bolonia;bologna;bollonia;bononia;bononiey	3181928	Emilia-Romagna	44.49381	11.33875	44.49381,11.33875	IT	Italy
+184	Bolzano	bolzano;bolzan;bosen;bolzen;bozen;botzen	3181913	Trentino-Alto Adige	46.49067	11.33982	46.49067,11.33982	IT	Italy
+185	Boppard	boppard;boppart	2946366	Rheinland-Pfalz	50.23085	7.58992	50.23085,7.58992	DE	Germany
+186	Borba	borba	8010500	Évora	38.81412	-7.46721	38.81412,-7.46721	PT	Portugal
+187	Bordeaux	bordeaulx;bordeaux;bourdeaux;bordeo;bordeauz	3031582	Nouvelle-Aquitaine	44.84044	-0.5805	44.84044,-0.5805	FR	France
+188	Borgloon	borgloon;borchloon	2801467	Flanders	50.80505	5.34366	50.80505,5.34366	BE	Belgium
+189	Born	born	2960739	Echternach	49.75928	6.51227	49.75928,6.51227	LU	Luxembourg
+190	Bøtta	boetta in der steyrmarcht;bootta in the steirmarckt;boetta	3227846	Rogaland	59.06139	5.60917	59.06139,5.60917	NO	Norway
+191	Bouère	bouhero;bouhere;bouère	3031307	Pays de la Loire	47.8628	-0.47681	47.8628,-0.47681	FR	France
+192	Boulogne-sur-Mer	boulogne;bologne sur la mer;boulogne-sur-mer;bologne;bouloigne	3031133	Hauts-de-France	50.71667	1.61667	50.71667,1.61667	FR	France
+193	Bourbon-l'Archambault	bourbon;bourbon-l'archambault	3031089	Auvergne-Rhône-Alpes	46.58666	3.05876	46.58666,3.05876	FR	France
+194	Bourges	borges;bourges;borgos;böurges	3031005	Centre-Val de Loire	47.08333	2.4	47.08333,2.4	FR	France
+195	Bourgogne	bourgonge;burgundy;la bourgonge;borgogna;bourgogne	3030967	Bourgogne	47.25	4.16667	47.25,4.16667	FR	France
+196	Bourmont	bourmont;bourmount	3030917	Grand Est	48.19334	5.58991	48.19334,5.58991	FR	France
+197	Bozzolo	bozzolo	3181633	Lombardy	45.10324	10.47988	45.10324,10.47988	IT	Italy
+198	Brandenburg	brandenburg	2945358	Brandenburg	52.41667	12.55	52.41667,12.55	DE	Germany
+199	Bratislava	presburg;pressburgt;bratislava;pressburg;preßburg	3060972	Bratislavský	48.14816	17.10674	48.14816,17.10674	SK	Slovakia
+200	Braunau am Inn	braun;brannau;braunau am inn	2781520	Upper Austria	48.25628	13.04343	48.25628,13.04343	AT	Austria
+201	Braunschweig	brounswick;braunsvvig;brannsvveig;braunschweig;burnum;brounswicke;braunsoveig;braunschwick;braunshweyg;braunsvveig;braunschweygt;brausvveig;braunschweigt;lanzu braunschweig;braunschweyck;brasunvveig;brownswick	2945024	Lower Saxony	52.26594	10.52673	52.26594,10.52673	DE	Germany
+202	Bréançon	breancon;bréançon	3030454	Île-de-France	49.14245	2.02182	49.14245,2.02182	FR	France
+203	Breckerfeld	brackerveld;breckerfeld	2944955	North Rhine-Westphalia	51.25926	7.46807	51.25926,7.46807	DE	Germany
+204	Breda	breda	2758401	North Brabant	51.58656	4.77596	51.58656,4.77596	NL	Netherlands
+205	breisach	breisach	2944800	Baden-Württemberg	48.03279	7.58294	48.03279,7.58294	DE	Germany
+206	Bremen	bremen	2944388	Bremen	53.07582	8.80717	53.07582,8.80717	DE	Germany
+207	Brescia	bressa;brescia	3181554	Lombardy	45.53558	10.21472	45.53558,10.21472	IT	Italy
+208	Bressanone	brizen;brisen;bressanone;brixen	6535887	Trentino-Alto Adige	46.70893	11.65638	46.70893,11.65638	IT	Italy
+209	Bressuire	bressuire	3034244	Nouvelle-Aquitaine	46.87238	-0.53619	46.87238,-0.53619	FR	France
+210	Brest	bresse;bres;brest	3030300	Brittany	48.39029	-4.48628	48.39029,-4.48628	FR	France
+211	Briançon	briancon;briançon	3030142	Provence-Alpes-Côte d'Azur	44.89978	6.64201	44.89978,6.64201	FR	France
+212	Brie	brye;brie	3030108	Nouvelle-Aquitaine	45.73804	0.24107	45.73804,0.24107	FR	France
+213	Brieuc	s. brieux;brieg;s brieux;brieuc	2981280	Brittany	48.51513	-2.76838	48.51513,-2.76838	FR	France
+214	Brigach	brisach;brigach	2944089	Baden-Württemberg	48.10804	8.29774	48.10804,8.29774	DE	Germany
+215	Brilon	brilon	2944079	North Rhine-Westphalia	51.39462	8.57146	51.39462,8.57146	DE	Germany
+216	Brindisi	brindisi	3181528	Apulia	40.63215	17.93607	40.63215,17.93607	IT	Italy
+217	Brion-sur-Ource	brion-sur-ource;briare sur laure	3030002	Bourgogne-Franche-Comté	47.9154	4.66148	47.9154,4.66148	FR	France
+218	Brioude	brioude	3029995	Auvergne-Rhône-Alpes	45.29419	3.38423	45.29419,3.38423	FR	France
+219	Bristol	bristovve;bristol	2654675	England	51.45523	-2.59665	51.45523,-2.59665	GB	United Kingdom
+220	Brno	brno;brinn in meherern;brinn in mähren	3078610	South Moravian	49.19522	16.60796	49.19522,16.60796	CZ	Czechia
+221	Bruges	bruges;brugge;bruck oder brugge	2800931	Flanders	51.20892	3.22424	51.20892,3.22424	BE	Belgium
+222	Brussels	bruselles;brusselles;brussel;bruseles;brussels;brasselles;la bruslee;brussels in flanders;bruessel ins niderlandt;bruxelles;bruxelles en brabant;brusseles;bruessel;bruxels	2800866	Brussels Capital	50.85045	4.34878	50.85045,4.34878	BE	Belgium
+223	Bryl	bryl	629626	Minsk	54.1102	26.5841	54.1102,26.5841	BY	Belarus
+224	Budapest	ofen in hungaria;ofen;olfe in schlesten;ofen pest;olfel;buda;budapest;ofen pesth;pest;pesth;pestl	3054643	Budapest	47.49835	19.04045	47.49835,19.04045	HU	Hungary
+225	buftershal	busterdale;buftershal;buftersthal							
+226	Bullion	bullion	3029572	Île-de-France	48.62285	1.99024	48.62285,1.99024	FR	France
+227	Buna	buna	3202996	Federation of B&H	43.24601	17.83973	43.24601,17.83973	BA	Bosnia and Herzegovina
+228	Burgas	burgaw;burgas	732770	Burgas	42.50606	27.46781	42.50606,27.46781	BG	Bulgaria
+229	Burgdorf, Hanover	borchworm;burgdorf, hanover	2941405	Lower Saxony	52.44628	10.0064	52.44628,10.0064	DE	Germany
+230	Burgos	burgo;burges;burgos;burgus	3127461	Castille and León	42.34106	-3.70184	42.34106,-3.70184	ES	Spain
+231	Burići	burići;burick	3269192	Pljevlja	43.51306	19.17333	43.51306,19.17333	ME	Montenegro
+232	Buzançais	Buzançais;buzancaiz	3029345	Centre-Val de Loire	46.88877	1.4195	46.88877,1.4195	FR	France
+233	Bytów	bittawen;bytow;bitaw;bytów	3101943	Pomerania	54.17057	17.49187	54.17057,17.49187	PL	Poland
+234	Cabo Finisterre	finibusterre;cap finis terra;finibus tere;finibus terre;capo finis terra;cape finisterre	3122425	Galicia	42.88009	-9.27309	42.88009,-9.27309	ES	Spain
+235	cadober	cadober;caluber							
+236	Caen	caen	3029241	Normandy	49.18585	-0.35912	49.18585,-0.35912	FR	France
+237	Caernarfon	caer navean;caernarfon	2654092	Wales	53.14126	-4.27016	53.14126,-4.27016	GB	United Kingdom
+238	Cahors	cohors en quercy;cahors;cahors en quercy	3029213	Occitanie	44.4491	1.43663	44.4491,1.43663	FR	France
+239	Calahorra	calahorra	3127065	La Rioja	42.30506	-1.96521	42.30506,-1.96521	ES	Spain
+240	Calais	cales;calais;gales	3029162	Hauts-de-France	50.95194	1.85635	50.95194,1.85635	FR	France
+241	calandt	calandt							
+242	Calatayud	calataiud;calatayud;calatiud	3127047	Aragon	41.35353	-1.64318	41.35353,-1.64318	ES	Spain
+243	calcher	calcher							
+244	Calgar	calgar;calcar	3126999	Cantabria	43.34838	-3.74177	43.34838,-3.74177	ES	Spain
+245	Cambrai	cambrai;cambray	3029030	Hauts-de-France	50.16667	3.23333	50.16667,3.23333	FR	France
+246	Cambridge	cambridge	2653941	England	52.2	0.11667	52.2,0.11667	GB	United Kingdom
+247	Camoca	camoza;camoca	3126861	Asturias	43.45952	-5.47935	43.45952,-5.47935	ES	Spain
+248	Camon	camen;camon	3029003	Hauts-de-France	49.88764	2.34486	49.88764,2.34486	FR	France
+249	Campen	campen	2940354	Lower Saxony	53.40037	7.05056	53.40037,7.05056	DE	Germany
+250	Canterbury	canterbury;cantelberg	2653877	England	51.27904	1.07992	51.27904,1.07992	GB	United Kingdom
+251	caprivizza	caprivizza							
+252	Capua	capua	3180601	Campania	41.10519	14.21269	41.10519,14.21269	IT	Italy
+253	Caravaca de la Cruz	la cruz;caravaca de la cruz;caravacca de la cruz;caravacca	6359520	Murcia	37.99116	-2.03481	37.99116,-2.03481	ES	Spain
+254	Caravonica	caravonica;caranonica	3180577	Liguria	43.99303	7.95805	43.99303,7.95805	IT	Italy
+255	Carcare	carcare	3180557	Liguria	44.35465	8.29039	44.35465,8.29039	IT	Italy
+256	Carcassonne	carcassona;carcassonne;carcassone	3028641	Occitanie	43.21351	2.35162	43.21351,2.35162	FR	France
+257	Carentan	carentan;querentan;querentant	3028610	Normandy	49.30312	-1.24806	49.30312,-1.24806	FR	France
+258	Carinthia	la carinthia;carinthia	10109446		46.53005	14.94999	46.53005,14.94999	SI	Slovenia
+259	Carmagnola	carmagnola	3180496	Piedmont	44.84963	7.72032	44.84963,7.72032	IT	Italy
+260	Carpentras	carpentras	3028542	Provence-Alpes-Côte d'Azur	44.05507	5.04813	44.05507,5.04813	FR	France
+261	Carrión de los Condes	carrión los condes;carriod los condes;carrio los condes;carrion los londes;carrion los condes;carrión de los condes;carrion de los condes	3126161	Castille and León	42.3413	-4.60071	42.3413,-4.60071	ES	Spain
+262	Cartagena	cartegena;cartagena	2520058	Murcia	37.60512	-0.98623	37.60512,-0.98623	ES	Spain
+263	caschau	caschau;cascha							
+264	Casier	caster;casier	3219079	Veneto	45.64229	12.29328	45.64229,12.29328	IT	Italy
+265	Castelán	castelaun;castelán	3125936	Galicia	42.91328	-8.87635	42.91328,-8.87635	ES	Spain
+266	Castellaro	castellaro	3179647	Liguria	43.86436	7.86881	43.86436,7.86881	IT	Italy
+267	Cavaillon	cavillon;cavaillon	3028134	Provence-Alpes-Côte d'Azur	43.83125	5.03586	43.83125,5.03586	FR	France
+268	Celje	cilla del tirolo;celje	3202781	Celje	46.23092	15.26044	46.23092,15.26044	SI	Slovenia
+269	Cerignola	cirignola;cerignola	3179075	Apulia	41.26523	15.89559	41.26523,15.89559	IT	Italy
+270	Cesena	cesena	3178957	Emilia-Romagna	44.1391	12.24315	44.1391,12.24315	IT	Italy
+271	Chalon	chalon;chaillon	3027490	Auvergne-Rhône-Alpes	45.44953	4.94135	45.44953,4.94135	FR	France
+272	Chalon-sur-Saône	chalon-sur-saône;chaalons sur saosne;ciallon	3027484	Bourgogne-Franche-Comté	46.78112	4.85372	46.78112,4.85372	FR	France
+273	Châlons-en-Champagne	chalons;châlons-en-champagne;chaalons;chialon	3027487	Grand Est	48.95393	4.36724	48.95393,4.36724	FR	France
+274	Chambéry	chambéry;ciamberi;ciambera;chamberi;chamboy;chambery;ciaberi	3027422	Auvergne-Rhône-Alpes	45.56465	5.92645	45.56465,5.92645	FR	France
+275	Champagne	sciamgraon;sciamponi;champagne;sciamgraone	3027258	Grand Est	49	4.5	49,4.5	FR	France
+276	Chantilly	chantilly	3026827	Hauts-de-France	49.19461	2.47124	49.19461,2.47124	FR	France
+277	Charlemont	charlemont	2653337	Northern Ireland	54.45	-6.68333	54.45,-6.68333	GB	United Kingdom
+278	Charre	charre	3026491	Nouvelle-Aquitaine	43.31667	-0.86789	43.31667,-0.86789	FR	France
+279	Chartres	chartrousse;chartres	3026467	Centre-Val de Loire	48.44685	1.48925	48.44685,1.48925	FR	France
+280	Chasteloy	chastelon;chasteloy	3026336	Auvergne-Rhône-Alpes	46.51981	2.70076	46.51981,2.70076	FR	France
+281	Chastre	chastre	3026330	Nouvelle-Aquitaine	45.32568	2.09587	45.32568,2.09587	FR	France
+282	Chateau	chateau	3179611	Piedmont	45.03263	6.77312	45.03263,6.77312	IT	Italy
+283	Château-Thierry	chasteau tierry;chasteau thierry;château-thierry	3026194	Hauts-de-France	49.05	3.4	49.05,3.4	FR	France
+284	Châteaudun	chasteaudun;châteaudun	3026285	Centre-Val de Loire	48.08333	1.33333	48.08333,1.33333	FR	France
+285	Châteauneuf-sur-Charente	chasteauneuf;châteauneuf-sur-charente	3026224	Nouvelle-Aquitaine	45.6	-0.05	45.6,-0.05	FR	France
+286	Châteauneuf-sur-Loire	chasteuneus;châteauneuf-sur-loire	3026222	Centre-Val de Loire	47.86575	2.21903	47.86575,2.21903	FR	France
+287	Châteauroux	chateauroux;chasteauroux;châteauroux	3026204	Centre-Val de Loire	46.81248	1.69362	46.81248,1.69362	FR	France
+288	Châtelet	chastelet;châtelet	2800448	Wallonia	50.40338	4.52826	50.40338,4.52826	BE	Belgium
+289	Châtellerault	chastelherault;châtellerault;chastelerault;chatelheraut	3026141	Nouvelle-Aquitaine	46.8	0.53333	46.8,0.53333	FR	France
+290	Châtillon-sur-Indre	châtillon-sur-indre;chastillon fur indre;chastillon sur indre	3026053	Centre-Val de Loire	46.98735	1.17218	46.98735,1.17218	FR	France
+291	Châtillon-sur-Loire	chastillon sur loing;châtillon-sur-loire;chastillon	3026052	Centre-Val de Loire	47.59114	2.75209	47.59114,2.75209	FR	France
+292	Châtillon-sur-Seine	chastillon sur seine;chastillon sur sesne;châtillon-sur-seine;chastillon sur seyne	3026046	Bourgogne-Franche-Comté	47.85851	4.57375	47.85851,4.57375	FR	France
+293	Chaville	chaville	3025715	Île-de-France	48.80565	2.18864	48.80565,2.18864	FR	France
+294	Cheb	egra;cheb	3077835	Karlovarský kraj	50.07963	12.37392	50.07963,12.37392	CZ	Czechia
+295	Chemnitz	chemnitz;chemniz;kemnitz	2940132	Saxony	50.8357	12.92922	50.8357,12.92922	DE	Germany
+296	Chenoz	chenoz;cheniz	8977297	Aosta Valley	45.76407	6.99282	45.76407,6.99282	IT	Italy
+297	Cherbourg-Octeville	cherbourg;cherbourg-octeville	3025466	Normandy	49.63984	-1.61636	49.63984,-1.61636	FR	France
+298	Chevreuse	chevreuse;cheureuse	3025294	Île-de-France	48.70662	2.03329	48.70662,2.03329	FR	France
+299	Chiavenna	chiorveya;chiavena;chiavenna	3164260	Lombardy	46.33069	9.48114	46.33069,9.48114	IT	Italy
+300	Chibiy	chimij;chibiy	866277	Krasnodarskiy	44.68723	38.98082	44.68723,38.98082	RU	Russia
+301	Chieti	chieti	3178796	Abruzzo	42.34827	14.16494	42.34827,14.16494	IT	Italy
+302	Chincolla	chincilla;chincolla	2519482	Andalusia	38.16667	-2.9	38.16667,-2.9	ES	Spain
+303	Chinon	chinon en touraine;chinon	3025132	Centre-Val de Loire	47.16701	0.24284	47.16701,0.24284	FR	France
+304	Chios	chios;chiozza	259973	North Aegean	38.36875	26.13718	38.36875,26.13718	GR	Greece
+305	Chur	chur in schweytz;khur in switzerland;khur;chur;coiro;coira;grisons;chur in graubünden	2661169	Grisons	46.84986	9.53287	46.84986,9.53287	CH	Switzerland
+306	Ciboure	ciboure;siburg	3024979	Nouvelle-Aquitaine	43.38287	-1.676	43.38287,-1.676	FR	France
+307	Ciudad Real	ciudad real;ziuda real	2519402	Castille-La Mancha	38.98626	-3.92907	38.98626,-3.92907	ES	Spain
+308	Ciudad Rodrigo	ciudad rodrigo;ciudad roderigo	3124963	Castille and León	40.6	-6.53333	40.6,-6.53333	ES	Spain
+309	Civita Castellana	civita castellana	3178595	Latium	42.29304	12.40885	42.29304,12.40885	IT	Italy
+310	Civitavecchia	civita vecchia del latio;civita vecchia;civitavecchia	3178587	Latium	42.09325	11.79674	42.09325,11.79674	IT	Italy
+311	Clauen	claven;clauen	2940011	Lower Saxony	52.2484	10.02571	52.2484,10.02571	DE	Germany
+312	Claye-Souilly	claye-souilly;claye	3024701	Île-de-France	48.94492	2.68566	48.94492,2.68566	FR	France
+313	Clermont	clermont en avvergne;clermont;clermont nell auvergne;clermont in auvergne;clemont	3024643	Hauts-de-France	49.38333	2.4	49.38333,2.4	FR	France
+314	Clermont-Ferrand	clermont ferrande;claramonte	3024635	Auvergne-Rhône-Alpes	45.77966	3.08628	45.77966,3.08628	FR	France
+315	Cleve	cleve;kleve;cleves;kleves;clev	2939981	North Rhine-Westphalia	52.07905	8.29972	52.07905,8.29972	DE	Germany
+316	Coburg	koburg;coburg;roburg	2939951	Bavaria	50.25937	10.96384	50.25937,10.96384	DE	Germany
+317	Cockermouth	cotermouth;cockermouth	2652676	England	54.66209	-3.36086	54.66209,-3.36086	GB	United Kingdom
+318	Coedely	coesuelt;coedely	2652649	Wales	51.56189	-3.4163	51.56189,-3.4163	GB	United Kingdom
+319	Coevorden	coevorden;coesvoerden	2757937	Drenthe	52.66103	6.74046	52.66103,6.74046	NL	Netherlands
+320	Cognac	coignac en xainctonge;cognac	3024440	Nouvelle-Aquitaine	45.69583	-0.32916	45.69583,-0.32916	FR	France
+321	Coles	colms;coles	3124828	Galicia	42.4	-7.83333	42.4,-7.83333	ES	Spain
+322	Colmar	colmar	3024297	Grand Est	48.08078	7.35584	48.08078,7.35584	FR	France
+323	Cologne	coeln;koln;kolen;colen;colln;colonia agrippina;coln;colonia;coelen;coellen;cologne;coeln an rein;coelln;colln dem rhein;cölln;cöll am rhein;cölln im rhein;cölln am rhein	2886242	North Rhine-Westphalia	50.93333	6.95	50.93333,6.95	DE	Germany
+324	Como	como;com	3178229	Lombardy	45.80819	9.0832	45.80819,9.0832	IT	Italy
+325	comora	comora							
+326	Compiègne	compiegne;compienge	3024066	Hauts-de-France	49.41794	2.82606	49.41794,2.82606	FR	France
+327	Cond	cond	2939883	Rheinland-Pfalz	50.08333	7.16667	50.08333,7.16667	DE	Germany
+328	Condé-sur-Noireau	conde fa noireau;fa noireau;condé-sur-noireau	3023953	Normandy	48.84881	-0.55214	48.84881,-0.55214	FR	France
+329	Confolens	confolens;confollant;consolens	3023919	Nouvelle-Aquitaine	46.01363	0.67231	46.01363,0.67231	FR	France
+330	Consolana	consoulant;consolana	8974498	Veneto	45.6927	11.25408	45.6927,11.25408	IT	Italy
+331	Consuegra	consuegra;cazar consuegra	2519277	Castille-La Mancha	39.46246	-3.608	39.46246,-3.608	ES	Spain
+332	Copenhagen	koppenhaugen;copenhagen in denemarck;copenhagen;coeveroden groningen;koppenhagen in dennemarcten;koppenhagen	2618425	Capital Region	55.67594	12.56553	55.67594,12.56553	DK	Denmark
+333	Coppenbrügge	kopenbrug;coppenbrügge	2939862	Lower Saxony	52.11852	9.5487	52.11852,9.5487	DE	Germany
+334	Corbeilles	corbeilles;corbeil;corbueil	6434567	Centre-Val de Loire	48.07222	2.54917	48.07222,2.54917	FR	France
+335	Cordova	córdoba;cordoba;cordove;cordua;cordoua;cordova	2519240	Andalusia	37.89155	-4.77275	37.89155,-4.77275	ES	Spain
+336	Correggio	coreggio;covezzo;corezzo;colezzo	3178019	Emilia-Romagna	44.76737	10.78345	44.76737,10.78345	IT	Italy
+337	Cosenza	coffenza;cosenza;cossenza	2524907	Calabria	39.2989	16.25307	39.2989,16.25307	IT	Italy
+338	Cosne-Cours-sur-Loire	cosne sur loyre;cosne-cours-sur-loire;cosne en bourbonnois	3023476	Bourgogne-Franche-Comté	47.41101	2.92528	47.41101,2.92528	FR	France
+339	Costeni	costeni;costens	680584	Prahova	45.29907	26.02055	45.29907,26.02055	RO	Romania
+340	Cottbus	cottbus;cotbus;kotben	2939811	Brandenburg	51.75769	14.32888	51.75769,14.32888	DE	Germany
+341	Coulon	coulon	3023238	Nouvelle-Aquitaine	46.32328	-0.58561	46.32328,-0.58561	FR	France
+342	Crailsheim	crailsheim;kreilsheim	2939797	Baden-Württemberg	49.13444	10.07193	49.13444,10.07193	DE	Germany
+343	Creil	creil	3022610	Hauts-de-France	49.25672	2.48477	49.25672,2.48477	FR	France
+344	Crema	crema	3177841	Lombardy	45.36264	9.68176	45.36264,9.68176	IT	Italy
+345	Cremona	cremona	3177838	Lombardy	45.13325	10.02129	45.13325,10.02129	IT	Italy
+346	Crépy-en-Valois	crespy en valois;crépy-en-valois	3022569	Hauts-de-France	49.23359	2.88807	49.23359,2.88807	FR	France
+347	Crespy-le-Neuf	crespy;crespy-le-neuf	3022557	Grand Est	48.39682	4.59549	48.39682,4.59549	FR	France
+348	Creuzburg	creuzperg;creuzburg	2939754	Thuringia	51.05288	10.2475	51.05288,10.2475	DE	Germany
+349	Crèvecœur	crèvecœur;creuecueur;creuceur;creuecoeur	3022497	Hauts-de-France	49.58333	2.5	49.58333,2.5	FR	France
+350	Croatia	croatia;croatien	3202326		45.16667	15.5	45.16667,15.5	HR	Croatia
+351	Cuba	cuba	3562993		21.93384	-78.75425	21.93384,-78.75425	CU	Cuba
+352	Cuenca	cuencha;cuenca;conca	3124132	Castille-La Mancha	40.06667	-2.13333	40.06667,-2.13333	ES	Spain
+353	Cunio	cuni in piemont;cunio;cuneo;cune in piemont;cuni in piedmont;cune;cuni	8963324	Liguria	44.25515	8.37484	44.25515,8.37484	IT	Italy
+354	Dalmatia	dalmatia;dalmazia	3202210		43	17	43,17	HR	Croatia
+355	Dammartin-en-Goële	dampmartin en goelle	3021848	Île-de-France	49.05423	2.67777	49.05423,2.67777	FR	France
+356	Dannberg	dannaberg;dannberg	2939002	Bavaria	49.64746	10.87166	49.64746,10.87166	DE	Germany
+357	Darmstadt	dermstedt;darmstedt;darmstadt;darmstat;dermstadt in siebenbuergen	2938913	Hesse	49.87167	8.65027	49.87167,8.65027	DE	Germany
+358	Daroca	darocea;daroca	3123969	Aragon	41.11475	-1.41492	41.11475,-1.41492	ES	Spain
+359	Darp	darp;derp	2757831	Drenthe	52.775	6.20417	52.775,6.20417	NL	Netherlands
+360	Daugavpils	daugavpils;dragapuse	460413	Daugavpils municipality	55.88333	26.53333	55.88333,26.53333	LV	Latvia
+361	Dauphiné	delfine;delphinato;dauphiné;delfinato	3021686	Auvergne-Rhône-Alpes	45	5.25	45,5.25	FR	France
+362	Dax	daqs;dax	3021670	Nouvelle-Aquitaine	43.71032	-1.05366	43.71032,-1.05366	FR	France
+363	Dendermonde	dendermunde;dendermonde	2799645	Flanders	51.02869	4.10106	51.02869,4.10106	BE	Belgium
+364	Denier	desier;denier	3021590	Hauts-de-France	50.2882	2.44382	50.2882,2.44382	FR	France
+365	Denmark	denmarcht;danimarca;daennmarct;denmark;juedland;daennemarct;juedtlandt;dennmarcht	2623032		56	10	56,10	DK	Denmark
+366	Denzlingen	denzlingen;denctlingen	2938190	Baden-Württemberg	48.06667	7.88333	48.06667,7.88333	DE	Germany
+367	Deschenbühlloh	deschen;deschenbühlloh;dessen;desan;dessan	2937973	Bavaria	49.66611	12.03336	49.66611,12.03336	DE	Germany
+368	Dettingen	dettingen	2937901	Baden-Württemberg	48.43666	8.93463	48.43666,8.93463	DE	Germany
+369	Devene	devent;devene	732297	Vratsa	43.41667	23.61667	43.41667,23.61667	BG	Bulgaria
+370	Deventer	deventer	2756987	Overijssel	52.255	6.16389	52.255,6.16389	NL	Netherlands
+371	Dieppe	dieppe;diepe	3021411	Normandy	49.9216	1.07772	49.9216,1.07772	FR	France
+372	Diest	diest	2799397	Flanders	50.98923	5.05062	50.98923,5.05062	BE	Belgium
+373	Dietenhofen	dietenhofen;dietenhouen	2937160	Bavaria	49.39997	10.68975	49.39997,10.68975	DE	Germany
+374	Dijon	digiun;dyon;digun borgogna;dion;dijon;diion;dyion	3021372	Bourgogne-Franche-Comté	47.31667	5.01667	47.31667,5.01667	FR	France
+375	Diksmuide	diksmuide;dixmunde	2799369	Flanders	51.03248	2.86384	51.03248,2.86384	BE	Belgium
+376	Dillenburg	didenburgt;dillenberg am westwald;dillenburg;dullenberg am westwald;dillenberge at westwald	2936985	Hesse	50.74114	8.28699	50.74114,8.28699	DE	Germany
+377	Dillingen	dilingen;dillingen	2936977	Saarland	49.35557	6.72781	49.35557,6.72781	DE	Germany
+378	Dinan	dinan	3021356	Brittany	48.45551	-2.05019	48.45551,-2.05019	FR	France
+379	Dinant	dinant	2799357	Wallonia	50.25807	4.91166	50.25807,4.91166	BE	Belgium
+380	Dinkelsbühl	dinckelspuhel;dinkelspil;dinctelspuhel;dinkelspit;dinkelsbühl	2936886	Bavaria	49.06942	10.31985	49.06942,10.31985	DE	Germany
+381	Dithmarschen	diermarschen;diermartschen;dithmarschen;dietmarschen;dietmartschen	2936765	Schleswig-Holstein	54.11671	9.02549	54.11671,9.02549	DE	Germany
+382	Dittrich	dietrich;dittrich	2936709	Saxony	50.85307	12.5072	50.85307,12.5072	DE	Germany
+383	Divnopol'ye	dien colmar;divnopol'ye	566156	Orenburg Oblast	51.18954	54.50916	51.18954,54.50916	RU	Russia
+384	Doetinchem	doetinchem;dottickem	2756767	Gelderland	51.965	6.28889	51.965,6.28889	NL	Netherlands
+385	Dokkum	dockum;dokkum	2756759	Friesland	53.32224	5.99697	53.32224,5.99697	NL	Netherlands
+386	Dole	dola di borgogna;dolu;dola;dole	3021263	Bourgogne-Franche-Comté	47.09225	5.48966	47.09225,5.48966	FR	France
+387	Domo	domo	3177543	Latium	42.658	13.23865	42.658,13.23865	IT	Italy
+388	Donaustauf	donastauff	2936259	Bavaria	49.03258	12.20459	49.03258,12.20459	DE	Germany
+389	Donauwörth	dunawert;donnevvert;donauwörth;donevvert	2936253	Bavaria	48.71804	10.7793	48.71804,10.7793	DE	Germany
+390	Dordrecht	dordrecht;dorrecht;dortrecht in holandt;dortrechts	2756669	South Holland	51.81	4.67361	51.81,4.67361	NL	Netherlands
+391	Dories	doriens;dories	262994	Crete	35.286	25.67657	35.286,25.67657	GR	Greece
+392	Dormans	dormans	3021034	Grand Est	49.07392	3.63819	49.07392,3.63819	FR	France
+393	Dorn	dorn	2759706	Gelderland	52.21	5.96944	52.21,5.96944	NL	Netherlands
+394	Dörnten	doerften;dörnten	2935637	Lower Saxony	51.97505	10.4001	51.97505,10.4001	DE	Germany
+395	Dorsten	dorsten	2935530	North Rhine-Westphalia	51.66166	6.96514	51.66166,6.96514	DE	Germany
+396	Dortmund	dormund;dormundt;dordmundt;dortumuda;dortmunda;dortmundt;dortmuda;dortmund;dortmunde	2935517	North Rhine-Westphalia	51.51494	7.466	51.51494,7.466	DE	Germany
+397	doste	doste							
+398	Dover	douvres;douer;dovay;dovar;dover	2651048	England	51.12598	1.31257	51.12598,1.31257	GB	United Kingdom
+399	Dresden	dresen;dresden;dressden;draesen;dreßden;drezden	2935022	Saxony	51.05089	13.73832	51.05089,13.73832	DE	Germany
+400	Dreux	dreux	3020810	Centre-Val de Loire	48.73333	1.36667	48.73333,1.36667	FR	France
+401	Driessen	driessen	6544792	Limburg	51.31583	5.99722	51.31583,5.99722	NL	Netherlands
+402	Drimmelen	drimmelen;drimborn	2756569	North Brabant	51.70667	4.80417	51.70667,4.80417	NL	Netherlands
+403	Drolshagen	droelshagen;drolshagen	2934886	North Rhine-Westphalia	51.02358	7.77355	51.02358,7.77355	DE	Germany
+404	Dudenrode	dudenrode;dudenarde	2934732	Hesse	51.25446	9.87066	51.25446,9.87066	DE	Germany
+405	Duderstadt	duderstadt;duderstat;dudersao	2934728	Lower Saxony	51.51312	10.25951	51.51312,10.25951	DE	Germany
+406	Duisburg	dunzburg;duisburg;duysburg;dunsburg	2934691	North Rhine-Westphalia	51.43247	6.76516	51.43247,6.76516	DE	Germany
+407	Dun-sur-Auron	dun-sur-auron;dun le roy	3020678	Centre-Val de Loire	46.8849	2.57345	46.8849,2.57345	FR	France
+408	Dung	dung	3020691	Bourgogne-Franche-Comté	47.50299	6.75223	47.50299,6.75223	FR	France
+409	Dunkirk	dunkerche;dunkirk;dunkerque;dünkirchen;doncherhen	3020686	Hauts-de-France	51.03297	2.377	51.03297,2.377	FR	France
+410	Düren	düren;duren	2934486	North Rhine-Westphalia	50.80434	6.49299	50.80434,6.49299	DE	Germany
+411	durlach	durlach							
+412	Düsseldorf	dusseldorp;dusseldorf;duesseldorf	2934246	North Rhine-Westphalia	51.22172	6.77616	51.22172,6.77616	DE	Germany
+413	Düsseldorf-Gerresheim	düsseldorf-gerresheim;gerresheim	2920958	North Rhine-Westphalia	51.23333	6.86667	51.23333,6.86667	DE	Germany
+414	Edirne	edirne;andrinopoli;adrianopoli	747712	Edirne	41.67719	26.55597	41.67719,26.55597	TR	Turkey
+415	Eger	eger	721239	Heves	47.90265	20.37329	47.90265,20.37329	HU	Hungary
+416	Eichstätt	eystet;eichstätt;eystett;eychstett	2932069	Bavaria	48.88854	11.19675	48.88854,11.19675	DE	Germany
+417	Eichwege	eichwege;eischwege	2932038	Brandenburg	51.60395	14.61478	51.60395,14.61478	DE	Germany
+418	Eilsleben	eilsleben;eisleben	2931838	Saxony-Anhalt	52.14708	11.21035	52.14708,11.21035	DE	Germany
+419	Einbeck	einbeck;eimbeke;eymbeke;eimbecke;eimbect;eimbeck;enmbese;enmbeke	2931804	Lower Saxony	51.82018	9.86961	51.82018,9.86961	DE	Germany
+420	Eisenach	eysenach;eisenach;isenaten;isenaken	2931574	Thuringia	50.9807	10.31522	50.9807,10.31522	DE	Germany
+421	Eißel	eissel;eißel	2931398	Lower Saxony	52.97881	9.01387	52.97881,9.01387	DE	Germany
+422	Eksjö	eksjo;eksjö;ekesioe	2716437	Jönköping	57.66643	14.97205	57.66643,14.97205	SE	Sweden
+423	Elexalde	gorliz;elexalde	3121286	Basque Country	43.4149	-2.93678	43.4149,-2.93678	ES	Spain
+424	Ellwangen	eiwangen;ellwangen	2930889	Baden-Württemberg	48.96164	10.13173	48.96164,10.13173	DE	Germany
+425	Elvas	elvas	8010574	Portalegre	38.89868	-7.22426	38.89868,-7.22426	PT	Portugal
+426	Embrach	embrach;embrich	2660913	Zurich	47.50561	8.59406	47.50561,8.59406	CH	Switzerland
+427	Embrici	embrici;embrick	8981657	Emilia-Romagna	44.83992	9.45628	44.83992,9.45628	IT	Italy
+428	Embrun	ambrun;embrun	3020251	Provence-Alpes-Côte d'Azur	44.56387	6.49526	44.56387,6.49526	FR	France
+429	Emden	embden;emden;embden in ostfrieslandt;embden sun ostriesflandt;embten	2930596	Lower Saxony	53.36745	7.20778	53.36745,7.20778	DE	Germany
+430	Emilia-Romagna	romagna;romagne;la romagna;romania;emilia-romagna	3169068	Emilia-Romagna	44.5	12.25	44.5,12.25	IT	Italy
+431	Emmerich	emmerich;emerich;emrich	2930509	North Rhine-Westphalia	51.83933	6.24792	51.83933,6.24792	DE	Germany
+432	Engen	engen;eneten	2930201	Baden-Württemberg	47.85534	8.77342	47.85534,8.77342	DE	Germany
+433	Enghien	enghien	2798747	Wallonia	50.68373	4.03284	50.68373,4.03284	BE	Belgium
+434	Ennerich	entbrich;ennerich	2930040	Hesse	50.3937	8.12762	50.3937,8.12762	DE	Germany
+435	Ensisheim	ensisheim;ensischein	3020152	Grand Est	47.86584	7.35052	47.86584,7.35052	FR	France
+436	enudhouen	enudhouen							
+437	Eppingen	eppingen	2929831	Baden-Württemberg	49.13645	8.91229	49.13645,8.91229	DE	Germany
+438	Erfurt	erdfurd;erdtfurt;erffurt;erfurt;erdefurt;erfut;erfurdt;erfurth	2929670	Thuringia	50.9787	11.03283	50.9787,11.03283	DE	Germany
+439	erverfelt	erverveld;erverfelt							
+440	Escaladei	escaladey;escaladei	10941887	Catalonia	41.24811	0.81083	41.24811,0.81083	ES	Spain
+441	Essen	essen;esens	2928810	North Rhine-Westphalia	51.45657	7.01228	51.45657,7.01228	DE	Germany
+442	Essing	essing;esling	2928764	Bavaria	48.93467	11.78972	48.93467,11.78972	DE	Germany
+443	Esslingen am Neckar	eslingen;esslingen am neckar	2928751	Baden-Württemberg	48.73961	9.30473	48.73961,9.30473	DE	Germany
+444	Estampes	estampes	3019575	Occitanie	43.39424	0.27548	43.39424,0.27548	FR	France
+445	Este	este	3177337	Veneto	45.22338	11.66379	45.22338,11.66379	IT	Italy
+446	Esternay	espernay;esternay	3019549	Grand Est	48.73232	3.56159	48.73232,3.56159	FR	France
+447	Evora	hevoza;evora;evoza	2268406	Évora	38.56667	-7.9	38.56667,-7.9	PT	Portugal
+448	Faenza	faenza	3177300	Emilia-Romagna	44.29007	11.87948	44.29007,11.87948	IT	Italy
+449	fagian	fagian							
+450	Falaise	falaise	3019113	Normandy	48.89217	-0.19527	48.89217,-0.19527	FR	France
+451	falstern	falstern							
+452	Falun	falun;fahlum	2715459	Dalarna	60.60357	15.62597	60.60357,15.62597	SE	Sweden
+453	Fano	faro;favo;fano	3177219	The Marches	43.84052	13.01665	43.84052,13.01665	IT	Italy
+454	Fehmarn	femeren;fehmarn	8051091	Schleswig-Holstein	54.4378	11.19352	54.4378,11.19352	DE	Germany
+455	Fehrbellin	fehrbellin	2927564	Brandenburg	52.8135	12.7644	52.8135,12.7644	DE	Germany
+456	Feldkirch	feldkirch	2779674	Vorarlberg	47.23306	9.6	47.23306,9.6	AT	Austria
+457	Ferden	ferden	2660799	Valais	46.39359	7.75921	46.39359,7.75921	CH	Switzerland
+458	Ferentino	ferentino	3177102	Latium	41.69119	13.2562	41.69119,13.2562	IT	Italy
+459	ferling	ferling							
+460	Fermignano	fermignano	3177100	The Marches	43.69311	12.65437	43.69311,12.65437	IT	Italy
+461	Ferrara	ferrar;ferraria;ferrare;ferrara;ferzar;ferrary	3177090	Emilia-Romagna	44.83804	11.62057	44.83804,11.62057	IT	Italy
+462	Finale	finale;final	2524750	Sicily	38.01891	14.16151	38.01891,14.16151	IT	Italy
+463	Finale Ligure	finale liguria;final liguria;finale ligure	3176982	Liguria	44.16952	8.3436	44.16952,8.3436	IT	Italy
+464	Finland	fendlaw;fenlandt;fendlandt;finland	660013		64	26	64,26	FI	Finland
+465	Flatten	flatten	11915581	Grand Est	49.42625	6.51227	49.42625,6.51227	FR	France
+466	Florence	firenza;nontiata di fiorenza;firenze;fiorenze;fiorenza;florence;florenza;florentz;florencyey;florenz	3176959	Tuscany	43.77925	11.24626	43.77925,11.24626	IT	Italy
+467	Foligno	foligno;fuligno	3176854	Umbria	42.95488	12.70268	42.95488,12.70268	IT	Italy
+468	Fondi	fondi	3176843	Latium	41.35787	13.42718	41.35787,13.42718	IT	Italy
+469	Fontainebleau	fotainebleau;fontableuu;fontainebelleau;fountaine bleau;fontainebleau;fontanebleo;fontaine belleu	3018074	Île-de-France	48.4	2.7	48.4,2.7	FR	France
+470	Fontenay-le-Comte	fontenay;fontenay le conte;fontenay-le-comte	3017921	Pays de la Loire	46.46667	-0.81667	46.46667,-0.81667	FR	France
+471	Forchheim	forchheim;forchaim	2925910	Bavaria	49.71754	11.05877	49.71754,11.05877	DE	Germany
+472	Forlì	forlì;forli	3176746	Emilia-Romagna	44.22177	12.04144	44.22177,12.04144	IT	Italy
+473	Fornovo San Giovanni	fornovo san giovanni;fornovo	3176680	Lombardy	45.49742	9.67739	45.49742,9.67739	IT	Italy
+474	Fosse	fosse	2798100	Wallonia	50.34001	5.84083	50.34001,5.84083	BE	Belgium
+475	Fossombrone	fosombrone;fossembrune;fossombrone;fusombrone;fusombone	3176630	The Marches	43.69017	12.81173	43.69017,12.81173	IT	Italy
+476	fran	fran							
+477	France	fanctreich;france;citta franche;franckenland'franctreich;franctreich	3017382		46	2	46,2	FR	France
+478	franckental	franckental							
+479	franctenland	franckenland;franctenlandt;franctenland							
+480	Frankenberg	franckenburg;frankenberg	2925630	Saxony	50.91297	13.04011	50.91297,13.04011	DE	Germany
+481	Frankfurt	francfurt am mayn;francforte;frankfort;frankford;francfort;francofort;fracoforte;frankfurt;franctfort;franckford;franctfurt;frankfort am mayn;franckfurt;franctfurt am mayn;franekford;francoforte;franfturt;francfurt;franckfurt in saxonia;franckfort;franctfurt am may;franckford ouer the main;francoforto;franckfort am mayn;franckfurt am mayn;franckfurt im mayn;frankfurt am mayn;franktfurt	2925533	Hesse	50.11552	8.68417	50.11552,8.68417	DE	Germany
+482	Frankfurt (Oder)	frankfort an der oder;franctfort an der oder;franckfort an der oder;franfkurt an der oder;frankfurt an der oder;frankfurt (oder);franckford on the auder;franckfurt an der oder;frankfurth an der oder;franctfurt an der oder;franctfurt ander oder	2925535	Brandenburg	52.34714	14.55062	52.34714,14.55062	DE	Germany
+483	freiberg	freiberg;freyberg;freiburg;freyburg;freyburge							
+484	Freiburg	fribourg en brisgauu;freyburg in preyszgaw;freyburg in dem preyzgaw;freiburg in breisgaw	2925177	Baden-Württemberg	47.9959	7.85222	47.9959,7.85222	DE	Germany
+485	Freilingen	freilingen;freisingen;freysingen	2925070	North Rhine-Westphalia	50.4126	6.72806	50.4126,6.72806	DE	Germany
+486	Freising	freysing;freising	2925034	Bavaria	48.40351	11.74876	48.40351,11.74876	DE	Germany
+487	Fréjus	freius;fréjus	3017253	Provence-Alpes-Côte d'Azur	43.43286	6.73524	43.43286,6.73524	FR	France
+488	Fribourg	friburg;friburgo;freyburg in nüchtland	2660718	Fribourg	46.80237	7.15128	46.80237,7.15128	CH	Switzerland
+489	Friedberg	freidberg;fridberg;friedberg	2924803	Bavaria	48.35693	10.98461	48.35693,10.98461	DE	Germany
+490	Friesland	lewarden;frisia;lewerden;friesland;leewarden;west frieslandt	2751792	Friesland	53.20139	5.80859	53.20139,5.80859	NL	Netherlands
+491	Fritzlar	frislar;fritzlar;friklar	2924326	Hesse	51.13181	9.27557	51.13181,9.27557	DE	Germany
+492	Fulda	fuld;fulda	2923822	Hesse	50.55162	9.67518	50.55162,9.67518	DE	Germany
+493	furze zeffen	furze zeffen							
+494	Füssen	füssen;fuessen	2923507	Bavaria	47.57143	10.70171	47.57143,10.70171	DE	Germany
+495	Gabaston	gaberton;gabaston	3016868	Nouvelle-Aquitaine	43.36667	-0.2	43.36667,-0.2	FR	France
+496	Gaeta	gaeta	3176438	Latium	41.21408	13.57082	41.21408,13.57082	IT	Italy
+497	Gaillac	gaillac	3016824	Occitanie	43.9016	1.89686	43.9016,1.89686	FR	France
+498	gallega	gallega	3119699	Castille and León	41.89861	3.264	41.89861,3.264	ES	Spain
+499	Gallia	galliac;gallia	8964166	Lombardy	45.07761	8.83467	45.07761,8.83467	IT	Italy
+500	Gandersum	gandersum;ganderfum	2922729	Lower Saxony	53.32399	7.31252	53.32399,7.31252	DE	Germany
+501	Gap	gap	3016702	Provence-Alpes-Côte d'Azur	44.56151	6.08106	44.56151,6.08106	FR	France
+502	Gardelegen	gardeleben;gardelegen	2922580	Saxony-Anhalt	52.5252	11.39523	52.5252,11.39523	DE	Germany
+503	Garessio	garese;garessio;gaiesi;carese;gaiese	3176309	Piedmont	44.20705	8.01778	44.20705,8.01778	IT	Italy
+504	Gävle	gaevle;gahlburg;gavle;gävle	2712414	Gävleborg	60.67452	17.14174	60.67452,17.14174	SE	Sweden
+505	Gdańsk	dansic;danzigt;danske;dancica;dantzig;gdansk;dantze;danzig;dansica;dasica;dantzge;dantzigt;donsica	3099434	Pomerania	54.35205	18.64637	54.35205,18.64637	PL	Poland
+506	gefencte	gefencte							
+507	Geisenfeld	geisenfeld	2921713	Bavaria	48.68426	11.61233	48.68426,11.61233	DE	Germany
+508	Geistingen	geislingen;geistingen	2797753	Flanders	51.13316	5.8084	51.13316,5.8084	BE	Belgium
+509	Geldern	land zu gellern;geldern;gelder	2921528	North Rhine-Westphalia	51.51908	6.32363	51.51908,6.32363	DE	Germany
+510	Gelse	gelre;gelse	3052339	Zala	46.6	17	46.6,17	HU	Hungary
+511	Gende	gende	3121479	Galicia	42.38333	-8.41667	42.38333,-8.41667	ES	Spain
+512	Geneva	geneve;ginova;genevra;geneva;genff;genova sw	2660646	Geneva	46.20222	6.14569	46.20222,6.14569	CH	Switzerland
+513	Gennep	gennep;genney	2755584	Limburg	51.69833	5.97361	51.69833,5.97361	NL	Netherlands
+514	Genoa	gennes;genua;goa;genoa;genova;genuy	3176219	Liguria	44.40478	8.94439	44.40478,8.94439	IT	Italy
+515	geran	geran							
+516	Germany	limperio;imperio;allemagne;l imperio;germany;alemagna;alemaignes;teutschland	2921044		51.5	10.5	51.5,10.5	DE	Germany
+517	Geseke	geiseken;geseke	2920834	North Rhine-Westphalia	51.64091	8.5109	51.64091,8.5109	DE	Germany
+518	Gesten	gesten;geisten	2621485	South Denmark	55.52526	9.20761	55.52526,9.20761	DK	Denmark
+519	Ghent	gand en flandre;ghent;gendt;gend;gant;gants;gantes;gand;gent in flandern	2797656	Flanders	51.05	3.71667	51.05,3.71667	BE	Belgium
+520	Giengen an der Brenz	giengen;giengen an der brenz	2920620	Baden-Württemberg	48.62219	10.24312	48.62219,10.24312	DE	Germany
+521	Giessen	giessen	2920512	Hesse	50.58727	8.67554	50.58727,8.67554	DE	Germany
+522	Gimont	gimunt;gimont	3016023	Occitanie	43.62627	0.87655	43.62627,0.87655	FR	France
+523	Girona	girona	3121456	Catalonia	41.98311	2.82493	41.98311,2.82493	ES	Spain
+524	gittard	gittarde;gittard							
+525	Glabbach	glabbach;glabbich	2920247	North Rhine-Westphalia	51.34662	6.30973	51.34662,6.30973	DE	Germany
+526	Gladbeck	glabbeck;gladbeck	2920236	North Rhine-Westphalia	51.57077	6.98593	51.57077,6.98593	DE	Germany
+527	glebbich	glebbich							
+528	Gletscher Ducan	ducan;gletscher ducan	6936161	Grisons	46.67486	9.83023	46.67486,9.83023	CH	Switzerland
+529	Gliwice	gleswijct;gliwice	3099230	Silesia	50.29761	18.67658	50.29761,18.67658	PL	Poland
+530	Głogów	giogauu;głogów;glogaw	3099213	Lower Silesia	51.66361	16.0845	51.66361,16.0845	PL	Poland
+531	Gmina Świecie	schvvetz in prussia;gmina świecie	3084074	Kujawsko-Pomorskie	53.40953	18.44742	53.40953,18.44742	PL	Poland
+532	Gmunden	gmundt;gmunden	2778436	Upper Austria	47.91839	13.79933	47.91839,13.79933	AT	Austria
+533	Gnadental	gnadental;gnadentel	11983670	North Rhine-Westphalia	51.17255	6.71517	51.17255,6.71517	DE	Germany
+534	Goch	goch	2919625	North Rhine-Westphalia	51.67873	6.15895	51.67873,6.15895	DE	Germany
+535	Goldingen	goldingen	2660572	Saint Gallen	47.26477	8.96167	47.26477,8.96167	CH	Switzerland
+536	Golitsa	gulick;golitsa	731342	Varna	42.91667	27.55	42.91667,27.55	BG	Bulgaria
+537	Göppingen	göppingen;gepping	2919054	Baden-Württemberg	48.70354	9.65209	48.70354,9.65209	DE	Germany
+538	Góra Świętej Anny	annaberg;sant anna;s annaberg;sant annaberg;anna berg;góra świętej anny;s. annaberg	3098872	Opole Voivodeship	50.45882	18.16778	50.45882,18.16778	PL	Poland
+539	Gorizia	goritha;gorizia;gozia;goerz;goritia	3175986	Friuli Venezia Giulia	45.94088	13.62167	45.94088,13.62167	IT	Italy
+540	Görlitz	görlitz;gorlitz;görliz	2918987	Saxony	51.15518	14.98853	51.15518,14.98853	DE	Germany
+541	Goslar	goslar;gozlar;goßlar;gosslar	2918840	Lower Saxony	51.90425	10.42766	51.90425,10.42766	DE	Germany
+542	Gosné	gosné;cosne	3015635	Brittany	48.24674	-1.46558	48.24674,-1.46558	FR	France
+543	Gotha	gota;gotha	2918752	Thuringia	50.94823	10.70193	50.94823,10.70193	DE	Germany
+544	Gothenburg	gothenburg;gottenburg	2711537	Västra Götaland	57.70716	11.96679	57.70716,11.96679	SE	Sweden
+545	Göttingen	gottingen;göttingen	2918632	Lower Saxony	51.53443	9.93228	51.53443,9.93228	DE	Germany
+546	Göttorp	gottorp;göttorp	2711478	Västra Götaland	58.51667	13.4	58.51667,13.4	SE	Sweden
+547	grabstain	grabstain							
+548	Gran’	gran’;gran	2023890	Khabarovsk	53.26367	136.54703	53.26367,136.54703	RU	Russia
+549	Granada	granata;granade;granada	2517117	Andalusia	37.18817	-3.60667	37.18817,-3.60667	ES	Spain
+550	Grave	grave	2755358	North Brabant	51.75902	5.73882	51.75902,5.73882	NL	Netherlands
+551	Gravelines	gravelines;gravelingh	3014816	Hauts-de-France	50.98651	2.12807	50.98651,2.12807	FR	France
+552	Gray	grap;gray di borgogna;graij di borgogna;gray borgogna;grai;grey;gray	3014779	Bourgogne-Franche-Comté	47.43932	5.57252	47.43932,5.57252	FR	France
+553	graytz in steiermarct;graetz in steyr;graz;graez;graiz;graitz;gratz;gratiz;grätz;gräz in der steyrmarkt;graz in steyrmarckt	graytz in steiermarct;graetz in steyr;graz;graez;graiz;graitz;gratz;gratiz;grätz;gräz in der steyrmarkt;graz in steyrmarckt	2778067	Styria	47.06667	15.45	47.06667,15.45	AT	Austria
+554	Greifswald	gripswald;greifswald	2917788	Mecklenburg-Vorpommern	54.09311	13.38786	54.09311,13.38786	DE	Germany
+555	Grenoble	granoble;grenoble	3014728	Auvergne-Rhône-Alpes	45.17155	5.72239	45.17155,5.72239	FR	France
+556	Grevenbroich	grevenbroich;greuenbroich	2917540	North Rhine-Westphalia	51.09102	6.5827	51.09102,6.5827	DE	Germany
+557	grichisch weissenburgt	griechischweissenburg;grichisch weissenburgt;griechisch weissenburg;weissenburg am nordöv							
+558	gripwald	gripwald							
+559	Grönås	groenaw;grönås	2710573	Gävleborg	61.68333	16.06667	61.68333,16.06667	SE	Sweden
+560	Groningen	gruningen in westfrieslandt;brueningen;groningen;gruningen in wesi frieslandt;gruningen;gromingen	2755251	Groningen	53.21917	6.56667	53.21917,6.56667	NL	Netherlands
+561	Großen	grossen	2916607	Mecklenburg-Vorpommern	53.68333	12.53333	53.68333,12.53333	DE	Germany
+562	Großschönau	schionauu;schionauu in saxonia;großschönau;schonaw in saxony;schonaw in sachsen;schenaw	2915067	Saxony	50.9	14.68333	50.9,14.68333	DE	Germany
+563	Guadalajara	guadalaxara;guadalaiara;guadalajara;guadalagiara;guadalxara;guadalarara	3121070	Castille-La Mancha	40.62862	-3.16185	40.62862,-3.16185	ES	Spain
+564	Guadalupe	guadalupe;guadelupe;gadalope	2516970	Extremadura	39.4508	-5.32588	39.4508,-5.32588	ES	Spain
+565	Guastalla	guastalla	3175693	Emilia-Romagna	44.91172	10.66186	44.91172,10.66186	IT	Italy
+566	guelder vasen	guelder vasen							
+567	Guéret	gueret	3014383	Nouvelle-Aquitaine	46.17234	1.87456	46.17234,1.87456	FR	France
+568	guestrau	guestrau							
+569	guiedõ	guiedo;guiedõ							
+570	Guingamp	guingamp;giungand;giungang;giungan;guinguand;guingand;giunguand	3014221	Brittany	48.55	-3.15	48.55,-3.15	FR	France
+571	Guise	guyse en tierache;guise	3014195	Hauts-de-France	49.90055	3.62801	49.90055,3.62801	FR	France
+572	Gulichi	gulich;gulichi	627973	Brest	53.0609	26.4969	53.0609,26.4969	BY	Belarus
+573	Gürzenich	gürzenich;gurtzenich;gurzenich	2913486	North Rhine-Westphalia	50.79173	6.44338	50.79173,6.44338	DE	Germany
+574	Güstrow	gusterow;güstrow;gusteraw;gusteroov	2913433	Mecklenburg-Vorpommern	53.7972	12.17337	53.7972,12.17337	DE	Germany
+575	Guttecoven	guterbogen;guttecoven	2755040	Limburg	51.015	5.81806	51.015,5.81806	NL	Netherlands
+576	Haderslev	haderslev;haderssleben	2620964	South Denmark	55.24943	9.48771	55.24943,9.48771	DK	Denmark
+577	Haguenau	agenois;haguenau	3014078	Grand Est	48.81557	7.79051	48.81557,7.79051	FR	France
+578	Halberstadt	holberstadt;holberstat;halberstadt;halberst;halberstat;helberstat	6550926	Saxony-Anhalt	51.8883	11.0572	51.8883,11.0572	DE	Germany
+579	Halberstätt	halberstätt;halberstatt;halberstate	2911662	Bavaria	48.40481	12.06632	48.40481,12.06632	DE	Germany
+580	Halle	hall in saxony;hall;halle;hall in sachsen;halla	2911522	Saxony-Anhalt	51.48158	11.97947	51.48158,11.97947	DE	Germany
+581	Hallenberg	hallenberg	2911514	North Rhine-Westphalia	51.11115	8.62008	51.11115,8.62008	DE	Germany
+582	Haltern	haltern	2911394	North Rhine-Westphalia	52.12077	7.26743	52.12077,7.26743	DE	Germany
+583	Hamburg	hamburgt;hamborch;hamburg;amburg;harburg;hamburgt und in diermatschen	2911298	Hamburg	53.57532	10.01534	53.57532,10.01534	DE	Germany
+584	hame	hame	830705	Kanta-Hame	60.91667	24.33333	60.91667,24.33333	FI	Finland
+585	Hamelin	hamelen;hamelin;hamein;hameln;hamen	2911271	Lower Saxony	52.10397	9.35623	52.10397,9.35623	DE	Germany
+586	Hamm	hamm;ham	2911240	North Rhine-Westphalia	51.68033	7.82089	51.68033,7.82089	DE	Germany
+587	Han	han	833650	Gostivar	41.68648	20.96102	41.68648,20.96102	MK	North Macedonia
+588	hanan	hanan							
+589	Hanau	hanau;hanaw	2911007	Hesse	50.13423	8.91418	50.13423,8.91418	DE	Germany
+590	Hannoversch Münden	hannoversch münden;munden	2867613	Lower Saxony	51.41505	9.65046	51.41505,9.65046	DE	Germany
+591	Hanover	hanover;hannover	2910831	Lower Saxony	52.37052	9.73322	52.37052,9.73322	DE	Germany
+592	Harfleur	arfleu;harfleur	3013922	Normandy	49.5066	0.19827	49.5066,0.19827	FR	France
+593	Harlingen	harlingen	2754817	Friesland	53.17477	5.42244	53.17477,5.42244	NL	Netherlands
+594	Harwich	harwich	2647383	England	51.94194	1.28437	51.94194,1.28437	GB	United Kingdom
+595	Haspel	haspel	2754788	Utrecht	52.03167	5.51944	52.03167,5.51944	NL	Netherlands
+596	Hassel	hapsel;hassel	2960488	Luxembourg	49.55019	6.20826	49.55019,6.20826	LU	Luxembourg
+597	Hasselberg	hasselbergt;hasselberg;daselbergt	2909406	Bavaria	49.80591	9.4826	49.80591,9.4826	DE	Germany
+598	Hasselt	hasselt	2796491	Flanders	50.93106	5.33781	50.93106,5.33781	BE	Belgium
+599	Hattem	hattem	2754768	Gelderland	52.475	6.06389	52.475,6.06389	NL	Netherlands
+600	Hattingen	hattingen	2909230	North Rhine-Westphalia	51.39894	7.18557	51.39894,7.18557	DE	Germany
+601	Havelberg	havelbergt;havelberg	2908644	Saxony-Anhalt	52.83088	12.07552	52.83088,12.07552	DE	Germany
+602	Heidelberg	henderlberg;hayderlberg;heidelberg;haydelberg;hendelberg;heidelberg an der berchstrassen;heidelbergt;handelburg;heydelberg	2907911	Baden-Württemberg	49.40768	8.69079	49.40768,8.69079	DE	Germany
+603	Heilbronn	hailbrunn;haylbrun;heilbronn;hailbrun;hailprunn;hailbron;heylbrunn	2907669	Baden-Württemberg	49.13995	9.22054	49.13995,9.22054	DE	Germany
+604	Heimstatt	heimstatt;hermstatt	3206409	Lower Saxony	52.66608	8.64212	52.66608,8.64212	DE	Germany
+605	Heinsberg	heinzberg;heinsberg	2907201	North Rhine-Westphalia	51.06358	6.0998	51.06358,6.0998	DE	Germany
+606	Helmstadt	helmstadt;helmstatt;helmsttädt	2906680	Bavaria	49.7618	9.70803	49.7618,9.70803	DE	Germany
+607	Helmstedt	helmstedt	2906676	Lower Saxony	52.2279	11.00985	52.2279,11.00985	DE	Germany
+608	Helsingborg	helsignburg;helsingburg;helsingborg	2706767	Skåne	56.04673	12.69437	56.04673,12.69437	SE	Sweden
+609	Helsinki	heliga;helsinki;heiligen	658225	Uusimaa	60.16952	24.93545	60.16952,24.93545	FI	Finland
+610	Hénencourt	hennencourt;hen;hénencourt	3013530	Hauts-de-France	50.00265	2.56432	50.00265,2.56432	FR	France
+611	Hérault	hérault;heruault	3028040	Occitanie	43.50635	3.4581	43.50635,3.4581	FR	France
+612	Herbergen	herwerden;herbergen	2906234	Saxony	50.87416	13.86139	50.87416,13.86139	DE	Germany
+613	Herborn	herborn	2960465	Echternach	49.74167	6.42778	49.74167,6.42778	LU	Luxembourg
+614	Herentals	herentals	2796009	Flanders	51.17655	4.83248	51.17655,4.83248	BE	Belgium
+615	Herrenberg	herrenberg;herrnberg	2905826	Baden-Württemberg	48.59523	8.86648	48.59523,8.86648	DE	Germany
+616	Hertogenbosch	hertzogenbusch;hertogebosch	2747351	North Brabant	51.69917	5.30417	51.69917,5.30417	NL	Netherlands
+617	Herves	hervee;herves	3120774	Galicia	43.1971	-8.36127	43.1971,-8.36127	ES	Spain
+618	Herzberg	herzberg	2905502	Brandenburg	52.90269	12.96979	52.90269,12.96979	DE	Germany
+619	Hildesheim	hildesheim	2904789	Lower Saxony	52.15077	9.95112	52.15077,9.95112	DE	Germany
+620	Hirschfeld	hirschfeld	2606609	Lower Austria	48.9325	15.37222	48.9325,15.37222	AT	Austria
+621	Hof	hof;hoffen	2902768	Bavaria	50.31297	11.91261	50.31297,11.91261	DE	Germany
+622	Hoff	hoff	2902601	North Rhine-Westphalia	50.86939	7.58669	50.86939,7.58669	DE	Germany
+623	Hohenburg	hohenburg;horenburg	2901851	Bavaria	47.6724	11.58749	47.6724,11.58749	DE	Germany
+624	Holiare	holiare;geller	3060078	Nitriansky	47.8275	17.81459	47.8275,17.81459	SK	Slovakia
+625	Holtz	holtz;holtzburg	2960438	Redange	49.80722	5.79167	49.80722,5.79167	LU	Luxembourg
+626	Homberg (Ohm)	homberg;homberg (ohm)	2899479	Hesse	50.73108	8.99644	50.73108,8.99644	DE	Germany
+627	Hondarribia	fuenterabbia;fuenta ravia;fontarabie;hondarribia;fuenterabia	3121881	Basque Country	43.36859	-1.79622	43.36859,-1.79622	ES	Spain
+628	Honfleur	honfleur;honfleu;hoffleu	3013173	Normandy	49.41985	0.23294	49.41985,0.23294	FR	France
+629	Horgenberg	horgenberg;horzenburg	8505015	Zurich	47.24847	8.5877	47.24847,8.5877	CH	Switzerland
+630	Hormuz	ormuz;hormuz	287878	Musandam	26.56667	56.25	26.56667,56.25	OM	Oman
+631	Hornburg	horenborch;hornburg	2898863	Hornburg	52.03095	10.6049	52.03095,10.6049	DE	Germany
+632	Houdain	houdain	3013122	Hauts-de-France	50.4504	2.53777	50.4504,2.53777	FR	France
+633	Houdan	houdan	3013120	Île-de-France	48.79044	1.60007	48.79044,1.60007	FR	France
+634	Huerta	huerta	3120534	Castille and León	41.13462	-3.7294	41.13462,-3.7294	ES	Spain
+635	Huesca	huesca	3120514	Aragon	42.13615	-0.4087	42.13615,-0.4087	ES	Spain
+636	Hun	hun;hunsten	2795144	Wallonia	50.33626	4.87021	50.33626,4.87021	BE	Belgium
+637	hunt esheim	hunt esheim							
+638	Hyesmes	hyesmes							
+639	Iberg	iberg	2896791	Thuringia	51.41667	10.35	51.41667,10.35	DE	Germany
+640	Igny	iugny;igni;igny	3012889	Île-de-France	48.74437	2.22428	48.74437,2.22428	FR	France
+641	Igualada	gaudix;igualada	3120431	Catalonia	41.58098	1.6172	41.58098,1.6172	ES	Spain
+642	Imola	imola	3175537	Emilia-Romagna	44.35916	11.7132	44.35916,11.7132	IT	Italy
+643	India	india;india orientale;inorientali							
+644	Indies	indie occidentali;indies							
+645	Ingenheim	ingelheim;ingenheim	2896007	Rheinland-Pfalz	49.13527	8.07985	49.13527,8.07985	DE	Germany
+646	Ingolstadt	ingolstat;ingolstadio;ingolstatt;ingolstadt	2895992	Bavaria	48.76508	11.42372	48.76508,11.42372	DE	Germany
+647	Ingrandes	ingrande;ingrandes;aingrandes	3012783	Pays de la Loire	47.405	-0.92336	47.405,-0.92336	FR	France
+648	Ingré	encre;ingré	3012780	Centre-Val de Loire	47.91995	1.82778	47.91995,1.82778	FR	France
+649	Innsbruck	inspruck;insbrugt;insbruct;inspruch;insprugt;inszpruck;ispruch;insprucht;insbruck;insprugh;inspruk;innsbruck;inspurck;inspruct;insbruckt;insprug	2775220	Tyrol	47.26266	11.39454	47.26266,11.39454	AT	Austria
+650	iornage	iornage							
+651	Iserlohn	iserlon;iserlohn	2895669	North Rhine-Westphalia	51.37547	7.70281	51.37547,7.70281	DE	Germany
+652	Issoire	yssoire;issoire	3012664	Auvergne-Rhône-Alpes	45.55	3.25	45.55,3.25	FR	France
+653	Issoudun	yssoldun;issoudun;ysoldun;yssouldun	3012655	Centre-Val de Loire	46.94848	1.99362	46.94848,1.99362	FR	France
+654	Istanbul	constantinopoli;stambul;costantinopoli;constantinople;stambol;ostambol;constantinopel;istanbul;turchia	745044	Istanbul	41.01384	28.94966	41.01384,28.94966	TR	Turkey
+655	Jaén	jaen;yaen;giaien;jaén	2515908	Andalusia	37.74303	-3.69312	37.74303,-3.69312	ES	Spain
+656	jamgurat	jamgurat							
+657	jamiedene	jamiedene							
+658	Jarmovec	jarmovec;jarmouth	8987710	Sentjur	46.26583	15.36803	46.26583,15.36803	SI	Slovenia
+659	Javorná	gafhorn;javorná	3074412	Karlovarský kraj	50.13379	12.95918	50.13379,12.95918	CZ	Czechia
+660	Jena	jena;jehna	2895044	Thuringia	50.92878	11.5899	50.92878,11.5899	DE	Germany
+661	Jerusalem	citta santa di gierusalemme;hierusalemme;gierusalemme;jerusalem;hierusalem	293198	Jerusalem	31.75	35	31.75,35	IL	Israel
+662	Jönköping	joncoping;jonkoping;oncoping;jönköping	2702979	Jönköping	57.78145	14.15618	57.78145,14.15618	SE	Sweden
+663	Judenburg	judenburg	2775020	Styria	47.16667	14.66667	47.16667,14.66667	AT	Austria
+664	Kal	kal	3198478	Hrastnik	46.16667	15.11667	46.16667,15.11667	SI	Slovenia
+665	Kaliningrad	konigsperg;koenigsbergt;koenigberg in preussen;friedrichsborg;koenigsberg in preussen;kaliningrad;konigsberg;konigsbruk;koenigsberg;friedrichsburg;roenigsberg in preussen;kottigsberg;fridbrichsborch;roenigsberg;königsberg in preussen	554234	Kaliningrad	54.70649	20.51095	54.70649,20.51095	RU	Russia
+666	Kall	kall	2893762	North Rhine-Westphalia	50.54223	6.56297	50.54223,6.56297	DE	Germany
+667	Kalmar	kalmer;talmer;kalmar	2702261	Kalmar	56.66157	16.36163	56.66157,16.36163	SE	Sweden
+668	Kampenhout	campenhout;kampenhout	2794763	Flanders	50.9421	4.55103	50.9421,4.55103	BE	Belgium
+669	Kanjiža	kanjiža;kanischa	789600	Vojvodina	46.06667	20.05	46.06667,20.05	RS	Serbia
+670	Kappel	kappel;cappel	6691412	Solothurn	47.32475	7.84647	47.32475,7.84647	CH	Switzerland
+671	Karlskrona	karlskrona;carscron;carlscron	2701713	Blekinge	56.16156	15.58661	56.16156,15.58661	SE	Sweden
+672	Kassel	castle;kassel;cassel;cassel in hessen	2892518	Hesse	51.31667	9.5	51.31667,9.5	DE	Germany
+673	Kauscha	kasscha;kauscha	2892033	Saxony	50.99355	13.77874	50.99355,13.77874	DE	Germany
+674	Kempten	kempten;kerndten	2891621	Bavaria	47.72674	10.31389	47.72674,10.31389	DE	Germany
+675	Kerpen	kerpen	2891524	North Rhine-Westphalia	50.86991	6.69691	50.86991,6.69691	DE	Germany
+676	Keßlingen	keßlingen;kessingen	2891358	Saarland	49.51335	6.48201	49.51335,6.48201	DE	Germany
+677	Kettershausen	keiserslautern;kettershausen	2891300	Bavaria	48.18333	10.26667	48.18333,10.26667	DE	Germany
+678	kiel	kiel;kiehl in holstein;kyel	2891122	Schleswig-Holstein	54.32133	10.13489	54.32133,10.13489	DE	Germany
+679	Kindelbrück	kindelbruck;kindelbrück	2890880	Thuringia	51.26171	11.08999	51.26171,11.08999	DE	Germany
+680	Kintai	kingen;kintai	598143	Klaipėda County	55.41965	21.26421	55.41965,21.26421	LT	Lithuania
+681	Kirchhain	kirchhain;kirchaim	2890504	Hesse	50.8272	8.92806	50.8272,8.92806	DE	Germany
+682	Kitzing	kitzing	2774337	Upper Austria	48.22656	13.97521	48.22656,13.97521	AT	Austria
+683	Klagenfurt	clanfurt;klagenfurt;clagenfurt	2774326	Carinthia	46.62472	14.30528	46.62472,14.30528	AT	Austria
+684	Klaipėda	memel;klaipėda	598098	Klaipėda County	55.70888	21.14312	55.70888,21.14312	LT	Lithuania
+685	Kłodzko	kłodzko;glatz in silesia	3096053	Lower Silesia	50.43488	16.66145	50.43488,16.66145	PL	Poland
+686	Knœringue	kneringen;knœringue	3011442	Grand Est	47.56667	7.4	47.56667,7.4	FR	France
+687	Koblenz	confluenza;coblentz;coblenz;koblenz	2886946	Rheinland-Pfalz	50.35357	7.57883	50.35357,7.57883	DE	Germany
+688	Kollnburg	kollnburg;kopenburg	2886285	Bavaria	49.04664	12.86121	49.04664,12.86121	DE	Germany
+689	Königsee	konigsohr;königsee;konigsor	2885895	Thuringia	50.66143	11.09748	50.66143,11.09748	DE	Germany
+690	Königstein im Taunus	kuenigstain;ronigfogen;kunigstain;konigstein;ronigshofen;königstein im taunus;kinigstayn;kynighstain	2885760	Hesse	50.17943	8.47132	50.17943,8.47132	DE	Germany
+691	Konstanz	costniz;konstanz	2885679	Baden-Württemberg	47.66033	9.17582	47.66033,9.17582	DE	Germany
+692	kopfstain	kopfstain;kopffstain							
+693	Koppenberg	copenburg;koppenberg	2794099	Flanders	50.80706	3.59789	50.80706,3.59789	BE	Belgium
+694	Korbach	korbach	2885536	Hesse	51.27561	8.873	51.27561,8.873	DE	Germany
+695	Kornburg	kornburg	2885443	Bavaria	49.35521	11.09885	49.35521,11.09885	DE	Germany
+696	Kortrijk	kortrijk;costrijck;cortrick	2794055	Flanders	50.82803	3.26487	50.82803,3.26487	BE	Belgium
+697	Kostanz	costanza;coustances;constance;costanz;costanntz;constanntz;constantz;constances;constantz am bodensee;kostanz;constanza;bodensee;costenza;costentz;costenz;costantz;costance;costances;constanz;costanß	3208826	Baden-Württemberg	47.68333	9.13333	47.68333,9.13333	DE	Germany
+698	Kostrzyń	cuestrin;kostrzyń;costrin;custrin;ceustrin;koszalin	767969	Mazovia	51.57482	20.73333	51.57482,20.73333	PL	Poland
+699	Krakow	crackavv;cracaw;crakaw;cracovia di polonia;chachaw;crackavv in polonia;cracau;cracovia;cracow in polen;cractaw in poln;cractaw;krakow;cracow;crackaw;cracau in pohlen;cracau in polen	3094802	Lesser Poland	50.06143	19.93658	50.06143,19.93658	PL	Poland
+700	Krems	krems;crems	2773549	Lower Austria	48.40921	15.61415	48.40921,15.61415	AT	Austria
+701	Kromnów	cromonaw in mehren;cronionaw;kromnów	3094658	Lower Silesia	50.89443	15.58265	50.89443,15.58265	PL	Poland
+702	Krzepice	krzepice	3094514	Lower Silesia	50.7927	17.12228	50.7927,17.12228	PL	Poland
+703	Kufstein	kufstein;kuffstain	2773300	Tyrol	47.58333	12.16667	47.58333,12.16667	AT	Austria
+704	Kustyn	kustrin;kustyn	703539	Rivne	50.70481	26.31624	50.70481,26.31624	UA	Ukraine
+705	kuynder	kuynder							
+706	Kuznetsk	kuznetsk;kuntzeck	537737	Penza	53.11675	46.60037	53.11675,46.60037	RU	Russia
+707	L'Aigle	l'aigle;l aigle	3008686	Normandy	48.76216	0.62746	48.76216,0.62746	FR	France
+708	L'Alqueria de la Comtessa	l'alqueria de la comtessa;laicantasa	2521824	Comunidad Valenciana	38.933	-0.15	38.933,-0.15	ES	Spain
+709	L'Aquila	laquila;l'aquila;aquilla;aquila;l aquila	3175121	Abruzzo	42.35055	13.39954	42.35055,13.39954	IT	Italy
+710	L'Oudon	lodun;loudon;l oudon	6620042	Normandy	48.99706	0.00966	48.99706,0.00966	FR	France
+711	La Bâtie-Neuve	la bastinove;la batie-neuve;bastinove;bastinova	3011218	Provence-Alpes-Côte d'Azur	44.56667	6.2	44.56667,6.2	FR	France
+712	La Châtre	la châtre;la chastre	3010154	Centre-Val de Loire	46.58228	1.98734	46.58228,1.98734	FR	France
+713	La Fère	la fera;la fère	3009526	Hauts-de-France	49.66286	3.36631	49.66286,3.36631	FR	France
+714	La Fere en Picardie	la fere;fere en picardie;la fere en picardie;la fere in der picardie							
+715	La Ferté-Milon	la ferté-milon;la ferte milon	3009485	Hauts-de-France	49.17453	3.12885	49.17453,3.12885	FR	France
+716	La Ferté-Saint-Aubin	la ferte sainct aulbin;la ferté-saint-aubin	3009484	Centre-Val de Loire	47.71695	1.93904	47.71695,1.93904	FR	France
+717	La Ferté-sous-Jouarre	la ferté-sous-jouarre;la ferte soubz ioverre	3009481	Île-de-France	48.9514	3.12724	48.9514,3.12724	FR	France
+718	La Frette	la frette	3009257	Bourgogne-Franche-Comté	46.63839	5.05018	46.63839,5.05018	FR	France
+719	la gavache	gavache;la gavache							
+720	La Motta	la motta	8979090	Emilia-Romagna	44.57481	11.59011	44.57481,11.59011	IT	Italy
+721	La Motte	la motte en barrois;la motte	3008037	Provence-Alpes-Côte d'Azur	43.49142	6.53689	43.49142,6.53689	FR	France
+722	La Neste	neste;la neste	3011315	Occitanie	43.08123	0.38438	43.08123,0.38438	FR	France
+723	La Roche	la roche	2660016	Fribourg	46.6962	7.13721	46.6962,7.13721	CH	Switzerland
+724	La Rochefoucauld	roche foucault;la rochefoucauld;la roche foucault	3006793	Nouvelle-Aquitaine	45.74048	0.38564	45.74048,0.38564	FR	France
+725	La Rochelle	la rochelle;rochelle;roccella	3006787	Nouvelle-Aquitaine	46.16667	-1.15	46.16667,-1.15	FR	France
+726	La Souterraine	la souterraine;la soubteraine	3006387	Nouvelle-Aquitaine	46.23714	1.48701	46.23714,1.48701	FR	France
+727	Labach	labach	2773207	Upper Austria	48.53781	14.4659	48.53781,14.4659	AT	Austria
+728	Lagny-sur-Marne	lagny sur marne	3009071	Île-de-France	48.86667	2.71667	48.86667,2.71667	FR	France
+729	Laignelet	laignelet;lenelen	3008683	Brittany	48.36917	-1.15123	48.36917,-1.15123	FR	France
+730	Laigny	laigny;laigni	3008678	Hauts-de-France	49.8579	3.85344	49.8579,3.85344	FR	France
+731	Laives	laves;laives;layes	3175235	Trentino-Alto Adige	46.42679	11.33841	46.42679,11.33841	IT	Italy
+732	Lamorlaye	lamorlaye;morlaye	3008074	Hauts-de-France	49.16246	2.44687	49.16246,2.44687	FR	France
+733	Landeck	landeck	2881634	Baden-Württemberg	48.15003	7.83872	48.15003,7.83872	DE	Germany
+734	Landecy	landecy;landect	11218120	Geneva	46.14442	6.12982	46.14442,6.12982	CH	Switzerland
+735	Landerneau	landern;landerneau	3007874	Brittany	48.45252	-4.25252	48.45252,-4.25252	FR	France
+736	Landsberg	landsperg;landsberg	2881508	Saxony-Anhalt	51.52698	12.16076	51.52698,12.16076	DE	Germany
+737	Landshut	landeshut;landshut;landtehut;landtshut	2881485	Bavaria	48.52961	12.16179	48.52961,12.16179	DE	Germany
+738	Langensall	langensalz;langensall	2880933	Baden-Württemberg	49.23553	9.62033	49.23553,9.62033	DE	Germany
+739	Langlingen	lawgingen;langlingen	2880613	Lower Saxony	52.55593	10.28291	52.55593,10.28291	DE	Germany
+740	Langres	langres;langers	3007680	Grand Est	47.86667	5.33333	47.86667,5.33333	FR	France
+741	Laon	laon	3007477	Hauts-de-France	49.5631	3.62714	49.5631,3.62714	FR	France
+742	Larche	larche	3007037	Nouvelle-Aquitaine	45.12048	1.41566	45.12048,1.41566	FR	France
+743	Laredo	lharedo;la redo;laredo	3119145	Cantabria	43.4098	-3.41613	43.4098,-3.41613	ES	Spain
+744	Las Cuevas de María	cuevas sevilla;las cuevas;las cuevas de maría	2515410	Andalusia	36.93333	-2.46667	36.93333,-2.46667	ES	Spain
+745	Lassenberg	laussenberg;lassenberg	2772897	Carinthia	46.86667	14.13333	46.86667,14.13333	AT	Austria
+746	Lauenburg	lawenburg;lawenburgt;lauenburg	2880181	Schleswig-Holstein	53.37199	10.55654	53.37199,10.55654	DE	Germany
+747	Laufing	lauging;laufing	2880108	Bavaria	48.08856	12.73197	48.08856,12.73197	DE	Germany
+748	Lausanne	losan;losana;lausanne;losuna;lausane	2659994	Vaud	46.516	6.63282	46.516,6.63282	CH	Switzerland
+749	Le Blanc	le blanc;blanc en berry;blanc	3005270	Centre-Val de Loire	46.63333	1.06667	46.63333,1.06667	FR	France
+750	Le Havre	le havre;havre;haure graceport;havre grazia;havre de grace;haven	3003796	Normandy	49.4938	0.10767	49.4938,0.10767	FR	France
+751	Le Mans	le mans;mans	3003603	Pays de la Loire	48.00039	0.20471	48.00039,0.20471	FR	France
+752	Le Quesnoy	quesnoi;le quesnoy	3002420	Hauts-de-France	50.24797	3.63656	50.24797,3.63656	FR	France
+753	Lecce	lecco di puglia;lecce;lezze;leccia;lece	3174953	Apulia	40.35481	18.17244	40.35481,18.17244	IT	Italy
+754	Legnica	ligniz;legnica;liegnitz	3093692	Lower Silesia	51.21006	16.1619	51.21006,16.1619	PL	Poland
+755	Leipzig	leipsig;liptzig;leypzing;leiptzig;lypsig;leipsigk;leipzig;leyptzig;sassonia;leipsigt;leipzigt;leipziz	2879139	Saxony	51.33962	12.37129	51.33962,12.37129	DE	Germany
+756	Lemgo	lemgaw;lemgovv;lemgo;lemgow;lemgavv	2878943	North Rhine-Westphalia	52.02786	8.89901	52.02786,8.89901	DE	Germany
+757	Lemmer	lemmer	2751729	Friesland	52.84618	5.70912	52.84618,5.70912	NL	Netherlands
+758	Lennep	lenep;lennep;lennp	2878788	North Rhine-Westphalia	51.19249	7.26	51.19249,7.26	DE	Germany
+759	León	leon di spagna;leon d espana;lione sp;leone;lion di spagna;leon d'espana;león;leon	3118532	Castille and León	42.60003	-5.57032	42.60003,-5.57032	ES	Spain
+760	Les Sables-d'Olonne	sable d'aulonne;sable d aulonne;sables de lonne;fable d'aulonne;les sables-d'olonne;fable d aulonne	2999683	Pays de la Loire	46.5	-1.78333	46.5,-1.78333	FR	France
+761	Les Troves	les troves;troves	2999421	Pays de la Loire	47.23574	-2.36524	47.23574,-2.36524	FR	France
+762	Lesperon	lesperon;lesperona	3000036	Nouvelle-Aquitaine	43.97	-1.09285	43.97,-1.09285	FR	France
+763	Leutenberg	leutenburg;leutenberg	2878308	Thuringia	50.56354	11.45619	50.56354,11.45619	DE	Germany
+764	Leutkirch im Allgäu	leutkirch im allgäu;leutkirch	2878270	Baden-Württemberg	47.82672	10.0205	47.82672,10.0205	DE	Germany
+765	Leuven	loven;leuben;louen;leuven;louvain	2792482	Flanders	50.87959	4.70093	50.87959,4.70093	BE	Belgium
+766	Lever	lever	2738314	Porto	41.06681	-8.47575	41.06681,-8.47575	PT	Portugal
+767	Levroux	leuroux;levroux	2998718	Centre-Val de Loire	46.9786	1.61243	46.9786,1.61243	FR	France
+768	Liberec	liberosen;liberec	3071961	Liberecký	50.76711	15.05619	50.76711,15.05619	CZ	Czechia
+769	Libourne	libourne;liborne	2998517	Nouvelle-Aquitaine	44.91667	-0.23333	44.91667,-0.23333	FR	France
+770	Liège	liege oder luttig;lutik;liege;lutig;luttich;luttig;liège	2792413	Wallonia	50.63373	5.56749	50.63373,5.56749	BE	Belgium
+771	Liesse-Notre-Dame	nostre dame liesse	2998460	Hauts-de-France	49.61667	3.8	49.61667,3.8	FR	France
+772	Ligny-en-Barrois	ligny en barrois;ligny-en-barrois	2998362	Grand Est	48.68861	5.32543	48.68861,5.32543	FR	France
+773	Lille	l'isle en flandre;lille oder ryssel;l isle en flandres;l isle en flandre;lille;lilla	2998324	Hauts-de-France	50.63297	3.05858	50.63297,3.05858	FR	France
+774	Limbourg	limburg;limpurg;limbourg	2792348	Wallonia	50.61222	5.9412	50.61222,5.9412	BE	Belgium
+775	Limburg an der Lahn	linspurgh;limburg an der lahn	2877648	Hesse	50.3836	8.0503	50.3836,8.0503	DE	Germany
+776	Limoges	limoges;lymoges	2998286	Nouvelle-Aquitaine	45.83153	1.25781	45.83153,1.25781	FR	France
+777	Limousin	limousin;limosin	2998268	Limousin	45.76667	1.7	45.76667,1.7	FR	France
+778	Lindau	lindau;lindaw;landau in lotharingia;liudo;lindo;lindouw;lindova;landau	2877550	Bavaria	47.54612	9.68431	47.54612,9.68431	DE	Germany
+779	linfurt	linfurt							
+780	Lingen	lingen	2877088	Lower Saxony	52.52143	7.31845	52.52143,7.31845	DE	Germany
+781	Linnich	linnich	2877021	North Rhine-Westphalia	50.98002	6.27049	50.98002,6.27049	DE	Germany
+782	Linty	linty;lingy	1500524	Sverdlovsk	59.57365	62.53771	59.57365,62.53771	RU	Russia
+783	Linz	linza;lyntz;lynz;linz;leintz;lins;lintz	2772400	Upper Austria	48.30639	14.28611	48.30639,14.28611	AT	Austria
+784	Lipp	lipp	2876935	North Rhine-Westphalia	50.9962	6.56313	50.9962,6.56313	DE	Germany
+785	Lippe	lippe	2876926	Brandenburg	52.18333	13.85	52.18333,13.85	DE	Germany
+786	Lisbon	lisbonne;lysabona;lysabona in portugal;lisbon;lisboa;lisabona;lisabonn;lisbona	2267057	Lisbon	38.71667	-9.13333	38.71667,-9.13333	PT	Portugal
+787	Lisle	lisle	2998144	Centre-Val de Loire	47.85231	1.11739	47.85231,1.11739	FR	France
+788	Litoměřice	leutmeriz;litoměřice	3071677	Ústecký kraj	50.53348	14.1318	50.53348,14.1318	CZ	Czechia
+789	Litomyšl	littomissel;litomyšl	3071675	Pardubický	49.86809	16.31298	49.86809,16.31298	CZ	Czechia
+790	Little Walsingham	walsingham;little walsingham	2644230	England	52.89498	0.87376	52.89498,0.87376	GB	United Kingdom
+791	Livorno	livorno	3174659	Tuscany	43.54427	10.32615	43.54427,10.32615	IT	Italy
+792	Ljubljana	ljubljana;lubiana	3196359	Ljubljana	46.05108	14.50513	46.05108,14.50513	SI	Slovenia
+793	Lleida	lleida;lerida;leriod	3118514	Catalonia	41.61674	0.62218	41.61674,0.62218	ES	Spain
+794	Löcknitz	löcknitz;lignitz	2876538	Mecklenburg-Vorpommern	53.45392	14.21116	53.45392,14.21116	DE	Germany
+795	Lodi	lodi	3174638	Lombardy	45.30989	9.50085	45.30989,9.50085	IT	Italy
+796	Logroño	lorena;lagrogno;logrogno;logren;logrono;logroño	3118150	La Rioja	42.46667	-2.45	42.46667,-2.45	ES	Spain
+797	Lohen	lohen	2876297	Bavaria	48.08677	12.55849	48.08677,12.55849	DE	Germany
+798	London	inghilterra;london in england;londen;england;londra in engelland;londres;engelandt;london;londen in engelandt;londra;lunden in engelandt;lunden inn engelandt	2643743	England	51.50853	-0.12574	51.50853,-0.12574	GB	United Kingdom
+799	Lorca	lorca;larcar	2514891	Murcia	37.67119	-1.7017	37.67119,-1.7017	ES	Spain
+800	Lorraine	lotringen;lottringen;lorraine	2997551	Lorraine	48.76667	6.13333	48.76667,6.13333	FR	France
+801	Lorris	lorris	2997547	Centre-Val de Loire	47.8895	2.51478	47.8895,2.51478	FR	France
+802	Lübeck	lubeck;lubec;lübeck;lubicke;lubect;luebect;lubecth;lubick;leubect;laubach	2875601	Schleswig-Holstein	53.86893	10.68729	53.86893,10.68729	DE	Germany
+803	Lubin	luben;lubin	3092931	Lower Silesia	51.40089	16.20149	51.40089,16.20149	PL	Poland
+804	Lucca	lucca;luca;luccia;lucques;lucha;luki	3174530	Tuscany	43.84369	10.50447	43.84369,10.50447	IT	Italy
+805	Lucerne	luceria;lucerna;lucerne;lucern	2659811	Lucerne	47.05048	8.30635	47.05048,8.30635	CH	Switzerland
+806	Luçon	luçon;lusson	2997210	Pays de la Loire	46.45773	-1.16512	46.45773,-1.16512	FR	France
+807	Ludenberg	lukenberg;ludenberg;lunenberg	3205922	North Rhine-Westphalia	51.25669	6.86507	51.25669,6.86507	DE	Germany
+808	Lugano	lugano	2659836	Ticino	46.01008	8.96004	46.01008,8.96004	CH	Switzerland
+809	Lund	lund	2693678	Skåne	55.70584	13.19321	55.70584,13.19321	SE	Sweden
+810	Lunden	londen in dittmarsen;londen in dietmarschen;londen in ditmarsen;lunden	2875130	Schleswig-Holstein	54.33131	9.02523	54.33131,9.02523	DE	Germany
+811	Lüneburg	luneburger;lüneburg;luesnenburgt;lunenburg;lueneburg;lunenburger;luneburg;luenenburg;linneburg;lüneberg;leuneburg	2875115	Lower Saxony	53.2509	10.41409	53.2509,10.41409	DE	Germany
+812	Lünen	lunen;lünen	2875107	North Rhine-Westphalia	51.61634	7.52872	51.61634,7.52872	DE	Germany
+813	Lunéville	luneville;landstaff;lunéville	2997110	Grand Est	48.6	6.5	48.6,6.5	FR	France
+814	lupenaul	lupenaul							
+815	luschay	luschay							
+816	Lüsen	lussen;lüsen	3174425	Trentino-Alto Adige	46.74623	11.76098	46.74623,11.76098	IT	Italy
+817	Lusignan	lusignan	2997058	Nouvelle-Aquitaine	46.43598	0.1262	46.43598,0.1262	FR	France
+818	Lustheide	lustheide;lunscheide	2874969	North Rhine-Westphalia	50.94909	7.10925	50.94909,7.10925	DE	Germany
+819	Lützelburg	lützelburg;lutzenburg	2874762	Bavaria	48.4643	10.79417	48.4643,10.79417	DE	Germany
+820	Luxembourg	luxemburg;luxembourg;laxemburg	2960316	Luxembourg	49.61167	6.13	49.61167,6.13	LU	Luxembourg
+821	luz	luz							
+822	Luzarches	lusarche;luzarches	2996982	Île-de-France	49.11319	2.4223	49.11319,2.4223	FR	France
+823	lym	lym							
+824	Lyon	lione;lions in fraunce;lyon;lion;lione di francia;lion in franctreich;lion in franchtreich;lion in france;lion di francia;lions;leon fr;lyons;lions in france;lyon in frankreich	2996944	Auvergne-Rhône-Alpes	45.74846	4.84671	45.74846,4.84671	FR	France
+825	Maaseik	maseict;maesseick;maz enck;maaseik	2791964	Flanders	51.09802	5.78379	51.09802,5.78379	BE	Belgium
+826	Maastricht	maastricht;mastric;mastricht;masier in franctreich;mastrich;maestricht;maestrick;masterich	2751283	Limburg	50.84833	5.68889	50.84833,5.68889	NL	Netherlands
+827	Macerata	macerata	3174380	The Marches	43.29789	13.45293	43.29789,13.45293	IT	Italy
+828	Machelen	machelen	2791951	Flanders	50.91061	4.44174	50.91061,4.44174	BE	Belgium
+829	Macon	macon;mascon sur saosne;mascon	3026534	Bourgogne-Franche-Comté	46.30751	4.78479	46.30751,4.78479	FR	France
+830	Maddalena Pass	col l'argentiere;col l argentiere;maddalena pass	3007036	Provence-Alpes-Côte d'Azur	44.4216	6.89893	44.4216,6.89893	FR	France
+831	Madonna del Monte	madonna del monte;nostra signora del monte	8962788	Liguria	44.29509	8.43753	44.29509,8.43753	IT	Italy
+832	Madonna Loreto	madonna di loreto;lorida;the lady of loreto;loreto;santa casa di loreto;santissima casa di loreto;madonna loreto;nostre dame lorette;loredo;lorette;casa di loreto;loretto;s casa di loreto;nostra signora di loreto;loretu;loreta	8958496	Latium	42.45728	12.62853	42.45728,12.62853	IT	Italy
+833	Madrid	modrid;madrit in hispanien;madrid;madril;madrit;maydred;amadril	3117735	Madrid	40.4165	-3.70256	40.4165,-3.70256	ES	Spain
+834	Magdeburg	magdeburgt;magdeburg;magenburg;magendburg;magdenburg;margenburg;magdenberg	2874545	Saxony-Anhalt	52.12773	11.62916	52.12773,11.62916	DE	Germany
+835	Mainz	maint;maintz;maentz;magonza;mentz;mantz;maenz;mainz;magoza;mäyntz;maynz;meynz	2874225	Rheinland-Pfalz	49.98419	8.2791	49.98419,8.2791	DE	Germany
+836	Málaga	málaga;malage;malaga;manlaga;malega	2514256	Andalusia	36.72016	-4.42034	36.72016,-4.42034	ES	Spain
+837	Malchin	malchin	2874131	Mecklenburg-Vorpommern	53.7399	12.76539	53.7399,12.76539	DE	Germany
+838	malmedier	malmedier							
+839	Malomozhayskoye	malomozhayskoye;aldekirch;aldentirk	530915	Kaliningrad	54.92083	22.2025	54.92083,22.2025	RU	Russia
+840	Malta	malta;malty							
+841	Mamers	mamers;memers	2996291	Pays de la Loire	48.35	0.38333	48.35,0.38333	FR	France
+842	Mansfeld	mansfelt;mansfeld	2873852	Saxony-Anhalt	51.59234	11.45223	51.59234,11.45223	DE	Germany
+843	Mantova	mantuva;mantoua;mantua;mantova;mantove;mantoa;mantu	3174051	Lombardy	45.16031	10.79784	45.16031,10.79784	IT	Italy
+844	Manzanares	mancanares;real mancanares;manzanres;real mercenares;mancaneres;manzanares	2514190	Castille-La Mancha	38.99915	-3.36991	38.99915,-3.36991	ES	Spain
+845	Maransin	maransin;marafin	2996101	Nouvelle-Aquitaine	45.08333	-0.26667	45.08333,-0.26667	FR	France
+846	Marburg	marprug;marpurg;marburg	2873759	Hesse	50.80904	8.77069	50.80904,8.77069	DE	Germany
+847	marca	la marca;marca							
+848	Marche	marche	8952186	Trentino-Alto Adige	47.02045	12.03848	47.02045,12.03848	IT	Italy
+849	marct	marct							
+850	marggrafenlandt	marggrafenlandt							
+851	Mariendorf	marendorp;mariendorf	2873606	Berlin	52.4378	13.38109	52.4378,13.38109	DE	Germany
+852	mariza	mariza							
+853	Markaryd	markaryd;markerae	2692596	Kronoberg	56.46135	13.59644	56.46135,13.59644	SE	Sweden
+854	Markt Einersheim	markt einersheim;einsisheim	2931784	Bavaria	49.68663	10.29155	49.68663,10.29155	DE	Germany
+855	marschau in pohlen	marschau in pohlen							
+856	Marseille	marsella;marseille;marseilles;marsiglia;mariglia;marsilia;marseglia	2995469	Provence-Alpes-Côte d'Azur	43.29695	5.38107	43.29695,5.38107	FR	France
+857	Martiany	mergetheim;martiany;mergethem	765166	Warmia-Masuria	54.02735	21.52043	54.02735,21.52043	PL	Poland
+858	martorel castello	martorel castello							
+859	masier	masier							
+860	maus	maus							
+861	Mayenne	mayenne la iuzest;mayenne	2994935	Pays de la Loire	48.3	-0.61667	48.3,-0.61667	FR	France
+862	Mayne	mayne	2994924	Nouvelle-Aquitaine	45.02521	-0.5757	45.02521,-0.5757	FR	France
+863	Meaux	meaux;meaulx	2642842	England	53.8406	-0.33869	53.8406,-0.33869	GB	United Kingdom
+864	Mebritz	mescritz;mebritz	2872622	Thuringia	50.72139	10.14888	50.72139,10.14888	DE	Germany
+865	Mechelen	malines;mechelen;malines en brabant	2791537	Flanders	51.02574	4.47762	51.02574,4.47762	BE	Belgium
+866	Medina de Pomar	medina del pumar;medina pomar;medina de pomar	3117009	Castille and León	42.92938	-3.48804	42.92938,-3.48804	ES	Spain
+867	Medina de Ríoseco	rio secho;medina ruseco;medina ruyseco;medina de ríoseco;rioseco;medina di rio secco;rio secco;medina ruseyco	3117008	Castille and León	41.88327	-5.04405	41.88327,-5.04405	ES	Spain
+868	Medina del Campo	medina nel campo;medina del canpo;medina del campo;medina dell compo;medina dell campo	3117010	Castille and León	41.31239	-4.91413	41.31239,-4.91413	ES	Spain
+869	Medinaceli	medina celi;medinaceli	3106203	Castille and León	41.16624	-2.34061	41.16624,-2.34061	ES	Spain
+870	Meersburg	mersburg;merspurg;meersburg	2872486	Baden-Württemberg	47.69419	9.27113	47.69419,9.27113	DE	Germany
+871	meglenburgt	meglenburgt							
+872	Meina	meina;meinz	3173646	Piedmont	45.79123	8.53761	45.79123,8.53761	IT	Italy
+873	Meiningen	mainingen;meiningen	2872225	Thuringia	50.56787	10.41521	50.56787,10.41521	DE	Germany
+874	Meissen	meichsen;meissen	2872155	Saxony	51.16158	13.4737	51.16158,13.4737	DE	Germany
+875	Melun	melun	2994651	Île-de-France	48.5457	2.65356	48.5457,2.65356	FR	France
+876	Memmingen	memingen;mominghen;meminghen;memmingen	2871992	Bavaria	47.98372	10.18527	47.98372,10.18527	DE	Germany
+877	mendosme	mendosme							
+878	Meppel	meppel	2750947	Drenthe	52.69583	6.19444	52.69583,6.19444	NL	Netherlands
+879	Meran	meran	3173577	Trentino-Alto Adige	46.66817	11.15953	46.66817,11.15953	IT	Italy
+880	Mergentheim	mergentheim	2953402	Baden-Württemberg	49.4925	9.77361	49.4925,9.77361	DE	Germany
+881	Mérida	mérida;merida	2513917	Extremadura	38.91611	-6.34366	38.91611,-6.34366	ES	Spain
+882	Meschede	meschede;mescede	2871668	North Rhine-Westphalia	51.3502	8.28332	51.3502,8.28332	DE	Germany
+883	Messina	missina;messina;messine;messina in sicilien	2524170	Sicily	38.19394	15.55256	38.19394,15.55256	IT	Italy
+884	Messkirch	messkirch;meskirch	2871609	Baden-Württemberg	47.99457	9.11479	47.99457,9.11479	DE	Germany
+885	Metz	metz;mez;mets	2994160	Grand Est	49.11911	6.17269	49.11911,6.17269	FR	France
+886	Meynes	meynes;meyne	2994078	Occitanie	43.87974	4.55958	43.87974,4.55958	FR	France
+887	Milan	mailannde;meilandt;millayn;mayland;millain;meiland;milano;meylandt;milan;mailand;maylandt;millan;milanu;meylend;meylanen;meyland;meylande	3173435	Lombardy	45.46427	9.18951	45.46427,9.18951	IT	Italy
+888	Milly-la-Forêt	milly;milly-la-forêt	2993843	Île-de-France	48.404	2.47015	48.404,2.47015	FR	France
+889	Miltenberg	mitenburg;miltenberg	2871079	Bavaria	49.70452	9.26725	49.70452,9.26725	DE	Germany
+890	Mindelheim	mindelhaim;mindelheim	2871045	Bavaria	48.04578	10.49222	48.04578,10.49222	DE	Germany
+891	Minden	eminden;mindun;minden;minden an der weser	2871039	North Rhine-Westphalia	52.28953	8.91455	52.28953,8.91455	DE	Germany
+892	Miraflores	miraflores	3116708	Madrid	40.8155	-3.76213	40.8155,-3.76213	ES	Spain
+893	Mirambeau	mirambeau;mirembeau	2993757	Nouvelle-Aquitaine	45.3731	-0.57067	45.3731,-0.57067	FR	France
+894	Mirandola	mirandola	3173370	Emilia-Romagna	44.88515	11.06902	44.88515,11.06902	IT	Italy
+895	Modena	modona;modena;modana	3173331	Emilia-Romagna	44.64783	10.92539	44.64783,10.92539	IT	Italy
+896	Molines-en-Queyras	moulins;molines-en-queyras;molins;molines;mölins	2993513	Provence-Alpes-Côte d'Azur	44.72944	6.84329	44.72944,6.84329	FR	France
+897	Momeliano	momeliano;momelian;mommigliano	8957637	Emilia-Romagna	44.92426	9.53944	44.92426,9.53944	IT	Italy
+898	Monaco	monaco nella liguria;monaco riviera di genova	2993458		43.73333	7.41667	43.73333,7.41667	MC	Monaco
+899	Monasterio de Santa María de El Paular	sancta maria del paular;s pol;santa maria del paular;maria del paular;s maria del paular;saint maria dell pauler;santa maria del paula;santa maria paular;monasterio santa maría el paular, madrid, spain;paular	10921885	Madrid	40.88896	-3.8881	40.88896,-3.8881	ES	Spain
+900	Mondon	mondon	2993351	Bourgogne-Franche-Comté	47.44057	6.31074	47.44057,6.31074	FR	France
+901	Mondovì	nostra signora del mondovi;mondovi;sig del mondovi;mondevi;mondovì	3173162	Piedmont	44.39603	7.81764	44.39603,7.81764	IT	Italy
+902	Mondragón	mondragón;montdragon	3116503	Basque Country	43.06441	-2.48977	43.06441,-2.48977	ES	Spain
+903	Monieux	monuelo;monieux	2993279	Provence-Alpes-Côte d'Azur	44.06741	5.3585	44.06741,5.3585	FR	France
+904	Monistrol de Montserrat	nostra signora di monserrato in ispagna;monistrol de montserrat;nostre dame montserrat;nostra signora di monserato in ispagna;nostra signora di monserrato;casal monferrato	3116466	Catalonia	41.61667	1.85	41.61667,1.85	ES	Spain
+905	Monjou	monlou;monjow;monjou	2993275	Auvergne-Rhône-Alpes	45.5094	5.17373	45.5094,5.17373	FR	France
+906	Monopoli	monopoli	3173131	Apulia	40.94918	17.29717	40.94918,17.29717	IT	Italy
+907	Mons	mons en hainaut;montz en haynault;mons en heynault;mons en henault;monts en haynault;mons	2790869	Wallonia	50.45413	3.95229	50.45413,3.95229		Belgium
+908	Monstreux	monstreux;monstreul	2790857	Wallonia	50.59816	4.2894	50.59816,4.2894	BE	Belgium
+909	Mont-Cenis	mont cinis;mont cenis;mont senis;mont seniz	3007538	Auvergne-Rhône-Alpes	45.28556	6.87566	45.28556,6.87566	FR	France
+910	Mont-de-Marsan	mont de marsan;mont-de-marsan	2992771	Nouvelle-Aquitaine	43.89022	-0.49713	43.89022,-0.49713	FR	France
+911	Mont-Louis	mont loys;mont-louis	6694770	Occitanie	42.544	2.12	42.544,2.12	FR	France
+912	Montaguto	montaguto;montagudo	3173104	Campania	41.24873	15.24845	41.24873,15.24845	IT	Italy
+913	Montaigu	montaigu;montagu;montagut	2993092	Pays de la Loire	46.97667	-1.30846	46.97667,-1.30846	FR	France
+914	Montargis	montarges;montargis	2993024	Centre-Val de Loire	48	2.75	48,2.75	FR	France
+915	Montauban	montaban;montauban en quercy;montaulbam;montauban	2993002	Occitanie	44.01819	1.36432	44.01819,1.36432	FR	France
+916	Montbéliard	montbelliard;montbéliard;montbelgard;montbelliart;montpelgard;mümpelgart	2992938	Bourgogne-Franche-Comté	47.50957	6.79823	47.50957,6.79823	FR	France
+917	Montdidier	mondidier;montdidier	2992760	Hauts-de-France	49.65	2.56667	49.65,2.56667	FR	France
+918	Montecchio	montecchio;forte di fuentes	8963577	Piedmont	45.65127	8.54771	45.65127,8.54771	IT	Italy
+919	monteleone	monteleone							
+920	montélimar	montelimart;montlimar;montelimar;montlimart;montélimar	2992703	Auvergne-Rhône-Alpes	44.55838	4.75094	44.55838,4.75094	FR	France
+921	Montepulciano	montepulciano;monte pulciano	3172794	Tuscany	43.09998	11.78704	43.09998,11.78704	IT	Italy
+922	Montereau	montereau faul yonne;montereau;montereau ou faut yonne;montereau fault yonne	2992671	Île-de-France	48.38333	2.95	48.38333,2.95	FR	France
+923	Montferrand	montfersnd;montferrand	2992612	Occitanie	43.3643	1.81979	43.3643,1.81979	FR	France
+924	Montferrat	casale monserrato;monferrate;montferrat;monferrato;monserrat;casa di monserrato;monserrato;monserato;monferrat	3173152	Piedmont	44.91667	8.08333	44.91667,8.08333	IT	Italy
+925	Montfort-l’Amaury	montfort l'amoury;montfort l amaulry;montfort l'amaulry;montfort;montfort l amoury	2992585	Île-de-France	48.77275	1.81309	48.77275,1.81309	FR	France
+926	Montlhéry	montlehery;montleherry;montlhéry	2992309	Île-de-France	48.64004	2.27465	48.64004,2.27465	FR	France
+927	Montluel	monlovel;monluelo;monlovv;monloello;montluel;monluello	2992290	Auvergne-Rhône-Alpes	45.8519	5.0578	45.8519,5.0578	FR	France
+928	Montmélian	montmélian;montmelian	2992255	Auvergne-Rhône-Alpes	45.49994	6.05047	45.49994,6.05047	FR	France
+929	Montpellier	mompeliere;montepelier;mopellier;montepelie;montpellier;montpeslier;mepellier;mompellier;monpellier;monpeller;mompiller;montepeslier	2992166	Occitanie	43.61092	3.87723	43.61092,3.87723	FR	France
+930	Montreuil	montreuil;montreul;montrevil	2992061	Hauts-de-France	50.46374	1.76348	50.46374,1.76348	FR	France
+931	Monzón	monzon;monzón;monson;moncon	3116224	Aragon	41.91084	0.19406	41.91084,0.19406	ES	Spain
+932	Morbegno	morbegno;morbegna	3172617	Lombardy	46.1372	9.57415	46.1372,9.57415	IT	Italy
+933	Moret	moret;moret en gastinois	2991842	Île-de-France	48.37239	2.81713	48.37239,2.81713	FR	France
+934	Morez	morer;morez	2991832	Bourgogne-Franche-Comté	46.5254	6.02589	46.5254,6.02589	FR	France
+935	Morlaix	morlaix	2991772	Brittany	48.57742	-3.82788	48.57742,-3.82788	FR	France
+936	Mortain	mortain;mortaigne	2991699	Normandy	48.64782	-0.94055	48.64782,-0.94055	FR	France
+937	Moscow	musconia;moscau;muscovia;musca;moskow;moscow;muscavia	524901	Moscow	55.75222	37.61556	55.75222,37.61556	RU	Russia
+938	Mühlhausen	mylbausen;mühlhausen	2867996	Thuringia	51.20896	10.45275	51.20896,10.45275	DE	Germany
+939	Mulhouse	mulhausen;mulhouse	2991214	Grand Est	47.75205	7.32866	47.75205,7.32866	FR	France
+940	Müllenbach	müllenbach;mullenbach	2867818	Baden-Württemberg	48.71321	8.1509	48.71321,8.1509	DE	Germany
+941	Munich	munche;monaco corte di baviera;munchen in bayrn;mynchen in bauarya;monaco di baviera;munich;muenchen in baeyern;mynchen;munchen;muenchen in bayern;monaco;münchen	2867714	Bavaria	48.13743	11.57549	48.13743,11.57549	DE	Germany
+942	Munster	munster in der eissel;munster nider wesel	11977010	Lower Saxony	52.99331	10.09649	52.99331,10.09649	DE	Germany
+943	Münster	muenster;meunster in westphalen;munster;muenster in westphalen;münster	2867543	North Rhine-Westphalia	51.96236	7.62571	51.96236,7.62571	DE	Germany
+944	Murcia	murcia;mursia	2513416	Murcia	37.98704	-1.13004	37.98704,-1.13004	ES	Spain
+945	Murten/Morat	murten/morat;murten	2659529	Fribourg	46.92827	7.11715	46.92827,7.11715	CH	Switzerland
+946	Mussy l'Évêque	mussy l'evesque;mussy l evesque;mussy l'évêque;vesque;mussy evesque	11915634	Grand Est	49.17452	6.40589	49.17452,6.40589	FR	France
+947	Muttenberg	muttenberg	2867325	North Rhine-Westphalia	51.21823	8.16833	51.21823,8.16833	DE	Germany
+948	Nájera	nájera;naxora;najara	3115780	La Rioja	42.41822	-2.72865	42.41822,-2.72865	ES	Spain
+949	Nalžovy	ellischaw;nalžovy;ellischaw in behmen	3070056	Plzeňský kraj	49.33406	13.54864	49.33406,13.54864	CZ	Czechia
+950	Namur	namur	2790471	Wallonia	50.4669	4.86746	50.4669,4.86746	BE	Belgium
+951	Nancy	nansi di loreno;nansi di lorena;nanzy;nancy;nansy;nansi;nanci in lothringen	2990999	Grand Est	48.68439	6.18496	48.68439,6.18496	FR	France
+952	Nangis	nangis	2990992	Île-de-France	48.55535	3.01306	48.55535,3.01306	FR	France
+953	Nantes	nantes;nanzen in lottringen;nanzen;nates	2990969	Pays de la Loire	47.21725	-1.55336	47.21725,-1.55336	FR	France
+954	Nanteuil-le-Haudouin	nantueil le hauldoyn;nanteuil-le-haudouin;nantueil	2990958	Hauts-de-France	49.14082	2.81142	49.14082,2.81142	FR	France
+955	Nantua	nantua	2990932	Auvergne-Rhône-Alpes	46.15343	5.60601	46.15343,5.60601	FR	France
+956	nanzu	nanzu							
+957	Naples	neaples;napoli;naples;napole;neapolis;neapolim;neaplis;neapoli	3172394	Campania	40.85216	14.26811	40.85216,14.26811	IT	Italy
+958	Narbonne	narbonne;narbona;nerbone;narbone	2990919	Occitanie	43.18396	3.00141	43.18396,3.00141	FR	France
+959	Nari	nari	8965392	Liguria	44.18673	8.25769	44.18673,8.25769	IT	Italy
+960	Narni	narni	3172377	Umbria	42.51956	12.52758	42.51956,12.52758	IT	Italy
+961	narua in lieslandt	narua in lieslandt							
+962	Narva	narva	590031	Ida-Virumaa	59.37722	28.19028	59.37722,28.19028	EE	Estonia
+963	naschgremetitz	naschgremetitz							
+964	Naumburg	nawmburg;naunburgo;naonburgo;naumberg;naumburgo;naumburg;naumbure	2866906	Saxony-Anhalt	51.14987	11.80979	51.14987,11.80979	DE	Germany
+965	Neissem	neissen;neissem	2790327	Flanders	50.7891	5.14148	50.7891,5.14148	BE	Belgium
+966	Nemours	nemours;nemoux	2977425	Île-de-France	48.26733	2.67966	48.26733,2.67966	FR	France
+967	Nérac	nérac;nerac	2990780	Nouvelle-Aquitaine	44.13613	0.33934	44.13613,0.33934	FR	France
+968	Netherlands	netherlands;niederlanden;holland;flandern	2750405		52.25	5.75	52.25,5.75	NL	Netherlands
+969	Neubrandenburg	neubrandenburg;new brandenburg	2866135	Mecklenburg-Vorpommern	53.56414	13.27532	53.56414,13.27532	DE	Germany
+970	Neuburg an der Donau	neuburgt auff der thonaw;neuburg an der donau;nevvburge;newburgt;newburg an die thonaw	2866070	Bavaria	48.73218	11.18709	48.73218,11.18709	DE	Germany
+971	Neufchâtel-Hardelot	neuffchastel;neufchâtel-hardelot	2990678	Hauts-de-France	50.62018	1.64223	50.62018,1.64223	FR	France
+972	Neuhausen	neuhausen	2659485	Schaffhausen	47.68579	8.61474	47.68579,8.61474	CH	Switzerland
+973	Neustadt	neustadt;neustat	2864067	Hamburg	53.55196	9.98558	53.55196,9.98558	DE	Germany
+974	Nevers	nivers;neuers;nevers	2990474	Bourgogne-Franche-Comté	46.98956	3.159	46.98956,3.159	FR	France
+975	newburg	neuburg;newburg;neuburgt							
+976	newstat	newstat;newstatt							
+977	Nice	nissi di savona;niza;nizze;nice;nisi di savoia;nizza	2990440	Provence-Alpes-Côte d'Azur	43.70313	7.26608	43.70313,7.26608	FR	France
+978	Nidek	nideck;nidek	3091070	Lesser Poland	49.90492	19.32461	49.90492,19.32461	PL	Poland
+979	Niebla	niebla	2513230	Andalusia	37.36213	-6.67894	37.36213,-6.67894	ES	Spain
+980	Nienburg	nienberg;nyenburg;nienburg	2862620	Lower Saxony	52.6461	9.22086	52.6461,9.22086	DE	Germany
+981	nierting	nierting							
+982	nietenau	nietenau							
+983	Nieuwegein	nieuwegein;nieumegen	2750325	Utrecht	52.02917	5.08056	52.02917,5.08056	NL	Netherlands
+984	Nieuwpoort	nieuporten;nieuwpoort;neuport	2790151	Flanders	51.10789	3.90426	51.10789,3.90426	BE	Belgium
+985	Nijmegen	nijmegen;neumegen;nimega;ninmegen;geldet nieumegen;nimmengen;nimmegen	2750053	Gelderland	51.8425	5.85278	51.8425,5.85278	NL	Netherlands
+986	Nîmes	nimes;nismes;nymes	2990363	Occitanie	43.83378	4.35962	43.83378,4.35962	FR	France
+987	nindecken	nindecken							
+988	Ninove	ninove;ninoven	2790114	Flanders	50.82776	4.02657	50.82776,4.02657	BE	Belgium
+989	Niort	niort;nyort	2990355	Nouvelle-Aquitaine	46.32313	-0.45877	46.32313,-0.45877	FR	France
+990	Nivelles	nivelle;nivelles	2790101	Wallonia	50.59833	4.32848	50.59833,4.32848	BE	Belgium
+991	Nogent-le-Rotrou	nogent-le-rotrou;nogent le rotrou	2990272	Centre-Val de Loire	48.32157	0.82177	48.32157,0.82177	FR	France
+992	Nogent-sur-Oise	nogent;nogent-sur-oise	2990264	Hauts-de-France	49.27158	2.47074	49.27158,2.47074	FR	France
+993	Nogent-sur-Seine	nogent sur seine	2990263	Grand Est	48.49372	3.50262	48.49372,3.50262	FR	France
+994	Norden	norden	2862118	Lower Saxony	53.59552	7.20639	53.59552,7.20639	DE	Germany
+995	Nordhausen	nordhausen;northausen	2861982	Thuringia	51.5018	10.7957	51.5018,10.7957	DE	Germany
+996	Nördlingen	nordlinghen;nordlingen;noerdlingen;nördlingen;nordling	2861914	Bavaria	48.85122	10.48868	48.85122,10.48868	DE	Germany
+997	Northeim	northeim	2861814	Lower Saxony	51.70662	9.99997	51.70662,9.99997	DE	Germany
+998	nostre dame conray	nostre dame conray							
+999	nostre dame des plans	nostre dame des plans							
+1000	nostre dame l'espires	nostre dame l espires;nostre dame l'espires;nostre dame l episne							
+1001	nostre dame pariset	nostre dame pariset							
+1002	Nostre-Dame-Puy	nostre dame puy en avvergne	3002465	Auvergne-Rhône-Alpes	45.04366	3.88523	45.04366,3.88523	FR	France
+1003	Notre-Dame-Boulogne	notre dame boulogne;nostre dame bolongne	6439391	Hauts-de-France	50.72556	1.61389	50.72556,1.61389	FR	France
+1004	Notre-Dame-du-Bon-Désir	nostre dame bon desir;notre-dame-du-bon-désir							
+1005	Novara	novarra;novara	3172189	Piedmont	45.44694	8.62118	45.44694,8.62118	IT	Italy
+1006	Novi	novi	3194360	Vojvodina	45.25167	19.83694	45.25167,19.83694	RS	Serbia
+1007	Nowogard	novogardia;nowogard;novagardia	3090558	West Pomerania	53.67437	15.1163	53.67437,15.1163	PL	Poland
+1008	Noyon	noyon	2989877	Hauts-de-France	49.58333	3	49.58333,3	FR	France
+1009	numes	numes							
+1010	nunz	nunz							
+1011	Nuremberg	nuernbergt;nurenberg;nurnbergt;nurenburg;norimberg;norimburga;nurnberg;nuerenberg;nuremberg;norimberga;nurnberge;nornberge;norimbergo;nuernberg;nuermbergt;nurnburg;nurimberg;nurberg;nureberg;nürnberg	2861650	Bavaria	49.45421	11.07752	49.45421,11.07752	DE	Germany
+1012	nuyz;nuys	nuyz;nuys							
+1013	obern beltz	obern beltz							
+1014	Ocaña	ocaña;ocana	2513175	Castille-La Mancha	39.95785	-3.4982	39.95785,-3.4982	ES	Spain
+1015	Ochsenfurt	ochsenfurt	2858333	Bavaria	49.66429	10.06227	49.66429,10.06227	DE	Germany
+1016	Ocieszyn	ocieszyn;oczwieczin	3090334	Greater Poland	52.60044	16.81904	52.60044,16.81904	PL	Poland
+1017	octermund	octermund							
+1018	Odenburg	odenburg	3045190	Győr-Moson-Sopron	47.68501	16.59049	47.68501,16.59049	HU	Hungary
+1019	Odense	odensee in fuenen;odense	11746745	South Denmark	55.3577	10.30646	55.3577,10.30646	DK	Denmark
+1020	offenauch	offenauch							
+1021	Offenburg	ofebruct;offenburg;ofenbrugk;ofenbruct;ofenburg;ofenbruck;osenburg;oschenbruct;ofebrug;ofschenbruct;ofenbrug;oschenbrucht	2857798	Baden-Württemberg	48.47377	7.94495	48.47377,7.94495	DE	Germany
+1022	Oldenberg	oldenburgt;oldenberg	2789580	Flanders	50.75161	4.6164	50.75161,4.6164	BE	Belgium
+1023	Oldenburg	oldenburg	2857458	Lower Saxony	53.14118	8.21467	53.14118,8.21467	DE	Germany
+1024	Oldesio	oldesso;oldesio	8954794	Lombardy	45.7351	10.72095	45.7351,10.72095	IT	Italy
+1025	Olecko	olecko;tremburg	763291	Warmia-Masuria	54.03374	22.50704	54.03374,22.50704	PL	Poland
+1026	Oleśnica	oleśnica;ols	3090170	Lower Silesia	51.21338	17.38986	51.21338,17.38986	PL	Poland
+1027	Olomouc	olomouc;olmunz;olmutz;olmis nella moravia;olmuz;olmuntz;olmuentz;oloumouc;olmüz in mähren;ulmiz in mahren	3069011	Olomoucký	49.59552	17.25175	49.59552,17.25175	CZ	Czechia
+1028	Olyokminsk	olyokminsk;olz	2018571	Sakha	60.3743	120.4203	60.3743,120.4203	RU	Russia
+1029	Olza	ols in der schlesie;olza	3090082	Silesia	49.95393	18.3391	49.95393,18.3391	PL	Poland
+1030	onburg	onburg							
+1031	Oneglia	oneglia	3172014	Liguria	43.89035	8.04337	43.89035,8.04337	IT	Italy
+1032	Orange	aurenches;orange;auranches;orenges	2989460	Provence-Alpes-Côte d'Azur	44.1392	4.80791	44.1392,4.80791	FR	France
+1033	Orihuela	horiuela;orihuela;oribuela;buriyuela;horibuela	2513076	Valencia	38.08483	-0.94401	38.08483,-0.94401	ES	Spain
+1034	Orlamünde	orlamund;orlamünde	2857080	Thuringia	50.77486	11.51929	50.77486,11.51929	DE	Germany
+1035	Orléans	orlins;orliens;orleans;orléans;dourlens;orlians	2989317	Centre-Val de Loire	47.90289	1.90389	47.90289,1.90389	FR	France
+1036	Orthez	ortez;orthez	2989187	Nouvelle-Aquitaine	43.48839	-0.77244	43.48839,-0.77244	FR	France
+1037	Orvieto	orvieto;ornietto	3171874	Umbria	42.71924	12.11249	42.71924,12.11249	IT	Italy
+1038	Osera	fozia;osera	3114841	Aragon	41.53345	-0.57922	41.53345,-0.57922	ES	Spain
+1039	Oslo	christiania in norwegen;christiania;oslo	3143244	Oslo	59.91273	10.74609	59.91273,10.74609	NO	Norway
+1040	Osma	osma	2018272	Sakha	69.1	131.8	69.1,131.8	RU	Russia
+1041	Osnabrück	osenbrugt;osebrug;osenbruck;osenbrugk;osnabrück;osenbrug;osebrugk;oßnabrück	2856883	Lower Saxony	52.27264	8.0498	52.27264,8.0498	DE	Germany
+1042	Ostend	osten;ostende;ostenda;ostend	2789786	Flanders	51.21551	2.927	51.21551,2.927	BE	Belgium
+1043	Osterwieck	osterwig;osterwieck	2856330	Saxony-Anhalt	51.9699	10.71042	51.9699,10.71042	DE	Germany
+1044	Ostiglia	ostiglie;ostiglia	3171792	Lombardy	45.06978	11.13499	45.06978,11.13499	IT	Italy
+1045	Osuna	osuna	2513052	Andalusia	37.2376	-5.10311	37.2376,-5.10311	ES	Spain
+1046	Otranto	otranto;terra d'otranto;terra otranto;terra d otranto;terra otraento;ottranto;otraento;terra di otraento	3171785	Apulia	40.14789	18.48682	40.14789,18.48682	IT	Italy
+1047	ottaggio	ottaggio							
+1048	Oviedo	oviedo;orvietto	3114711	Asturias	43.36029	-5.84476	43.36029,-5.84476	ES	Spain
+1049	Oxford	oxford	2640729	England	51.75222	-1.25596	51.75222,-1.25596	GB	United Kingdom
+1050	Paderborn	paderborn	2855745	North Rhine-Westphalia	51.71905	8.75439	51.71905,8.75439	DE	Germany
+1051	Padua	padova;padua;padoa;padwie	3171728	Veneto	45.40797	11.88586	45.40797,11.88586	IT	Italy
+1052	Palencia	palencia	3114531	Castille and León	42.00955	-4.52406	42.00955,-4.52406	ES	Spain
+1053	Palermo	sicilien;sicilia;palermo	2523920	Sicily	38.13205	13.33561	38.13205,13.33561	IT	Italy
+1054	Palmanova	palma nova;palmanova;palmada	3171573	Friuli Venezia Giulia	45.9054	13.30998	45.9054,13.30998	IT	Italy
+1055	Palmela	palmella castello;palmella	2265223	Setúbal	38.56902	-8.90126	38.56902,-8.90126	PT	Portugal
+1056	Pamplona	zu della navarra;zu della narra;navarra;zu dela navarra;pamplona;pampalona	3114472	Navarre	42.81687	-1.64323	42.81687,-1.64323	ES	Spain
+1057	Pardubice	pardubice;pardubi	3068582	Pardubický	50.04075	15.77659	50.04075,15.77659	CZ	Czechia
+1058	Paris	paris;paris in franctreich;pariss;francia;parigi;paaris;pariß	2988507	Île-de-France	48.85341	2.3488	48.85341,2.3488	FR	France
+1059	Parma	parma	3171457	Emilia-Romagna	44.79935	10.32618	44.79935,10.32618	IT	Italy
+1060	Parthenay	partendoni;parteney;partenay;parthenay	2988447	Nouvelle-Aquitaine	46.65	-0.25	46.65,-0.25	FR	France
+1061	Passau	passaw;passau;pasaw	2855328	Bavaria	48.5665	13.43122	48.5665,13.43122	DE	Germany
+1062	Pavia	pavia	3171366	Lombardy	45.19205	9.15917	45.19205,9.15917	IT	Italy
+1063	Pécs	pecs;pécs;pecks;finfkirchen esseck	3046526	Baranya	46.08333	18.23333	46.08333,18.23333	HU	Hungary
+1064	Peiting	peiting;perting	2855025	Bavaria	47.79549	10.92951	47.79549,10.92951	DE	Germany
+1065	Peloponnesus	morea;peloponnesus	255620	Peloponnese	37.5	22.33333	37.5,22.33333	GR	Greece
+1066	Peña Francia	penna di francia;peña francia;pena di francia;pena francia	2989217		42.86667	-0.66667	42.86667,-0.66667	FR	France
+1067	Peñaranda de Bracamonte	peñaranda de bracamonte;pegnaranda contea	3113910	Castille and León	40.90108	-5.20026	40.90108,-5.20026	ES	Spain
+1068	Pente	depen;pente	2854938	Lower Saxony	52.3898	7.96862	52.3898,7.96862	DE	Germany
+1069	Perleburg	perleburg;perlesberg	2854848	Brandenburg	53.07583	11.85739	53.07583,11.85739	DE	Germany
+1070	Péronne	peronne;perone;péronne	2987928	Hauts-de-France	49.93218	2.9363	49.93218,2.9363	FR	France
+1071	Péronnes	péronnes;perona	2789171	Wallonia	50.55156	3.45374	50.55156,3.45374	BE	Belgium
+1072	Perpignan	perpignan;perpignano;perpinan	2987914	Occitanie	42.69764	2.89541	42.69764,2.89541	FR	France
+1073	pertigaw	peragid;pertigaw;petrigavv;petrigaw;perrigaw;perigaw							
+1074	Perugia	perguio;perugia;perugio	3171180	Umbria	43.1122	12.38878	43.1122,12.38878	IT	Italy
+1075	Pesaro	pesaro	3171173	The Marches	43.90921	12.9164	43.90921,12.9164	IT	Italy
+1076	Pescara	pescara;peschiera;pescara nell'abruzzo;pescara nell abruzzo	3171168	Abruzzo	42.4584	14.20283	42.4584,14.20283	IT	Italy
+1077	Peshtera	peschera;peshtera	728317	Pazardzhik	42.03372	24.29995	42.03372,24.29995	BG	Bulgaria
+1078	peterkopf	pieterkovv;peterkopf	2854750	Saarland	49.50845	6.64154	49.50845,6.64154	DE	Germany
+1079	Petersgmünd	petermund;petersgmünd	2854660	Bavaria	49.18643	11.02507	49.18643,11.02507	DE	Germany
+1080	Petershagen	petershagen	2854655	North Rhine-Westphalia	52.37513	8.96538	52.37513,8.96538	DE	Germany
+1081	petervvaradin	petervvardin;petervvaradin;peterwardin							
+1082	Peuerbach	peuerbach;peurbach	2768996	Upper Austria	48.3453	13.77205	48.3453,13.77205	AT	Austria
+1083	Pforzheim	pforsheim;pforzheim	2853969	Baden-Württemberg	48.88436	8.69892	48.88436,8.69892	DE	Germany
+1084	pfulendorf	pfulendorf							
+1085	Pfullendorf	pfullendorf;pfullendorff	2853930	Baden-Württemberg	47.9261	9.2578	47.9261,9.2578	DE	Germany
+1086	Piacenza	piacenza;piasenza	3171058	Emilia-Romagna	45.05242	9.69342	45.05242,9.69342	IT	Italy
+1087	Pietrasanta	pietra santa;pietrasanta	3170778	Tuscany	43.95952	10.22784	43.95952,10.22784	IT	Italy
+1088	Pilsen	pilsen	3068160	Plzeňský	49.74747	13.37759	49.74747,13.37759	CZ	Czechia
+1089	Piombino	piombino	3170674	Tuscany	42.92554	10.52585	42.92554,10.52585	IT	Italy
+1090	Pisa	pisa	3170647	Tuscany	43.70853	10.4036	43.70853,10.4036	IT	Italy
+1091	Pistoia	pistoia	3170621	Tuscany	43.93064	10.92365	43.93064,10.92365	IT	Italy
+1092	Pithiviers	pluviers;pithiviers	2987003	Centre-Val de Loire	48.16667	2.25	48.16667,2.25	FR	France
+1093	Plasencia	plasentia;placentia;plazencia;plasencia	3113331	Extremadura	40.03116	-6.08845	40.03116,-6.08845	ES	Spain
+1094	Plauen	plawen;plauen	2853292	Saxony	50.4973	12.13782	50.4973,12.13782	DE	Germany
+1095	Plesca	plesca	670519	Sălaj	47.08442	22.89173	47.08442,22.89173	RO	Romania
+1096	Plettenberg	plettenberg	2853209	North Rhine-Westphalia	51.20949	7.87261	51.20949,7.87261	DE	Germany
+1097	Plovdiv	plovdiv;philippopoli	728193	Plovdiv	42.15	24.75	42.15,24.75	BG	Bulgaria
+1098	Poggibonsi	pogibonzi;poggibonsi;pogibonsi	3170504	Tuscany	43.47064	11.14804	43.47064,11.14804	IT	Italy
+1099	Poitiers	poictiers;poittiers;poistiers;poitiers	2986495	Nouvelle-Aquitaine	46.58333	0.33333	46.58333,0.33333	FR	France
+1100	Poland	polonia;poland;polen	798544		52	20	52,20	PL	Poland
+1101	Pont-Saint-Esprit	pont s. esprit;pont-saint-esprit;pont esprit montepellier;pont s esprit	2986109	Occitanie	44.25494	4.64736	44.25494,4.64736	FR	France
+1102	Pont-Sainte-Maxence	pont-sainte-maxence;pont faincte maixence	2986110	Hauts-de-France	49.30168	2.60467	49.30168,2.60467	FR	France
+1103	Pontarlier	pontarlier	2986302	Bourgogne-Franche-Comté	46.90347	6.35542	46.90347,6.35542	FR	France
+1104	ponthovisin	ponthovisin							
+1105	pontieba	pontieba							
+1106	Pontoise	pontoise	8555643	Île-de-France	49.03894	2.07805	49.03894,2.07805	FR	France
+1107	Pontorson	pontorso;pontorson	2986136	Normandy	48.55316	-1.50754	48.55316,-1.50754	FR	France
+1108	Pontremoli	pontremoli	3170191	Tuscany	44.37515	9.87888	44.37515,9.87888	IT	Italy
+1109	Poppenberg	poppenberg;poppenburg	2852678	Thuringia	50.81119	10.01979	50.81119,10.01979	DE	Germany
+1110	Port Venasque	porto di venazque;port venasque;venazquez	2970150	Occitanie	42.7	0.63333	42.7,0.63333	FR	France
+1111	Porto	porto;proto	2735943	Porto	41.14961	-8.61099	41.14961,-8.61099	PT	Portugal
+1112	Porto Maurizio	porto mauritio;porto maurizio;port-maurice	3170079	Liguria	43.87439	8.01401	43.87439,8.01401	IT	Italy
+1113	Pošná	pošná;posna	3067771	Vysočina	49.45877	15.04225	49.45877,15.04225	CZ	Czechia
+1114	potarun	potarun							
+1115	pouillenach	pouillenach							
+1116	Pouligny-Saint-Pierre	pouligny-saint-pierre;pouligny	2985789	Centre-Val de Loire	46.68095	1.03877	46.68095,1.03877	FR	France
+1117	Pouzauges	pouzanges;pouzauges	2985708	Pays de la Loire	46.77941	-0.83619	46.77941,-0.83619	FR	France
+1118	Poznań	poznań;posen;posen in polen	3088171	Greater Poland	52.40692	16.92993	52.40692,16.92993	PL	Poland
+1119	Prague	prage in bohemya;praga;prag;prague;prag in bohemya;praag;prage;prag in böhmen	3067696	Hlavní město Praha	50.08804	14.42076	50.08804,14.42076	CZ	Czechia
+1120	Prin-Deyrançon	prin-deyrançon;prin	2985306	Nouvelle-Aquitaine	46.2217	-0.6363	46.2217,-0.6363	FR	France
+1121	prince of romania	prince of romania							
+1122	Provins	provenza;provence;provins	2967543	Île-de-France	48.5601	3.21947	48.5601,3.21947	FR	France
+1123	Pruit	pruct;pruit	3112808	Catalonia	42.04282	2.45476	42.04282,2.45476	ES	Spain
+1124	Ptuj	ptuj;pettaw	3192241	Ptuj	46.42005	15.87018	46.42005,15.87018	SI	Slovenia
+1125	Puconci	puconci;putchersdorff	3192230	Puconci	46.70667	16.15639	46.70667,16.15639	SI	Slovenia
+1126	Puiseaux	puiseaulx;puiseaux	2985116	Centre-Val de Loire	48.20479	2.47146	48.20479,2.47146	FR	France
+1127	Purbach	purbach;puzbach	2768244	Carinthia	46.96667	13.61667	46.96667,13.61667	AT	Austria
+1128	Pyrzyce	pyritz;pyrzyce	3087630	West Pomerania	53.1462	14.89257	53.1462,14.89257	PL	Poland
+1129	Quimper	quimper;quimpercorantin;quimpercorentin;qvinpercorantinon cornovalle	6431033	Brittany	47.99583	-4.09778	47.99583,-4.09778	FR	France
+1130	Racibórz	racibórz;ratibor;ratzebour;rativa	3087584	Silesia	50.09195	18.21928	50.09195,18.21928	PL	Poland
+1131	Radevormwald	raed vor wald;radevormwald	2850995	North Rhine-Westphalia	51.20219	7.36027	51.20219,7.36027	DE	Germany
+1132	Rampe	rampe;derpe	2850630	Mecklenburg-Vorpommern	53.68634	11.48621	53.68634,11.48621	DE	Germany
+1133	ranken in lottringen	ranken in lottringen							
+1134	Rapenburg	ratenburg;rapenburg	2788344	Flanders	51.32309	4.22903	51.32309,4.22903	BE	Belgium
+1135	Rąpin	rąpin;rapin	11696181	Lubusz	52.79054	15.84748	52.79054,15.84748	PL	Poland
+1136	raschinsitzt	rascha in zips;raschinsitzt							
+1137	rasser in reussen	rasser in reussen							
+1138	Rastatt	rastatt;rastat	2850257	Baden-Württemberg	48.85851	8.20965	48.85851,8.20965	DE	Germany
+1139	Rathenow	rathenow;ratenaw	2850213	Brandenburg	52.60659	12.33696	52.60659,12.33696	DE	Germany
+1140	Ratingen	ratingen	2850174	North Rhine-Westphalia	51.29724	6.84929	51.29724,6.84929	DE	Germany
+1141	Ratzeburg	ratzeburg;ratzeburgt;rakeburg;ratzeborgt	2850132	Schleswig-Holstein	53.69965	10.77256	53.69965,10.77256	DE	Germany
+1142	Ravenna	ravena;ravenna;ravenne	3169561	Emilia-Romagna	44.41344	12.20121	44.41344,12.20121	IT	Italy
+1143	Ravensberg	rauensperg;ravensberg	2849806	Mecklenburg-Vorpommern	53.99027	11.7045	53.99027,11.7045	DE	Germany
+1144	Ravensburg	ravensburg;raunspurg	2849802	Baden-Württemberg	47.78198	9.61062	47.78198,9.61062	DE	Germany
+1145	Recanati	recanati	3167828	The Marches	43.38333	13.55	43.38333,13.55	IT	Italy
+1146	Redon	redon	2984192	Brittany	47.65141	-2.08481	47.65141,-2.08481	FR	France
+1147	Rees	res;rees	2849548	North Rhine-Westphalia	51.76263	6.39778	51.76263,6.39778	DE	Germany
+1148	Reeth	reeth;renth	2639510	England	54.38746	-1.94475	54.38746,-1.94475	GB	United Kingdom
+1149	Regensburg	ravenspurg;remspurge;ratisbona;ravvenspurg;regspurg;regenspurge;regensburg;regenspurg	2849483	Bavaria	49.01513	12.10161	49.01513,12.10161	DE	Germany
+1150	Reggio Calabria	reggio calabria;regio	2523630	Calabria	38.11047	15.66129	38.11047,15.66129	IT	Italy
+1151	Reims	reims	2984114	Grand Est	49.25	4.03333	49.25,4.03333	FR	France
+1152	Reimsbach	reimsbach;reimbach	2848850	Saarland	49.45059	6.76751	49.45059,6.76751	DE	Germany
+1153	Reinbolden	reinbolden;reinfelden	2767715	Lower Austria	48.68333	15.01667	48.68333,15.01667	AT	Austria
+1154	Reisersberg	reusersberg;reisersberg	2848558	Bavaria	48.77975	13.49597	48.77975,13.49597	DE	Germany
+1155	Reitling	reitling	11612258	Upper Austria	48.34684	14.47766	48.34684,14.47766	AT	Austria
+1156	Rennes	rennes;reins;renes	2983990	Brittany	48.11198	-1.67429	48.11198,-1.67429	FR	France
+1157	rerchais	rerchais							
+1158	Rethem	rethum;rethem	2848051	Lower Saxony	52.78621	9.37862	52.78621,9.37862	DE	Germany
+1159	retwig	retwig							
+1160	Reutlingen	reutlingen;reitlingen	2847736	Baden-Württemberg	48.49144	9.20427	48.49144,9.20427	DE	Germany
+1161	Rezza	rezza	2983766	Corsica	42.12662	8.94602	42.12662,8.94602	FR	France
+1162	Rezzo	arezzo;reggio;arezo;rezzo;rozzo;resso	3169451	Liguria	44.02101	7.87199	44.02101,7.87199	IT	Italy
+1163	Rheinfelden	rheinfelden;rinfeld;ponte del reno	2659060	Aargau	47.55437	7.79403	47.55437,7.79403	CH	Switzerland
+1164	Rheinhausen	rheinhausen;rhenauser;reijnausen	10375764	Baden-Württemberg	48.22662	7.71086	48.22662,7.71086	DE	Germany
+1165	Rhenen	rhenen;rhenes	2748185	Utrecht	51.95917	5.56806	51.95917,5.56806	NL	Netherlands
+1166	Rhodes	rhodes;rodes	2983757	Grand Est	48.7585	6.89924	48.7585,6.89924	FR	France
+1167	riacha	riacha							
+1168	Riano	riano;rimano	3169443	Latium	42.09347	12.51462	42.09347,12.51462	IT	Italy
+1169	Riesa	priessa;riesa	2846939	Saxony	51.30777	13.29168	51.30777,13.29168	DE	Germany
+1170	Rieti	rieti;riete	3169412	Latium	42.40476	12.85735	42.40476,12.85735	IT	Italy
+1171	Riga	riga in lieslandt;riga	456172	Riga	56.946	24.10589	56.946,24.10589	LV	Latvia
+1172	Rimini	rimini;riminj	3169361	Emilia-Romagna	44.05755	12.56528	44.05755,12.56528	IT	Italy
+1173	ringstain	ringstain							
+1174	Rions	rion;ryon;rions;riom	2983483	Nouvelle-Aquitaine	44.66378	-0.35113	44.66378,-0.35113	FR	France
+1175	Rippach	rippach	2846508	Saxony-Anhalt	51.2266	12.06336	51.2266,12.06336	DE	Germany
+1176	Roanne	roanne;rouan;roan;roan sur loire;roane;roano	2983362	Auvergne-Rhône-Alpes	46.03624	4.06802	46.03624,4.06802	FR	France
+1177	Rochefort	rochefort	2983276	Nouvelle-Aquitaine	45.94204	-0.96696	45.94204,-0.96696	FR	France
+1178	Rochefourchat	rochefourchat;rochefoucault	2983260	Auvergne-Rhône-Alpes	44.59837	5.24692	44.59837,5.24692	FR	France
+1179	Roermond	ruremond;ruermundt;roermond;ruermund;ruremund	2748000	Limburg	51.19417	5.9875	51.19417,5.9875	NL	Netherlands
+1180	Romans	rommans;romans	2983012	Nouvelle-Aquitaine	46.35773	-0.22646	46.35773,-0.22646	FR	France
+1181	Rome	roome;rom;roma;rome;rzymu;romen;rohm	3169070	Latium	41.89193	12.51133	41.89193,12.51133	IT	Italy
+1182	Romorantin-Lanthenay	romorantin;romorentin;romorantin-lanthenay	2982967	Centre-Val de Loire	47.36667	1.75	47.36667,1.75	FR	France
+1183	Roncesvalles	roncesvalles	3111371	Navarre	43.01667	-1.31667	43.01667,-1.31667	ES	Spain
+1184	Rosenheim	rosenhaim;rosenheim	2844988	Bavaria	47.85637	12.12247	47.85637,12.12247	DE	Germany
+1185	Roskilde	roskilde;zu rotschilt	2614481	Zealand	55.64152	12.08035	55.64152,12.08035	DK	Denmark
+1186	Rostock	rostick;rostoct;rosthock;rostockt;rostock	2844588	Mecklenburg-Vorpommern	54.0887	12.14049	54.0887,12.14049	DE	Germany
+1187	roten	roten							
+1188	Rotenburg	rotenburg	2844437	Lower Saxony	53.11125	9.41082	53.11125,9.41082	DE	Germany
+1189	Rotentan	rotentan;rotenman	1493521	Altai Krai	52.56667	79.46667	52.56667,79.46667	RU	Russia
+1190	Rottenberg	rottenberg;rottenberck	2843733	Bavaria	50.03895	9.23139	50.03895,9.23139	DE	Germany
+1191	Rotterdam	rotterdam;roterdam	2747891	South Holland	51.9225	4.47917	51.9225,4.47917	NL	Netherlands
+1192	Rottweil	rottweil	2843636	Baden-Württemberg	48.16783	8.62719	48.16783,8.62719	DE	Germany
+1193	Rouen	rouen	2982652	Normandy	49.44313	1.09932	49.44313,1.09932	FR	France
+1194	Roux	roux	2787616	Wallonia	50.44111	4.3917	50.44111,4.3917	BE	Belgium
+1195	Roveredo	roveredo	2658944	Grisons	46.23653	9.12748	46.23653,9.12748	CH	Switzerland
+1196	Rovigo	rovigo	3177905	Veneto	45.05181	11.6956	45.05181,11.6956	IT	Italy
+1197	Roye	roye	2982330	Hauts-de-France	49.70038	2.78959	49.70038,2.78959	FR	France
+1198	Ruffec	russec;rossec;ruffec	2982217	Nouvelle-Aquitaine	46.02877	0.19821	46.02877,0.19821	FR	France
+1199	ruggische boden	ruggische boden							
+1200	Ruisseau la Marve	ruisseau la marve;marve	2995340	Grand Est	48.10563	4.21097	48.10563,4.21097	FR	France
+1201	Rupelmonde	rupelmunde;rupelmonde	2787512	Flanders	51.12931	4.29434	51.12931,4.29434	BE	Belgium
+1202	Rustenhart	rustenhart;rumpelgart	2982114	Grand Est	47.94137	7.46147	47.94137,7.46147	FR	France
+1203	Rye	rie;rye	2638909	England	50.95114	0.7337	50.95114,0.7337	GB	United Kingdom
+1204	s.  maurizio	s. maurizio;s maurizio							
+1205	s-Hertogenbosch	herzogenbosch;s-hertogenbosch;hertzogenbosch	2747351	North Brabant	51.69917	5.30417	51.69917,5.30417	NL	Netherlands
+1206	s. deijs mon	s. deijs mon;s deijs mon							
+1207	s. eloy de crau	s. eloy de crau;s eloy de crau							
+1208	s. porcin	s.porcin;s porcin							
+1209	s.truyen	s truyen;s.truyen							
+1210	Saarbrücken	garbructen;saarbrucken;saarbrücken	2842647	Saarland	49.23262	7.00982	49.23262,7.00982	DE	Germany
+1211	Sabiñán	sabina;sabiñán	6362927	Aragon	41.44746	-1.55968	41.44746,-1.55968	ES	Spain
+1212	Sachsenburg	sachsenburg	2842550	Saxony	50.94336	13.03968	50.94336,13.03968	DE	Germany
+1213	sainct iean d'orhestieren	sainct iean d orhestieren;sainct iean d'orhestieren							
+1214	sainct iulien vantes	sainct iulien vantes							
+1215	sainct loup	sainct loup							
+1216	sainct main	sainct main							
+1217	sainct maturin larchant	sainct maturin larchant							
+1218	sainct memin	sainct memin							
+1219	sainct michel du mont	sainct michel du mont							
+1220	Sainct Paul	sainct paul							
+1221	sainct salvateur en espaigne	sainct salvateur en espaigne							
+1222	saing iean d angel	saing iean d angel							
+1223	Saint Buryan	s burien;saint buryan	2638838	England	50.07421	-5.62156	50.07421,-5.62156	GB	United Kingdom
+1224	Saint Désiré	s desier;s. desier;saint désiré	2980859	Auvergne-Rhône-Alpes	46.4971	2.4305	46.4971,2.4305	FR	France
+1225	Saint-Arnoult	s. arnoult;s arnould;saint-arnoult;s arnoult;s. arnould;sainct arnoul	2981634	Normandy	49.52676	0.67117	49.52676,0.67117	FR	France
+1226	Saint-Avold	s avould;saint-avold;s. avould	2981492	Grand Est	49.10465	6.70402	49.10465,6.70402	FR	France
+1227	Saint-Claude	saint claude;sainct claude	6454111	Bourgogne-Franche-Comté	46.38722	5.86333	46.38722,5.86333	FR	France
+1228	Saint-Dizier	saint-dizier;s dizier;sainct disier;san dizies	2980816	Grand Est	48.63333	4.95	48.63333,4.95	FR	France
+1229	Saint-Fargeau	s forgeau;s. forgeau;saint-fargeau;sainct forgeau en puisaye	2980170	Bourgogne-Franche-Comté	47.64133	3.07066	47.64133,3.07066	FR	France
+1230	Saint-Fiacre	saint fiacre;sainct fiacre	2980128	Île-de-France	48.92327	2.95563	48.92327,2.95563	FR	France
+1231	Saint-Flour	s. flour;s flour;saint-flour	2980104	Auvergne-Rhône-Alpes	45.03374	3.09297	45.03374,3.09297	FR	France
+1232	Saint-Germain-en-Laye	saint-germain-en-laye;sainct germaine en laye	2979783	Île-de-France	48.9	2.08333	48.9,2.08333	FR	France
+1233	Saint-Hubert	s. hubert;saint-hubert;s hubert	2787407	Wallonia	50.02668	5.37401	50.02668,5.37401	BE	Belgium
+1234	Saint-Jean-de-Losne	s iean laune;saint-jean-de-losne;s iean de laune	2979310	Bourgogne-Franche-Comté	47.10247	5.26556	47.10247,5.26556	FR	France
+1235	Saint-Jean-de-Luz	san gio lux;s jean luz;san gio luz;saint-jean-de-luz	2979309	Nouvelle-Aquitaine	43.38871	-1.66267	43.38871,-1.66267	FR	France
+1236	Saint-Jean-de-Maurienne	sainct iean morienne;saint-jean-de-maurienne;sainct iean moriane	2979303	Auvergne-Rhône-Alpes	45.28333	6.35	45.28333,6.35	FR	France
+1237	Saint-Jean-des-Prémontrés d'Amiens	sainct iean d'amiens;sainct iean d amiens;saint-jean-des-prémontrés d'amiens	11971101	Grand Est	48.90793	6.05584	48.90793,6.05584	FR	France
+1238	Saint-Jean-les-Deux-Jumeaux	s. iean des deux iumeaux;s iean des deux iumeaux;saint jean les deux jumeaux;s jean des iumeaux	2979218	Île-de-France	48.9514	3.01959	48.9514,3.01959	FR	France
+1239	Saint-Jean-Pied-de-Port	s gio di piedeporto;s jean pied de port;san juan del pie;san juan pie del puerto;s. jean pie de port;s iean pieport;sant juan del pie del puerto;s iean pied port;s juan del pie puerto;s gio pie di porto;san gio di pie porto;san giovani di pieporto;s gio pie d porto;s. jean pied de port;san giovanni pie di porto;saint-jean-pied-de-port;san gio piedeporto;s jean pie de port;san juan del pie del puerto;san juan;san juan pie puerto;s giovani di pieporto	2979207	Nouvelle-Aquitaine	43.16363	-1.23738	43.16363,-1.23738	FR	France
+1240	Saint-Maixent-l’École	sainct maixent;s maixent;saint-maixent-l'école	2978643	Nouvelle-Aquitaine	46.41395	-0.20888	46.41395,-0.20888	FR	France
+1241	Saint-Martin-de-Belleville	saint-martin-de-belleville;le mont breline	2978417	Auvergne-Rhône-Alpes	45.38175	6.50519	45.38175,6.50519	FR	France
+1242	Saint-Maximin-la-Sainte-Baume	baulme;saint-maximin-la-sainte-baume	2978100	Provence-Alpes-Côte d'Azur	43.45214	5.86219	43.45214,5.86219	FR	France
+1243	Saint-Nicolas	s. niclaus;s niclas;s. niclas;s niclaus;saint-nicolas	2787356	Wallonia	50.62837	5.53243	50.62837,5.53243	BE	Belgium
+1244	Saint-Omer	s gwer;saint omer;saint-omer;s. gwer;s omer	2977845	Hauts-de-France	50.75	2.25	50.75,2.25	FR	France
+1245	Saint-Pierre-le-Moûtier	s. pierre le moustier;saint-pierre-le-moûtier;pierre le moustier;s pierre le moustier	2977432	Bourgogne-Franche-Comté	46.79277	3.11657	46.79277,3.11657	FR	France
+1246	Saint-Quentin	s quintin;saint-quentin;s. quintin;sainct quentin	2977295	Hauts-de-France	49.84889	3.28757	49.84889,3.28757	FR	France
+1247	Saint-Tugen	s. truyen;saint-tugen	2976736	Brittany	48.01783	-4.57632	48.01783,-4.57632	FR	France
+1248	Saintes	xainctes;sanctes;saintes;sainctes	2980340	Nouvelle-Aquitaine	45.75	-0.63333	45.75,-0.63333	FR	France
+1249	Salamanca	salamanca;salmanca;salamance	3111108	Castille and León	40.96882	-5.66388	40.96882,-5.66388	ES	Spain
+1250	Salasc	salsas;salasc	2976501	Occitanie	43.61867	3.3171	43.61867,3.3171	FR	France
+1251	Salerno	salerno	3168673	Campania	40.67545	14.79328	40.67545,14.79328	IT	Italy
+1252	Salins	salins	2976413	Bourgogne-Franche-Comté	46.94663	5.87763	46.94663,5.87763	FR	France
+1253	Saluzzo	saluzzo	3168609	Piedmont	44.64671	7.49309	44.64671,7.49309	IT	Italy
+1254	Salzburg	salzburg;saltzburgt;pfaltzburg;salztburgt;salzburgo;salztburg;saltzburgh;salsburgo;saltzburg;saltzburge	2766824	Salzburg	47.79941	13.04399	47.79941,13.04399	AT	Austria
+1255	salzburg (france)	salzburg (france)							
+1256	Salzwedel	goldewedel;goldwedel;soldewedel;soldwedel;salzwedel	6551150	Saxony-Anhalt	52.84993	11.1649	52.84993,11.1649	DE	Germany
+1257	san domingo	san domingo;san domingo de civilda						ES	Spain
+1258	San Gottardo	mont s gothart;mont sainct gothart;st. gotthard;mont godard;s gotthardsberg	2658829	Uri	46.55827	8.56213	46.55827,8.56213	CH	Switzerland
+1259	San Sebastián	san sebastián;sant sebastian;san sebastian	3110044	Basque Country	43.31283	-1.97499	43.31283,-1.97499	ES	Spain
+1260	sancta mari bele	sancta mari bele							
+1261	Sangerhausen	sangerhausen	2841693	Saxony-Anhalt	51.47221	11.29533	51.47221,11.29533	DE	Germany
+1262	Sanlúcar de Barrameda	s lucar;sanlúcar barrameda;san lucar;sanlúcar de barrameda	2511306	Andalusia	36.77808	-6.3515	36.77808,-6.3515	ES	Spain
+1263	Santa Maria	monesterio sancta mari;santa maria;setubal	2262963	Setúbal	38.5244	-8.8882	38.5244,-8.8882	PT	Portugal
+1264	Santa Maria de Belém	belem;santa maria belém;santa maria de belém	8014574	Lisbon	38.69911	-9.20867	38.69911,-9.20867	PT	Portugal
+1265	santa maria del jesus	santa maria del jesus							
+1266	santa maria del parazes	santa maria del parazes							
+1267	Santa Maria Maddalena	s maria maddalena;s. maria maddalena	3178273	Friuli Venezia Giulia	45.62511	13.80428	45.62511,13.80428	IT	Italy
+1268	Santec	santec;santen	2976117	Brittany	48.7	-4.03333	48.7,-4.03333	FR	France
+1269	Santiago Compostella	s iago;san giacomo;s. iago;s iacques compostella;sanctiago;s giacomo di galizia;s giacomo di galicia;s. jago;compostella;sainct iaques;santo iacomo di galitia;s iac;sainct iaques en galice;sainct iaquer en la ville compostelle;s iacomo;s giacomo di galitia;giacomo di galitia in spaine;san giacomo di galitia;s jacob di galizia;santiago;santiago compostella;s giacomo galitia;s jago;san iacomo di galitia;s giacomo;s jacob;santiago de galicia	3109642	Galicia	42.88052	-8.54569	42.88052,-8.54569	ES	Spain
+1270	santo domingo de la calzada	San Domingo de Civilda;santo domingo de la calzada	3109535	La Rioja	42.44015	-2.95365	42.44015,-2.95365	ES	Spain
+1271	Saretschje (Kaliningrad, Gurjewsk)	caemen;saretschje (kaliningrad, gurjewsk)	11467797	Kaliningrad	54.78693	20.88449	54.78693,20.88449	RU	Russia
+1272	sarlovis	sarlovis							
+1273	sarmundt	sarmundt							
+1274	Sarzana	sarzana	3167104	Liguria	44.11178	9.9622	44.11178,9.9622	IT	Italy
+1275	Saumur	saulmur;saumur	2975758	Pays de la Loire	47.26667	-0.08333	47.26667,-0.08333	FR	France
+1276	saverne	saverne	2975588	Grand Est	48.74164	7.36221	48.74164,7.36221	FR	France
+1277	Savona	saverna;zabern;saona;savona	3167022	Liguria	44.30905	8.47715	44.30905,8.47715	IT	Italy
+1278	Saxony	sachsen;saxony	2842566	Saxony	51	13.25	51,13.25	DE	Germany
+1279	schaffhausen	schaffhausen;schaffhusen;schafhausen	2658761	Schaffhausen	47.69732	8.63493	47.69732,8.63493	CH	Switzerland
+1280	Schagen	schagen	2747720	North Holland	52.7875	4.79861	52.7875,4.79861	NL	Netherlands
+1281	Schandorf	schandorf	2766162	Burgenland	47.24183	16.42267	47.24183,16.42267	AT	Austria
+1282	Schärding	scherding;scherdiing;schärding	2766155	Upper Austria	48.45294	13.43722	48.45294,13.43722	AT	Austria
+1283	schläitz	schläitz							
+1284	Schleiden	schleiden;schlenden	2838742	North Rhine-Westphalia	51.03916	6.10537	51.03916,6.10537	DE	Germany
+1285	schlestat	schlestat							
+1286	Schleswig	schleswik;schlesewig;schleswig;schleßwig in hollstein;sleswick;schlewsick;scleswijck;sleswijck	2838634	Schleswig-Holstein	54.52156	9.5586	54.52156,9.5586	DE	Germany
+1287	Schleswig-Holstein	holfstein;schleswig-holstein;holsatia;holfatia;holstein	2838632	Schleswig-Holstein	54.2	9.75	54.2,9.75	DE	Germany
+1288	Schleusingen	schleusingen;schleusing	2838600	Thuringia	50.51076	10.75658	50.51076,10.75658	DE	Germany
+1289	schloboda	schloboda							Russia
+1290	Schongau	schongau;schonga	2836616	Bavaria	47.8124	10.89664	47.8124,10.89664	DE	Germany
+1291	Schorndorf	schorndorff;schorndorf	2836320	Baden-Württemberg	48.80537	9.52721	48.80537,9.52721	DE	Germany
+1292	Schwäbisch Hall	schvvacz hall;schwäbisch hall;schwabischen hall;schwäbischen hall	2835481	Baden-Württemberg	49.11127	9.73908	49.11127,9.73908	DE	Germany
+1293	Schwaz	schwaz;squartz	2765390	Tyrol	47.35169	11.71014	47.35169,11.71014	AT	Austria
+1294	Schweinfurt	schweinfurt	2834498	Bavaria	50.04937	10.22175	50.04937,10.22175	DE	Germany
+1295	Schweinitz	schweinitz;schweiniz	2834485		50.65	13.4	50.65,13.4	CZ	Czechia
+1296	Schwerin	schwerin;schwerein	2834282	Mecklenburg-Vorpommern	53.62937	11.41316	53.62937,11.41316	DE	Germany
+1297	Schwyz	schwiz;schwyz	2658665	Schwyz	47.02076	8.65414	47.02076,8.65414	CH	Switzerland
+1298	Scotland	schonland;schotland;scotland	2650225	Scotland	55.95206	-3.19648	55.95206,-3.19648	GB	United Kingdom
+1299	Sedan	sedane;sedan	2975349	Grand Est	49.7	4.95	49.7,4.95	FR	France
+1300	Seeligstadt	seligstatt;seeligstadt	2833659	Saxony	51.10036	14.03985	51.10036,14.03985	DE	Germany
+1301	Segovia	sigovia;segovia	3109256	Castille and León	40.94808	-4.11839	40.94808,-4.11839	ES	Spain
+1302	Selkingen	seckingen;selkingen	7670402	Valais	46.45516	8.21545	46.45516,8.21545	CH	Switzerland
+1303	selva delli aglieri	selva dell'aglieri;forrest of largieri;selva dell algeri;selva delli aglieri;selva di laglieri;selva dell aglieri;selva dell'algeri;largieri							
+1304	Seminara	seminara	2523162	Calabria	38.33603	15.87025	38.33603,15.87025	IT	Italy
+1305	Senlis	senlis	2975088	Hauts-de-France	49.2	2.58333	49.2,2.58333	FR	France
+1306	Sens	sens	2975050	Bourgogne-Franche-Comté	48.2	3.28333	48.2,3.28333	FR	France
+1307	Sentse	sense;sentse	727355	Kardzhali	41.44972	25.45972	41.44972,25.45972	BG	Bulgaria
+1308	Septfontaines	septfontaines	2960070	Capellen	49.70111	5.96722	49.70111,5.96722	LU	Luxembourg
+1309	Sérignac	sérignac;serignach;sirignach	2974929	Occitanie	44.43348	1.10587	44.43348,1.10587	FR	France
+1310	Serravalle Sesia	verale;serravalle sesia	3166636	Piedmont	45.68485	8.3085	45.68485,8.3085	IT	Italy
+1311	Sestri Levante	sestri;sestri levante;scestri	3166595	Liguria	44.27317	9.39683	44.27317,9.39683	IT	Italy
+1312	Seville	savilien;sivigli;seuill;siviglia;sevila;civill in spain;sevilla;sivilla;seville;seviglia	2510911	Andalusia	37.38283	-5.97317	37.38283,-5.97317	ES	Spain
+1313	Sibiu	hermenstatt;harmstadt in stebensbuergen;hermstadt;hermstadt in siebenbuergen;hermanstat in siebenburgen;hermenstat in sibengurgen;hermanstat oder cibinum;hermanstat in subenburgen;harmstadt;sibiu	667268	Sibiu	45.8	24.15	45.8,24.15	RO	Romania
+1314	Siegen	siegen;siege	2832495	North Rhine-Westphalia	50.87481	8.02431	50.87481,8.02431	DE	Germany
+1315	Sienna	siene;siena;sieny;hoch siena	3166548	Tuscany	43.31822	11.33064	43.31822, 11.33064	IT	Italy
+1316	Sighetu Marmaţiei	sighetu marmaţiei;sighet	667227	Maramureş	47.93195	23.88603	47.93195,23.88603	RO	Romania
+1317	Siguenza	siguenca;siguenza;sequentia;ciguenca;sigüenza	3108961	Castille-La Mancha	41.06892	-2.64308	41.06892,-2.64308	ES	Spain
+1318	Simmern	semmern;simmern	2832013	Rheinland-Pfalz	49.98198	7.52351	49.98198,7.52351	DE	Germany
+1319	Simplon	simpione;simplon;sempione;sampion;monte sempione;sampione;mont sampion	2658581	Valais	46.19451	8.05753	46.19451,8.05753	CH	Switzerland
+1320	Sinigaglia	sinigaglia	8979677	Veneto	45.54688	11.64458	45.54688,11.64458	IT	Italy
+1321	Sion	sitten;sion;sitten in wallis	2658576	Valais	46.22739	7.35559	46.22739,7.35559	CH	Switzerland
+1322	Sirok	sirok;sirck	715763	Heves	47.93333	20.2	47.93333,20.2	HU	Hungary
+1323	Sisteron	sisteron;cisteron	2974446	Provence-Alpes-Côte d'Azur	44.18758	5.94623	44.18758,5.94623	FR	France
+1324	siuray	siuray							
+1325	Sławno	schlavve;schlawe	3085610	West Pomerania	54.36276	16.67888	54.36276,16.67888	PL	Poland
+1326	Smallebrugge	smallebrugge;smallenburg	2747096	Friesland	52.9603	5.63862	52.9603,5.63862	NL	Netherlands
+1327	Smolensk	smolenck;schmolensga;smolenks	491687	Smolensk	54.7818	32.0401	54.7818,32.0401	RU	Russia
+1328	soambol	soambol							
+1329	Soest	soest;soeft;zoest;zoeft	2747034	Utrecht	52.17333	5.29167	52.17333,5.29167	NL	Netherlands
+1330	Sofia	soffia;sofia	727011	Sofia-Capital	42.69751	23.32415	42.69751,23.32415	BG	Bulgaria
+1331	soft	soft							
+1332	Soissons	soissons	2974389	Hauts-de-France	49.38167	3.32361	49.38167,3.32361	FR	France
+1333	Solingen	solingen	2831580	North Rhine-Westphalia	51.17343	7.0845	51.17343,7.0845	DE	Germany
+1334	Solms	hohoe solms;hohoe golms;solms	9973269	Hesse	50.5362	8.40704	50.5362,8.40704	DE	Germany
+1335	Solothurn	solodurn;solothurn	2658564	Solothurn	47.20791	7.53714	47.20791,7.53714	CH	Switzerland
+1336	Sondrio	sondra nella valtelina;sondrio	3166397	Lombardy	46.16852	9.87134	46.16852,9.87134	IT	Italy
+1337	sorau	sorau							
+1338	Soria	soria	3108681	Castille and León	41.76401	-2.46883	41.76401,-2.46883	ES	Spain
+1339	Souillac	souillac	2974066	Occitanie	44.8972	1.47224	44.8972,1.47224	FR	France
+1340	Soulac-sur-Mer	soulac-sur-mer;soulac	2974056	Nouvelle-Aquitaine	45.51068	-1.12524	45.51068,-1.12524	FR	France
+1341	Spa	spa	2786318	Wallonia	50.48375	5.86674	50.48375,5.86674	BE	Belgium
+1342	Spain	spagna;spain;spanien	2510769		40	-4	40,-4	ES	Spain
+1343	Speyer	speyr;speyer;speir;spira;spiur	2830582	Rheinland-Pfalz	49.32083	8.43111	49.32083,8.43111	DE	Germany
+1344	Spitz	spiz;spitz	11817120	Saint Gallen	47.20131	9.11958	47.20131,9.11958	SZ	Switzerland
+1345	Split	split;spalato in dalmazia	3190261	Split-Dalmatia	43.50891	16.43915	43.50891,16.43915	HR	Croatia
+1346	Spoleto	spoleti;spoleto	3166236	Umbria	42.74071	12.73899	42.74071,12.73899	IT	Italy
+1347	St Bernard Pass	st bernard pass;mont saint bernard	2998085		45.68333	6.88333	45.68333,6.88333	FR	France
+1348	St Davids	saint dauids in wales;s. david;saint davids;s david	2638822	Wales	51.88094	-5.26554	51.88094,-5.26554	GB	United Kingdom
+1349	St-Malo	saint-malo;sinct malo;s. malo;saint malo;s malo;san malo;sainct malo	2978640	Brittany	48.65	-2.01667	48.65,-2.01667	FR	France
+1350	St. Gallen	st gallen;sant gallo;s. gall;san gallo;st. gallen;s gall;s gallen	2658822	Saint Gallen	47.42391	9.37477	47.42391,9.37477	CH	Switzerland
+1351	Stade	stade	2829901	Lower Saxony	53.59337	9.47629	53.59337,9.47629	DE	Germany
+1352	Staden	staden	2786226	Flanders	50.97456	3.01469	50.97456,3.01469	BE	Belgium
+1353	stafftafftusch in sclavonia	stafftasstusch in sclavonta;stafftafftusch in sclavonia;stafftasseusch in croatien							Slovenia
+1354	Stargard	stagard;stargard	3084840	West Pomerania	53.33672	15.0499	53.33672,15.0499	PL	Poland
+1355	statloo	statloo							
+1356	Stauern	staueren;stauern	2829342	Bavaria	48.43476	12.5715	48.43476,12.5715	DE	Germany
+1357	Steenwijk	steenwijk;steenwick	2746766	Overijssel	52.7875	6.12083	52.7875,6.12083	NL	Netherlands
+1358	stendel	stendel;stende							
+1359	Sternberg	sternberg	2827336	Mecklenburg-Vorpommern	53.71236	11.82678	53.71236,11.82678	DE	Germany
+1360	Sterzing	sterzing	3164065	Trentino-Alto Adige	46.89313	11.42961	46.89313,11.42961	IT	Italy
+1361	Steyr	steir;steyr	2764359	Upper Austria	48.04274	14.42127	48.04274,14.42127	AT	Austria
+1362	Stöckheim	stockheim;stöckheim	2826749	Lower Saxony	52.21055	10.52216	52.21055,10.52216	DE	Germany
+1363	Stockholm	stockholm in schweden;stoctholm;stoctholhm in schweden;stockholm	2673730	Stockholm	59.33258	18.0649	59.33258,18.0649	SE	Sweden
+1364	Stolberg	stolberg;stolburg;stolurg	2826595	North Rhine-Westphalia	50.77368	6.22595	50.77368,6.22595	DE	Germany
+1365	Stolpen	stolpen	2826532	Saxony	51.04901	14.07943	51.04901,14.07943	DE	Germany
+1366	strals	strals							
+1367	Stralsund	stralfund;stralfundt;stralsund;staelfun;strahlsund;straelfund;strahlfund;stralfun	2826287	Mecklenburg-Vorpommern	54.30911	13.0818	54.30911,13.0818	DE	Germany
+1368	Strasbourg	strasbourg;straszburge;strassburg;strauszburge;straspurg;strazburgo;argentine;argentina;strasburg;stasburg;strassburgt;straszburg;straßburg	2973783	Grand Est	48.58392	7.74553	48.58392,7.74553	FR	France
+1369	Strassen	straesen;strassen	2960054	Luxembourg	49.62056	6.07333	49.62056,6.07333	LU	Luxembourg
+1370	Strasswalchen	strasswalchen;strasswalden	2764172	Salzburg	47.97947	13.25535	47.97947,13.25535	AT	Austria
+1371	Straubing	straubingen;straubing	2826099	Bavaria	48.88126	12.57385	48.88126,12.57385	DE	Germany
+1372	Stuttgart	stutgarren;stuttgart;stugdard;stutgarten;stutgard;stutgardt	2825297	Baden-Württemberg	48.78232	9.17702	48.78232,9.17702	DE	Germany
+1373	Styria	steyermarct;steirmacht;istria;steiermark;steyrsmarcht;styria;istiria;steiermacht	2764581	Styria	47.25	15.16667	47.25,15.16667	AT	Austria
+1374	sunthausen	sunthausen	2824614	Baden-Württemberg	48.00049	8.59085	48.00049,8.59085	DE	Germany
+1375	Susa	suze;sussa;susa;suffa	3166018	Piedmont	45.13677	7.05809	45.13677,7.05809	IT	Italy
+1376	Šuše	suse;šuše	3270662	Federation of B&H	42.77553	18.05126	42.77553,18.05126	BA	Bosnia and Herzegovina
+1377	Switzerland	schweytzerland;swizerland;sweizerland;switzerland;svizzeri;schweiz	2658434		47.00016	8.01427	47.00016,8.01427	CH	Switzerland
+1378	Syburg	syburg	2824470	North Rhine-Westphalia	51.42549	7.4889	51.42549,7.4889	DE	Germany
+1379	Syracuse	siragusa;syracuse;siragusa di sicilia	2522723	Sicily	36.98333	15.23333	36.98333,15.23333	IT	Italy
+1380	Szczecin	stedt in pomern;szczecin;stein mehrern;steting nella pomerania;stetin;stenzin;stessen;stettin;stetin in pomern;stetting;stattin in pomerland;stattin;stetting nella pomerania;steitin;stettin in pommern	3083829	West Pomerania	53.42894	14.55302	53.42894,14.55302	PL	Poland
+1381	Székesfehérvár	székesfehérvár;stulwesenberg;stullweissenburg;stuelweissenburgt	3044774	Fejér	47.18995	18.41034	47.18995,18.41034	HU	Hungary
+1382	Taggia	taggia	3165993	Liguria	43.84612	7.85223	43.84612,7.85223	IT	Italy
+1383	talavera castello	talavera castello							
+1384	Tallinn	reval;revel;tallin	588409	Harjumaa	59.43696	24.75353	59.43696,24.75353	EE	Estonia
+1385	Talmont-sur-Gironde	talmont-sur-gironde;talmont	2973474	Nouvelle-Aquitaine	45.53333	-0.9	45.53333,-0.9	FR	France
+1386	Tancos	taucos;tancos	2262764	Santarém	39.46023	-8.3998	39.46023,-8.3998	PT	Portugal
+1387	Taranto	taranto	3165926	Apulia	40.46438	17.24707	40.46438,17.24707	IT	Italy
+1388	Tarbes	tarbes;tarbe	2973385	Occitanie	43.23333	0.08333	43.23333,0.08333	FR	France
+1389	Tarnowitz	tarnowitz;tornavvitz;tarnovvitz	3083440	Silesia	50.44548	18.86147	50.44548,18.86147	PL	Poland
+1390	Tarragona	tarragona;tarragonna;taragona	6361390	Catalonia	41.12386	1.26639	41.12386,1.26639	ES	Spain
+1391	Tàrrega	tàrrega;tarraga castello	3108285	Catalonia	41.64704	1.13957	41.64704,1.13957	ES	Spain
+1392	Tende	tende;tenda	2973180	Provence-Alpes-Côte d'Azur	44.08571	7.5934	44.08571,7.5934	FR	France
+1393	Terni	terni	3165771	Umbria	42.56335	12.64329	42.56335,12.64329	IT	Italy
+1394	Terracina	terracina	3165762	Latium	41.29174	13.24359	41.29174,13.24359	IT	Italy
+1395	terre	terre;teri							
+1396	Teruel	teruel;leruel	3108126	Aragon	40.3456	-1.10646	40.3456,-1.10646	ES	Spain
+1397	The Hague	the hague;l haje	2747373	South Holland	52.07667	4.29861	52.07667,4.29861	NL	Netherlands
+1398	Thérouanne	terouenne;teouenne;thérouanne;terven;toroünne	2972936	Hauts-de-France	50.63695	2.25838	50.63695,2.25838	FR	France
+1399	thertogebosch	thertogebosch							
+1400	Thionville	dierenhouen;thionville;diedenhouen	2972811	Grand Est	49.35994	6.16044	49.35994,6.16044	FR	France
+1401	Thonac	thonac;thonaw	2972750	Nouvelle-Aquitaine	45.02406	1.12019	45.02406,1.12019	FR	France
+1402	Thouars	tovars;thouars;tovars en poictou	2972695	Nouvelle-Aquitaine	46.97602	-0.21507	46.97602,-0.21507	FR	France
+1403	Tienen	tienen	2785470	Flanders	50.80745	4.9378	50.80745,4.9378	BE	Belgium
+1404	Tinchebray	tinchebray	2972555	Normandy	48.76437	-0.73333	48.76437,-0.73333	FR	France
+1405	Tirana	tiran;tirana	3183875	Tirana	41.3275	19.81889	41.3275,19.81889	AL	Albania
+1406	Toledo	tolede;toledo;tholedo;tolledo;[toledo]	2510409	Castille-La Mancha	39.8581	-4.02263	39.8581,-4.02263	ES	Spain
+1407	Tolentino	tolentino	3165595	The Marches	43.20918	13.28524	43.20918,13.28524	IT	Italy
+1408	Tongeren	tongren;tongeren	2785389	Flanders	50.78054	5.46484	50.78054,5.46484	BE	Belgium
+1409	Torgau	torgau;torgavv;torgaw	2821807	Saxony	51.56016	12.99617	51.56016,12.99617	DE	Germany
+1410	Tornac	tornaw;tornac	2972423	Occitanie	44.0215	3.99592	44.0215,3.99592	FR	France
+1411	Tornjoš	torryos;tornjoš	3188955	Vojvodina	45.87691	19.83523	45.87691,19.83523	RS	Serbia
+1412	Toro	toro	3107886	Castille and León	41.52417	-5.39534	41.52417,-5.39534	ES	Spain
+1413	Torquemada	torquemada;torquemada castello	3107878	Castille and León	42.0349	-4.31841	42.0349,-4.31841	ES	Spain
+1414	Torrijos	torregios;torijos;torrijos;torrigios	2510249	Castille-La Mancha	39.98195	-4.28349	39.98195,-4.28349	ES	Spain
+1415	Tortona	tortona	3165370	Piedmont	44.89784	8.86374	44.89784,8.86374	IT	Italy
+1416	Tortosa	tortosa;tortosu	3107677	Catalonia	40.81249	0.5216	40.81249,0.5216	ES	Spain
+1417	Toruń	torn;thorn nella prussia;torun;thorn;thoren in preussen	3083271	Kujawsko-Pomorskie	53.01375	18.59814	53.01375,18.59814	PL	Poland
+1418	Torviscosa	torviscosa;thrunburg	3165363	Friuli Venezia Giulia	45.82337	13.2805	45.82337,13.2805	IT	Italy
+1419	Toul	toul	2972350	Grand Est	48.68333	5.9	48.68333,5.9	FR	France
+1420	Toulon	toulon	2972328	Provence-Alpes-Côte d'Azur	43.12442	5.92836	43.12442,5.92836	FR	France
+1421	Toulouse	tholouse;tholoza;toulouze;thoulouse;taulose;tolosa;tholoze;toulose;tholose;tolose;thonlouse;toulouse;tholosa	2972315	Occitanie	43.60426	1.44367	43.60426,1.44367	FR	France
+1422	Tourly	tourly;tourry	2972268	Hauts-de-France	49.22386	1.94843	49.22386,1.94843	FR	France
+1423	tournay	tournay							
+1424	Tournus	tornut;tornus;tournus	2972203	Bourgogne-Franche-Comté	46.56758	4.90574	46.56758,4.90574	FR	France
+1425	Tours	toursa;tours	2972191	Centre-Val de Loire	47.39484	0.70398	47.39484,0.70398	FR	France
+1426	tramund	tramund							
+1427	Tréguier	tréguier;lantreguier;lantregier	2971929	Brittany	48.78333	-3.23333	48.78333,-3.23333	FR	France
+1428	Treis	treis	2821380	Rheinland-Pfalz	50.18333	7.3	50.18333,7.3	DE	Germany
+1429	Trento	triendt;triend;trient;trente;trent;trento	3165243	Italy	46.06787	11.12108	46.06787, 11.12108	IT	Italy
+1430	Trevélez	trevelez;trevel	2510175	Andalusia	37.00037	-3.26545	37.00037,-3.26545	ES	Spain
+1431	Treviso	treviso	3165201	Veneto	45.66673	12.2416	45.66673,12.2416	IT	Italy
+1432	Trier	trier	2821164	Rheinland-Pfalz	49.75565	6.63935	49.75565,6.63935	DE	Germany
+1433	Trieste	trieste	3165185	Friuli Venezia Giulia	45.64953	13.77678	45.64953,13.77678	IT	Italy
+1434	Troia	troia	3165141	Apulia	41.36428	15.3173	41.36428,15.3173	IT	Italy
+1435	Trois Maries	trois maries	3716301	Nord	19.75105	-72.29909	19.75105,-72.29909	HT	Haiti
+1436	Trojna Meǵa	trojna meǵa;troja	9113243	Opstina Rankovce	42.12452	22.19731	42.12452,22.19731	MK	Macedonia
+1437	Trondheim	truntheim;trondheim	3133880	Trøndelag	63.43049	10.39506	63.43049,10.39506	NO	Norway
+1438	Troyes	troyes;troye	3000165	Grand Est	48.30358	4.04552	48.30358,4.04552	FR	France
+1439	Trujillo	truxillo;trujillo	2510145	Extremadura	39.45786	-5.88203	39.45786,-5.88203	ES	Spain
+1440	Tübingen	tubbingen;tubingen;tübingen	2820860	Baden-Württemberg	48.52266	9.05222	48.52266,9.05222	DE	Germany
+1441	Tudela	tudella;tudela;tudela dela navarra;tudella navarra;tudela navarra	3107418	Navarre	42.06166	-1.60452	42.06166,-1.60452	ES	Spain
+1442	Tulle	tulles;tulle	2971482	Nouvelle-Aquitaine	45.27001	1.77309	45.27001,1.77309	FR	France
+1443	Turin	thurni;turino;thurin;thuerin;turin;thurn;torino;turino in savoyen	3165524	Piedmont	45.07049	7.68682	45.07049,7.68682	IT	Italy
+1444	Tuttlingen	tuttlingen;duttlingen	2820693	Baden-Württemberg	47.98464	8.8177	47.98464,8.8177	DE	Germany
+1445	Tysmenytsya	tysmenytsia;tisminitz la moldavia;tysmenytsya	690873	Ivano-Frankivsk	48.90219	24.84482	48.90219,24.84482	UA	Ukraine
+1446	Úbeda	vheda;abeda;ubeda;úbeda	2510116	Andalusia	38.01328	-3.3705	38.01328,-3.3705	ES	Spain
+1447	Udine	udine	3165072	Friuli Venezia Giulia	46.0693	13.23715	46.0693,13.23715	IT	Italy
+1448	Uelzen	lenizen;leutzen;uelzen	2820456	Lower Saxony	52.96572	10.56111	52.96572,10.56111	DE	Germany
+1449	Ulm	vlm;ulma;olm;vim;ulm	2820256	Baden-Württemberg	48.39841	9.99155	48.39841,9.99155	DE	Germany
+1450	ultenth	ultenth							
+1451	Unna	unna	2820087	North Rhine-Westphalia	51.53795	7.68969	51.53795,7.68969	DE	Germany
+1452	Uppsala	uppsala;upfal in schweden;upsaal in schweden	2666199	Uppsala	59.85882	17.63889	59.85882,17.63889	SE	Sweden
+1453	Urbino	urbino	3165035	The Marches	43.72621	12.63633	43.72621,12.63633	IT	Italy
+1454	Ussel	ussel;eussel	2971298	Nouvelle-Aquitaine	45.54804	2.30917	45.54804,2.30917		France
+1455	Utrecht	utrecht	2745912	Utrecht	52.09083	5.12222	52.09083,5.12222	NL	Netherlands
+1456	Uzerche	userches;uzerche	2971259	Nouvelle-Aquitaine	45.4212	1.56395	45.4212,1.56395	FR	France
+1457	valchisto	valchisto							
+1458	Valdarno	valdarno;valdarano;val d arno;val di arno;val d'arno;valley of arno	3177009	Tuscany	43.61995	11.47191	43.61995,11.47191	IT	Italy
+1459	Valençay	vaillancay;valençay	2971056	Centre-Val de Loire	47.16207	1.56852	47.16207,1.56852	FR	France
+1460	Valence	valence;valenze di francia;valentia;valenze	2971053	Auvergne-Rhône-Alpes	44.92801	4.8951	44.92801,4.8951	FR	France
+1461	Valencia	valenza;valencia;valecia	2509954	Valencia	39.46975	-0.37739	39.46975,-0.37739	ES	Spain
+1462	Valenciennes	valenciennes;valenchiennes;valencienes;valencienne;valentienes	2971041	Hauts-de-France	50.35	3.53333	50.35,3.53333	FR	France
+1463	Valladolid	valadolid;vagliadulit;valiadolith;valledolid;vagliadolit;vaglia dulis;valladolid;vagliadolid;vagliadolith;vagliadulid;valedolid	3106672	Castille and León	41.65518	-4.72372	41.65518,-4.72372	ES	Spain
+1464	Vallois	vallois;valois	2970897	Grand Est	48.46262	6.54929	48.46262,6.54929	FR	France
+1465	Valmontone	valmone;val montone;valmontone	3164778	Latium	41.77323	12.91856	41.77323,12.91856	IT	Italy
+1466	Valognes	valoignes;valogne;valognes	2970860	Normandy	49.50881	-1.47047	49.50881,-1.47047	FR	France
+1467	Vannes	vannes	2970777	Brittany	47.6579	-2.75574	47.6579,-2.75574	FR	France
+1468	Varennes-sur-Allier	varennes;varennes-sur-allier	2970685	Auvergne-Rhône-Alpes	46.31472	3.39846	46.31472,3.39846	FR	France
+1469	Varna	stain;varna	726050	Varna	43.21667	27.91667	43.21667,27.91667	BG	Bulgaria
+1470	Vasto	vasto	3164672	Abruzzo	42.1115	14.70649	42.1115,14.70649	IT	Italy
+1471	Vendôme	vendosme;vendôme	2970110	Centre-Val de Loire	47.8	1.06667	47.8,1.06667	FR	France
+1472	Venice	venedig;venise;venice;venetia;venecua;venecia;venezia;venedige;venize;wenecyey	3164603	Veneto	45.43713	12.33265	45.43713,12.33265	IT	Italy
+1473	Venlo	venlo;fendtlaw;fendtlaw in geilern	2745641	Limburg	51.37	6.16806	51.37,6.16806	NL	Netherlands
+1474	Ventimiglia	vintimilla;ventimiglia	3164582	Liguria	43.78956	7.60872	43.78956,7.60872	IT	Italy
+1475	Vercelli	vercelli	3164565	Piedmont	45.32163	8.41989	45.32163,8.41989	IT	Italy
+1476	verdict	verdict							
+1477	Verdun	verdun	2969958	Grand Est	49.16667	5.38333	49.16667,5.38333	FR	France
+1478	Vernay	vernes;vernay	3024094	Auvergne-Rhône-Alpes	45.99439	4.06635	45.99439,4.06635	FR	France
+1479	Verneuil-Sur-Avre	vernueil;verneuil-sur-avre	2969799	Normandy	48.73949	0.92731	48.73949,0.92731	FR	France
+1480	Verona	verona	3164527	Veneto	45.4299	10.98444	45.4299,10.98444	IT	Italy
+1481	Versaille	versaille;le bourg la royne	6525198	Île-de-France	48.8213	2.2926	48.8213,2.2926	FR	France
+1482	Vesoul	vesoul;vesou	2969562	Bourgogne-Franche-Comté	47.62604	6.14251	47.62604,6.14251	FR	France
+1483	Viareggio	reggio di toscana;viareggio	3164433	Tuscany	43.86693	10.2502	43.86693,10.2502	IT	Italy
+1484	Viborg	volburg;viborg;valburg in jutland;valburg	2610319	Central Jutland	56.45319	9.40201	56.45319,9.40201	DK	Denmark
+1485	Vic	vic	3106050	Catalonia	41.93012	2.25486	41.93012,2.25486	ES	Spain
+1486	Vicenza	vicenza	3164419	Veneto	45.54672	11.5475	45.54672,11.5475	IT	Italy
+1487	Vienna	vienna d austria;wein;vienna d'austria;wienne;ween;vienna;wien in austrige;wien;wyen;viena;wienn;wien in osterreich;weyn;weyn in austriche;wien in österreich	2761369	Vienna	48.20849	16.37208	48.20849,16.37208	AT	Austria
+1488	Vienne	vienne;vienna di francia	2969284	Auvergne-Rhône-Alpes	45.51667	4.86667	45.51667,4.86667	FR	France
+1489	Vierzon	vierzon	2969253	Centre-Val de Loire	47.23333	2.08333	47.23333,2.08333	FR	France
+1490	vilhouren	viluoerden;vilhouren							Germany
+1491	Villach	villach;vilach;villag	2762372	Carinthia	46.61028	13.85583	46.61028,13.85583	AT	Austria
+1492	Villalón de Campos	villalon campos;villalon;villalón de Campos	3105467	Castille and León	42.09994	-5.0344	42.09994,-5.0344	ES	Spain
+1493	Villanueva de la Fuente	villanueva alcaraz;villanueva;villanueva de la fuente	2509560	Castille-La Mancha	38.69463	-2.69637	38.69463,-2.69637	ES	Spain
+1494	Villanueva de los Infantes	villanueva de los infantes	3105218	Castille and León	41.70293	-4.48313	41.70293,-4.48313	ES	Spain
+1495	Villanueva los Infantes	villanueva los infantes;villa nueva los infantes;villa nueva;villa nova los infantes	2516449	Castille-La Mancha	38.73669	-3.01219	38.73669,-3.01219	ES	Spain
+1496	Villefranche	villefranche	2968766	Occitanie	43.42232	0.72763	43.42232,0.72763	FR	France
+1497	Villefranche-sur-Saone	ville franche;villefranche-sur-saone;villafranca	2968748	Auvergne-Rhône-Alpes	45.98333	4.71667	45.98333,4.71667	FR	France
+1498	Villeneuve	villeneuve;villeneusue	2658123	Vaud	46.39869	6.92654	46.39869,6.92654	CH	Switzerland
+1499	Villeneuve-le-Roi	villeneufe le roy;villeneuve-le-roi	2968546	Île-de-France	48.73684	2.40081	48.73684,2.40081	FR	France
+1500	Villers-Cotterêts	villers-cotterêts;villiers coste rez	2968405	Hauts-de-France	49.25311	3.09003	49.25311,3.09003	FR	France
+1501	Villing	villing	2968129	Grand Est	49.27962	6.63023	49.27962,6.63023	FR	France
+1502	Vilnius	vilna;wilden;littawen;vilnius;wilda;wildin;wilde;in die wilden;vilna in lithuän	593116	Vilnius	54.68916	25.2798	54.68916,25.2798	LT	Lithuania
+1503	Violès	violès;voles	2968005	Provence-Alpes-Côte d'Azur	44.16146	4.95329	44.16146,4.95329	FR	France
+1504	Vire	vire	2967972	Normandy	48.83333	-0.88333	48.83333,-0.88333	FR	France
+1505	Virgen de la Peña	la pena di francia;pigna francia;le pena francia;pena da santa maria;la pena santa maria francia;la pena francia;virgen de la peña	3104535	Aragon	42.7	-1	42.7,-1	ES	Spain
+1506	Viterbo	viterbo	3164039	Latium	42.41937	12.1056	42.41937,12.1056	IT	Italy
+1507	Vitoria-Gasteiz	vittoria;victoria;vitoria;vitoria-gasteiz	3104499	Basque Country	42.84998	-2.67268	42.84998,-2.67268	ES	Spain
+1508	Vitry-en-Perthois	vittray;vitray;vitry en pertois;vittry en pertois;pertois;vitry;vittry;vitry-en-perthois;vitry le francois	2967860	Grand Est	48.74768	4.62679	48.74768,4.62679	FR	France
+1509	Vivonne	vivonne	2967803	Nouvelle-Aquitaine	46.42953	0.26443	46.42953,0.26443	FR	France
+1510	Vlatten	vlatten	2817108	North Rhine-Westphalia	50.6498	6.54598	50.6498,6.54598	DE	Germany
+1511	Vnà	vnà;vnna	7670465	Grisons	46.84402	10.36483	46.84402,10.36483	CH	Switzerland
+1512	Voghera	voghera;vogera	3163995	Lombardy	44.99151	9.01175	44.99151,9.01175	IT	Italy
+1513	Voigtlaide	voitland;voigtlaide;voigtland	2816747	Saxony	50.78923	12.55584	50.78923,12.55584	DE	Germany
+1514	vorling	vorling							
+1515	Wageningen	wageningen;wageninge	2745088	Gelderland	51.97	5.66667	51.97,5.66667	NL	Netherlands
+1516	Waidhaus	waidhaus;wardhaus	2815317	Bavaria	49.64218	12.49523	49.64218,12.49523	DE	Germany
+1517	Warburg	wartborch;warburg	2814153	North Rhine-Westphalia	51.49011	9.14641	51.49011,9.14641	DE	Germany
+1518	Wardow	warzow;wardow	2814133	Mecklenburg-Vorpommern	53.93054	12.40818	53.93054,12.40818	DE	Germany
+1519	Warendorf	warendrop;warendorf	2814127	North Rhine-Westphalia	51.95109	7.98756	51.95109,7.98756	DE	Germany
+1520	Warsaw	Warsavia;Warsaw;warsaw;warschau;warsebau;vvarsavia in polonia;vvarsavia;Warsavia in Polonia	1702139	Mazovia	52.22977	21.01178	52.22977,21.01178	PL	Poland
+1521	wedman	wedman							Germany
+1522	Weimar	weymar;weimar	2812482	Thuringia	50.9803	11.32903	50.9803,11.32903	DE	Germany
+1523	Weinheim	weinheim;weinhem	2812174	Baden-Württemberg	49.54887	8.66697	49.54887,8.66697	DE	Germany
+1524	weislandt	weiland;weislandt							
+1525	Weissenburg in Bayern	weissenburg in bayern;weissenburg	2811909	Bavaria	49.03095	10.97221	49.03095,10.97221	DE	Germany
+1526	Weissenhorn	weyssenborn;weyssenhorne;weyseenhorn;weissenhorn	2811879	Bavaria	48.30501	10.16047	48.30501,10.16047	DE	Germany
+1527	Werden	werden	2810961	North Rhine-Westphalia	51.38829	7.00307	51.38829,7.00307	DE	Germany
+1528	werdole	werdole							
+1529	Werfen	werfen;werffen	2810909	North Rhine-Westphalia	52.1829	8.55406	52.1829,8.55406	DE	Germany
+1530	Werl	werl	2810878	North Rhine-Westphalia	51.55493	7.91403	51.55493,7.91403	DE	Germany
+1531	Werle	werle	2810869	Mecklenburg-Vorpommern	53.26294	11.67533	53.26294,11.67533	DE	Germany
+1532	Werne	werne	2810833	North Rhine-Westphalia	51.66446	7.63421	51.66446,7.63421	DE	Germany
+1533	werspurg	werspurg							Germany
+1534	Wesel	vesel;wesel;vvesel	2810678	North Rhine-Westphalia	51.6669	6.62037	51.6669,6.62037	DE	Germany
+1535	Westerwald	westerwaldt;westerwalt;westerwald	2810171	Lower Saxony	52.2484	9.2359	52.2484,9.2359	DE	Germany
+1536	Wetzlar	wetzlar;wesler	2809889	Hesse	50.56109	8.50495	50.56109,8.50495	DE	Germany
+1537	Wezel	wezel	2783745	Flanders	51.04646	4.91824	51.04646,4.91824	BE	Belgium
+1538	Wideck	wideck;windeck	3324467	Upper Austria	48.52444	13.53222	48.52444,13.53222	AT	Austria
+1539	Wiedenbrügge	wildebrugge;wiedenbrügge	2809605	Lower Saxony	52.42701	9.25907	52.42701,9.25907	DE	Germany
+1540	Wienerwald	wienerwald	2762383	Lower Austria	47.88333	16.33333	47.88333,16.33333	AT	Austria
+1541	Wienhausen	wentzheuse;wenzhausen;wentheusel	2809444	Lower Saxony	52.58021	10.18862	52.58021,10.18862	DE	Germany
+1542	Wiesensteig	wisenstaig;wiesensteig	2809214	Baden-Württemberg	48.56127	9.6254	48.56127,9.6254	DE	Germany
+1543	Willebroek	willebruck;willebroek	2783632	Flanders	51.06041	4.36019	51.06041,4.36019	BE	Belgium
+1544	Willich	witlich;willich	2808559	North Rhine-Westphalia	51.26371	6.54734	51.26371,6.54734	DE	Germany
+1545	wimpffen	wimpffen							
+1546	Winda	winada;winda	755625	Warmia-Masuria	54.16069	21.39402	54.16069,21.39402	PL	Poland
+1547	Winningen	winningen;winsingen	2807858	Saxony-Anhalt	51.82297	11.45028	51.82297,11.45028	DE	Germany
+1548	Winterberg	winterberg	2807788	North Rhine-Westphalia	51.19248	8.53468	51.19248,8.53468	DE	Germany
+1549	Winterthur	winterthur;vintimiglia	2657970	Zurich	47.50564	8.72413	47.50564,8.72413	CH	Switzerland
+1550	Wipperfeld	wipperferdt;wipperfeld	2807595	North Rhine-Westphalia	51.08859	7.32749	51.08859,7.32749	DE	Germany
+1551	Wipperfürth	wipperfürth;wipperfuerfe;wipperfurt	2807594	North Rhine-Westphalia	51.1161	7.39865	51.1161,7.39865	DE	Germany
+1552	Wisła	wisła;visca	3081874	Silesia	49.65629	18.8591	49.65629,18.8591	PL	Poland
+1553	Wismar	wismar;wißmar;wissmar;witzmar	2807465	Mecklenburg-Vorpommern	53.89314	11.45286	53.89314,11.45286	DE	Germany
+1554	Wissembourg	wissembourg;weisenburg	2967325	Grand Est	49.03708	7.94548	49.03708,7.94548	FR	France
+1555	Wittenberg	wittenberg;wittemberg;wirtenberg	7303020	Saxony-Anhalt	51.8661	12.64973	51.8661,12.64973	DE	Germany
+1556	Wittmund	wittmund;witmunde	2807218	Lower Saxony	53.57674	7.77839	53.57674,7.77839	DE	Germany
+1557	Wolfenbüttel	wolfenbüttel;wolfenbutel;wolfenbuttel;vvolfenbutel	2806914	Lower Saxony	52.16442	10.54095	52.16442,10.54095	DE	Germany
+1558	Wolgast	wolgast;wolgast in pommern	2806501	Mecklenburg-Vorpommern	54.05275	13.77201	54.05275,13.77201	DE	Germany
+1559	Worms	worms;wormbs;wombs	2806142	Rheinland-Pfalz	49.63278	8.35916	49.63278,8.35916	DE	Germany
+1560	Wrocław	proslauu;presslaw inn der schlesien;prozlau;preszlavv;wroclaw;praslauu nella sesia;preszlaw in the schlesy;breslavv;bresla;breslavv in silesia;prezlauu;croclaw in poln;prozlauu;prenzlau;proslauu nella sessia;croclaw;preszlauu;praslauu;preslaw;prezlaw in der schlesien;prezlau;breslau;prezlaw;croctaw in polen;breslaw;breßlau;preßlau;preslau;preslau in schlesien	3081368	Lower Silesia	51.1	17.03333	51.1,17.03333	PL	Poland
+1561	Würtemberg	würtemberg;wirtemberger lande;wurttemberg	7282788	Baden-Württemberg	48.56898	9.87707	48.56898,9.87707	DE	Germany
+1562	Wurzach	wurzach;wurtzach	2805627	Bavaria	47.99032	12.11303	47.99032,12.11303	DE	Germany
+1563	Wurzburg	wuerstburg;wyrtzburge;wirzburgt;vvirtzburg;wurzburg;wirtzburgt;wurtzburg;wuerzburg;wirzburg;wirkburgt;wurzurg;wirtzburg;würzburg;würtzburg	2805615	Bavaria	49.79391	9.95121	49.79391,9.95121	DE	Germany
+1564	Yainville	yainville;sainct nicolas;iainuille;sainct nicolas vers en iainville;jainville	3231446	Normandy	49.4543	0.80924	49.4543,0.80924	FR	France
+1565	York	yorck;york;yorcke	2633352	England	53.95763	-1.08271	53.95763,-1.08271	GB	United Kingdom
+1566	Ypres	ipri;ypres	2795100	Flanders	50.85114	2.88569	50.85114,2.88569	BE	Belgium
+1567	zactmar	zagmar;sactmar;zactmar							
+1568	Zagreb	zagabria	3186886	City of Zagreb	45.81444	15.97798	45.81444,15.97798	HR	Croatia
+1569	Zalaegerszeg	huxer;zalaegerszeg	3042638	Zala	46.84	16.84389	46.84,16.84389	HU	Hungary
+1570	Zamora	camora;zamora	3104342	Castille and León	41.50633	-5.74456	41.50633,-5.74456	ES	Spain
+1571	zanthen	zanthen							
+1572	Zaragoza	zaragoca;saragoca;caragoca;saragisse;saragosse;zaragoza;saragoza;saragozza;sarragosse;saragosa;sarragossa;sarragozza;saragozan;saragossa	3104324	Aragon	41.65606	-0.87734	41.65606,-0.87734	ES	Spain
+1573	Zarten	zarten;zanten	2805186	Baden-Württemberg	47.97778	7.94963	47.97778,7.94963	DE	Germany
+1574	Zeeland	zeeland;seelandt	2744011	Zeeland	51.41667	3.75	51.41667,3.75	NL	Netherlands
+1575	Zeil	zeil	2805008	Bavaria	50.00986	10.5947	50.00986,10.5947	DE	Germany
+1576	Zeitz	zeitz	2804922	Saxony-Anhalt	51.04962	12.1369	51.04962,12.1369	DE	Germany
+1577	Zell im Fichtelgebirge	cell;zell im fichtelgebirge	2804880	Bavaria	50.13532	11.82266	50.13532,11.82266	DE	Germany
+1578	Zerbst	zerbst	2804748	Saxony-Anhalt	51.9662	12.08517	51.9662,12.08517	DE	Germany
+1579	zu der fer	zu der fer							
+1580	zum Hof	zum hof							
+1581	Zurich	zurch;zurig;zurich;zurigo;zürich	2657896	Zurich	47.36667	8.55	47.36667,8.55	CH	Switzerland
+1582	Züsch	züsch;zulch	2803664	Rheinland-Pfalz	49.65	7	49.65,7	DE	Germany
+1583	Zutphen	zutphen;zurphe	2743608	Gelderland	52.13833	6.20139	52.13833,6.20139	NL	Netherlands
+1584	Zweibrücken	zwaypructen;zweybructen;zweybrucken;zweubrucken;zweybruck;zweibrücken;zweyybruck;zweybrücken	2803620	Rheinland-Pfalz	49.24686	7.36977	49.24686,7.36977	DE	Germany
+1585	Zwickau	zwicka;zuvickau;zwicta;zwickau	2803560	Saxony	50.72724	12.48839	50.72724,12.48839	DE	Germany
+1586	Zwolle	zwol;swol;zwolle;schwol;schwoll	2743477	Overijssel	52.5125	6.09444	52.5125,6.09444	NL	Netherlands
