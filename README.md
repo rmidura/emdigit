@@ -27,6 +27,10 @@ Ottavio Codogno, "Nuovo itinerario delle poste" (Milan: Girolamo Bordoni, 1608).
 
 The included data is available for use under the Creative Commons Attribution 4.0 license. You may use or transform the included materials with appropriate credit. 
 
+## Errata
+
+January 1, 2024: The anonymously authored itinerary _Poste diverse d'Italia, Alemagna, Spagna, e Francia_ which is available in digitized form from the Bavarian State Library and Google Books is most likely misdated. Rather than 1550, the itinerary was most likely produced around 1700. While labeled within this dataset as SA1550, it should be regarded instead as a later publication.
+
 ## Built With
 * R
 * Google Sheets
