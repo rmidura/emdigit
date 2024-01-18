@@ -20,9 +20,9 @@ CE1556B	La guide des chemins de France	Charles Estienne	Paris	French	Jean Ruelle
 CE1556C	La guide des chemins de France	Charles Estienne	Lyon	French	Benoît Rigaud	1556	VIAF116409342	Q538586			FALSE
 CE1558A	La guide des chemins pour aller et venir par tout le royaume de France	Charles Estienne	Lyon	French	Benoît Rigaud;Jean Saugrain	1558	VIAF116409342	Q538586	USTC 41564		FALSE
 CE1558B	La guide des chemins de France	Charles Estienne	Paris	French	Barbe Regnault	1558	VIAF116409342	Q538586	USTC 30273		FALSE
-CE1560	La guide des chemins de France reueue & augmentée pour la troisiesme fois	Charles Estienne	Paris	French	Etienne Groulleau;Esitenne Grouleau	1560	VIAF116409342	Q538586	USTC 37767		FALSE
+CE1560	La guide des chemins de France reueue & augmentée pour la troisiesme fois	Charles Estienne	Paris	French	Etienne Groulleau;Esitenne Grouleau	1560	VIAF116409342	Q538586	USTC 37767		TRUE
 CE1561	La guide des chemins de Francele tout reueuz & augmentez pour la quatrieme fois	Charles Estienne	Blois	French	Julien L'Angelier	1561	VIAF116409342	Q538586	USTC 83660		FALSE
-SAB1562	Le Poste, Necessarie A Corrieri & Viandanti, Per L'Italia Francia, Spagna, & Alemagna Con le Fiere che si fanno per il Mondo	Anonymous B	Brescia	Italian	Damiano Turlino;Ioanne Battista Bozola	1562					FALSE
+SAB1562	Le Poste, Necessarie A Corrieri & Viandanti, Per L'Italia Francia, Spagna, & Alemagna Con le Fiere che si fanno per il Mondo	Anonymous B	Brescia	Italian	Damiano Turlino;Ioanne Battista Bozola	1562					TRUE
 SAB1563A	Le Poste, Necessarie A Corrieri & Viandanti, Per L'Italia Francia, Spagna, & Alemagna Con le Fiere che si fanno per il Mondo	Anonymous B	Venice	Italian	Domenico Nicolini	1563					FALSE
 SAB1563B	Le Poste, Necessarie A Corrieri & Viandanti, Per L'Italia Francia, Spagna, & Alemagna Con le Fiere che si fanno per il Mondo	Anonymous B	Bologna	Italian	Pellegrino Bonardo	1563				837646408	FALSE
 GH1563	Itinerario delle poste per diverse parti del mondo	Giovanni da l'Herba	Rome	Italian	Valerico Dorico	1563	VIAF47104053		USTC 838111		TRUE
@@ -108,7 +108,7 @@ GK1599C	Eigentliche beschreibung, was durch gantz Welschland in einer jeden stat
 GK1599D	Eigentliche beschreibung, was durch gantz Welschland in einer jeden statt unnd ort	Georg Kranitz	Leipzig	German		1599	47823349		USTC 632242		FALSE
 AP1599	Le cose meravigliose dell'alma città di Roma	Andrea Palladio	Rome	Italian	Guglielmo Facciotti	1599	VIAF17227673	Q177692	USTC 807340		FALSE
 CE1600	La Grande Guide des chemins pour aller et venir par tout le Royaume de France, auec les noms des fleuues et riuieres qui courent parmy les dicts pays Augmenté du voyage de Saint-Jacques, de Rome, de Venise et de Hierusalem	Charles Estienne	Rouen	French	Thomas d'Are	1600	VIAF116409342	Q538586			FALSE
-GK1600A	Eigentliche beschreibung, was durch gantz Welschland in einer jeden statt unnd ort	Georg Kranitz	Cologne	German	Balthasar Clipeus	1600	47823349		USTC 632241		FALSE
+GK1600A	Eigentliche beschreibung, was durch gantz Welschland in einer jeden statt unnd ort	Georg Kranitz	Cologne	German	Balthasar Clipeus	1600	47823349		USTC 632241		TRUE
 GK1600B	Delitiae Italiae, Das ist: Eigentliche Beschreibung, was durch gantz Welschland in einer jeden Statt und Ort	Georg Kranitz	Cologne	German	Franz Schnellboltz	1600	47823349			635328077	FALSE
 GK1600C	Eigentliche beschreibung, was durch gantz Welschland in einer jeden statt unnd ort	Georg Kranitz	Leipzig	German	Franz Schnellboltz	1600	47823349		USTC 632243		FALSE
 AP1600A	Le cose maravigliose dell'alma città di Roma con le poste d'Italia di nuovo corretto & ampliato	Flaminio Primo Colle	Perugia	Italian	Pietro Giacomo Petrucci	1600	VIAF17227673	Q177692	USTC 807444		FALSE
@@ -145,7 +145,7 @@ GK1614A	Delitiae Italiae, Das ist: Eigentliche Beschreibung, was durch gantz Wel
 GK1614B	Delitiae Italiae, Das ist: Eigentliche Beschreibung, was durch gantz Welschland in einer jeden Statt und Ort	Georg Kranitz	Leipzig	German	Heirs of Valentin am Ende	1614	47823349		USTC 2107953		FALSE
 AP1614	Le cose maravigliose dell'alma città di Roma	Andrea Palladio	Rome	Italian	Pietro Discepolo;Mauritio Bona	1614	VIAF17227673	Q177692	USTC 4026509		FALSE
 TT1615A	Sommaire description de la France	Théodore Turquet de Mayerne	Rouen	French	Claude Le Villain	1615	95152542	Q19032157	USTC 6812314		FALSE
-TT1615B	Sommaire description de la France, Allemagne, Italie & Espagne	Théodore Turquet de Mayerne	Cologne	German	Jacob Stoer	1615	95152542	Q19032157		492288654	FALSE
+TT1615B	Sommaire description de la France, Allemagne, Italie & Espagne	Théodore Turquet de Mayerne	Cologne	German	Jacob Stoer	1615	95152542	Q19032157		492288654	TRUE
 FS1615	Itinerario, overo nova descrittione de' viaggi principali d'Italia	Franciscus Schottus	Vicenza	Italian	Francesco Bolzetta	1615		Q15675601	USTC 4024785		TRUE
 OC1616	Nuouo itinerario delle poste per tutto il mondo	Ottavio Codogno	Milan	Italian	Girolamo Bordoni	1616	17563002	Q7109117	USTC 4025209		TRUE
 GK1616	Paradisus Deliciarum Italiae: Das ist, Eygentliche Beschreibung, Was durch gantz Italien in allen Stett und Ortten denckwürdiges zu sehen ist : Denen so gemelte Landschafft zu besehen  ; Darbey gefügt die Raiß nach Rom: Sampt einem Bericht von der Münt	Georg Kranitz	Cologne	German	Konrad Bütgen	1616	47823349		USTC 2043310		FALSE
@@ -165,7 +165,7 @@ CE1623	La Grande Guide des chemins pour aller et venir par tout le Royaume de Fr
 GH1624	Poste per diverse parti del mondo	Giovanni da l'Herba	Rome	Italian	Guglielmo Facciotti	1624	VIAF47104053		USTC 4004835		FALSE
 TT1624	Sommaire description de la France, Allemagne, Italie et Espagne, avec le guide des chemins et des postes	Théodore Turquet de Mayerne	Rouen	French	Claude Le Villain	1624	95152542	Q19032157	USTC 6814851		FALSE
 GK1625	Paradisus deliciarum Italiae: Dass ist, Eygentliche Beschreibung, Was durch gantz Italian in allen Stett und Ortten denckwürdig zu sehen ist Mit beygefügter Reiss, Bericht der Müntz, und Täglichem Colloquio	Georg Kranitz	Cologne	German	Konrad Bütgen	1625	47823349		USTC 2166281	562944563	TRUE
-GMA1625A	Wegbüchlin der fürnemesten Wege und Gebreüchlichesten strasssen	Georg Mayr	Augsburg	German		1625	32051795			166121710	FALSE
+GMA1625A	Wegbüchlin der fürnemesten Wege und Gebreüchlichesten strasssen	Georg Mayr	Augsburg	German		1625	32051795			166121710	TRUE
 GMA1625B	Wegbüchlin der fürnemesten Wege und Gebreüchlichesten strasssen	Georg Mayr	Dillingen	German	Erhard Lochner	1625	32051795		USTC 2111097		FALSE
 AP1625A	Le cose meravigliose dell'alma città di Romacon le principali poste d'Italia	Andrea Palladio	Rome	Italian	Francesco Cavalli	1625	VIAF17227673	Q177692			FALSE
 AP1625B	Le cose maravigliose dell'alma città di Roma	Andrea Palladio	Rome	Italian	Giacomo Mascardi;Mauritio Bona	1625	VIAF17227673	Q177692	USTC 4043022		FALSE
@@ -188,7 +188,7 @@ FS1638	Itinerario, overo nova descrittione de' viaggi principali d'Italia	Franci
 GH1639	Poste per diverse parti del mondo	Giovanni da l'Herba	Rome	Italian	Antonio Landini	1639	VIAF47104053		USTC 4013419		FALSE
 AP1639	Le cose meravigliose dell'alma città di Romacon le principali poste d'Italia	Andrea Palladio	Rome	Italian	Antonio Landini	1639	VIAF17227673	Q177692	USTC 4047079		FALSE
 AP1640	Le cose maravigliose di Roma	Anonymous D	Rome	Italian	Guglielmo Facciotti	1640	VIAF17227673	Q177692			TRUE
-TT1640	Sommaire description de la France	Théodore Turquet de Mayerne	Rouen	French	Claude Le Villain	1640	95152542	Q19032157	USTC 6811595		TRUE
+TT1640	Sommaire description de la France	Théodore Turquet de Mayerne	Rouen	French	Claude Le Villain	1640	95152542	Q19032157	USTC 6811595		FALSE
 JW1641	The European Mercury Describing the Highwayes and Stages from Place to Place	J.W. Gent	London	English	John Raworth;Henry Twyford	1641	2817651	Q6144967	USTC 3052337		TRUE
 TT1642	Sommaire description de la France	Théodore Turquet de Mayerne	Rouen	French	Clement Malassis	1642	95152542	Q19032157	USTC 6811995		FALSE
 AP1642	Le cose maravigliose dell'alma città di Romacon le principali poste d'Italia	Andrea Palladio	Rome	Italian	[Mauritio?] Bona	1642	VIAF17227673	Q177692		887015766	TRUE
@@ -245,7 +245,7 @@ GS1679B	Le voyage de France, dressé pour l'instruction & commodité des Franc
 GS1679C	Le voyage de France, dressé pour l'instruction & commodité des François & Estrangers : Avec une description des Chemins, pour aller & venir par tout le Monde	Gilbert-Saulnier du Verdier	Lyon	French	Esprit Vitalis	1679	VIAF12471475	Q19560568		991594030	FALSE
 GS1679D	Le voyage de France, dressé pour l'instruction & commodité des François & Estrangers : Avec une description des Chemins, pour aller & venir par tout le Monde	Gilbert-Saulnier du Verdier	Lyon	French	A. Moulin	1679	VIAF12471475	Q19560568		877134544	FALSE
 CE1679	La Grande Guide des chemins pour aller et venir par tout le Royaume de France, auec les noms des fleuues et riuieres qui courent parmy les dicts pays Augmenté du voyage de Saint-Jacques, de Rome, de Venise et de Hierusalem	Charles Estienne	Paris	French	Petri di Mey	1679	VIAF116409342	Q538586			TRUE
-JE1680	Richtiger Wegweiser, der fürnehmsten Wege und gebräuchlichsten Strassen, durch gantz Teutschland, wie auch andere angräntzende fürnehmste Oerter	Johann Ludolf Ebel	Augsburg	German	Leonhard Zacharias	1680	15949210			258183965	FALSE
+JE1680	Richtiger Wegweiser, der fürnehmsten Wege und gebräuchlichsten Strassen, durch gantz Teutschland, wie auch andere angräntzende fürnehmste Oerter	Johann Ludolf Ebel	Augsburg	German	Leonhard Zacharias	1680	15949210			258183965	TRUE
 ER1680	Richtiger Wegweiser, durch Teutschland, wie auch andern angräntzenden Ländern	Eberhard Rudolph Roth	Ulm	German	Matthäus Wagner	1680				1034025556	FALSE
 FS1680	Itinerario, overo nova descrittione de' viaggi principali d'Italia	Franciscus Schottus	Padua	Italian		1680		Q15675601			FALSE
 GM1682A	Il burattino veridico, overo, Instruzione generale per chi viaggia	Giuseppe Miselli	Rome	Italian	Michel'Ercole	1682				954852482	FALSE
@@ -290,7 +290,7 @@ GV1720	Il viaggio in pratica	Giovan Maria Vidari	Naples	Italian	Francesco Riccia
 PL1724	Die vornehmsten Europäischen Reisen	Peter Ambrosius Lohmann	Hamburg	German	Johann Cristoph Kißner;J.C. Kissner	1724		Q90382406		163298171	FALSE
 GH1725	Poste per diverse parti del mondo	Giovanni da l'Herba	Lucca	Italian		1725	VIAF47104053				FALSE
 AP1725	Les merveilles de la ville de Rome adioute la Guide des chemins de Rome aux principales Ville d'Italie le voyage de S Iacques en Galice	Andrea Palladio	Rome	French	Bernabò;Barnabo	1725	VIAF17227673	Q177692		28786133	FALSE
-PL1729A	Die vornehmsten Europäischen Reisen	Peter Ambrosius Lohmann	Hamburg	German	Widow of Benjamin Schiller	1729		Q90382406			FALSE
+PL1729A	Die vornehmsten Europäischen Reisen	Peter Ambrosius Lohmann	Hamburg	German	Widow of Benjamin Schiller	1729		Q90382406			TRUE
 PL1729B	Die vornehmsten Europäischen Reisen	Peter Ambrosius Lohmann	Hamburg	German	Johann Cristoph Kißner;J.C. Kissner	1729		Q90382406		457960895	FALSE
 GV1730	Il viaggio in pratica	Giovan Maria Vidari	Venice	Italian	Luigi Pavino	1730					FALSE
 AP1730	Les merveilles de la ville de Rome adioute la Guide des chemins de Rome aux principales Ville d'Italie le voyage de S Iacques en Galice	Andrea Palladio	Rouen	French	Jean Oursel l'Aîné	1730	VIAF17227673	Q177692		921513699	FALSE
@@ -300,4 +300,5 @@ PL1741	Die vornehmsten Europäischen Reisen	Peter Ambrosius Lohmann	Hamburg	Ger
 PC1741	Itinerario de las correras de posta de dentro, y fuera del Reyno: que contiene también  las Leyes, y priuilegios con que se gobiernan en España las Postas	Pedro Rodriguez Campomanes	Madrid	Spanish	Antonio Pérez de Soto	1741		Q19471481		319867432	FALSE
 GV1742	Il viaggio in pratica	Giovan Maria Vidari	Venice	Italian	Luigi Pavino	1742					FALSE
 FS1747	Itinerario d'Italia	Franciscus Schottus	Rome	Italian	Fausto Amadei	1747		Q15675601		78710314	TRUE
+FS1761	Itinerario d'Italia	Franciscus Schottus	Rome	Italian	Fausto Amadei	1761					TRUE
 GHSD	Poste per diverse parti del mondo	Giovanni da l'Herba	Rome	Italian	Casaletti	SD	VIAF47104053			258223884	FALSE
